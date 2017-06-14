@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexhookabove.case" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="hookabovecomb.case" xOffset="301" yOffset="176"/>
+    <component base="circumflexcomb.case" xOffset="250"/>
+    <contour>
+      <point x="252.0" y="710.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

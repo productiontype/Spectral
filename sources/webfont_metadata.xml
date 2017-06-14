@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata version="1.0">
+	<credits>
+		<credit name="Jean-Baptiste Levée" url="http://www.productiontype.com/" role="Design"/>
+		<credit name="Quentin Schmerber" url="http://www.productiontype.com/" role="Design"/>
+		<credit name="Dorine Sauzet" url="http://www.productiontype.com/" role="Design"/>
+		<credit name="Christoph Koeberlin" url="http://christoph.koe.berlin/" role="Production"/>
+	</credits>
+	<license url="http://scripts.sil.org/OFL">
+		<text lang="en">
+			This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+		</text>
+	</license>
+	<copyright>
+		<text lang="en">Copyright 2017 The Spectral Project Authors (http://github.com/productiontype/spectral)</text>
+	</copyright>
+	<trademark>
+		<text lang="en">Spectral is a registered trademark of Production Systems SAS.</text>
+	</trademark>
+</metadata>

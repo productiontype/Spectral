@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.sinf" format="1">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="155" y="9" type="line"/>
+      <point x="112" y="25" type="line"/>
+      <point x="176" y="385" type="line"/>
+      <point x="168" y="385" type="line"/>
+      <point x="27" y="301" type="line"/>
+      <point x="24" y="284" type="line"/>
+      <point x="131" y="341" type="line"/>
+      <point x="75" y="25" type="line"/>
+      <point x="22" y="9" type="line"/>
+    </contour>
+  </outline>
+</glyph>

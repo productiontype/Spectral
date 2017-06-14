@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sdotbelowdotaccent.sc" format="1">
+  <advance width="432"/>
+  <note>
+  </note>
+  <outline>
+    <component base="s.sc"/>
+    <component base="dotaccentcomb" xOffset="295.0" yOffset="105.0"/>
+    <component base="dotbelowcomb" xOffset="132.0"/>
+  </outline>
+</glyph>

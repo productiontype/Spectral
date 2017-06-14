@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Spectral" filename="spectral-xlight.ufo" stylename="ExtraLight">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Spectral" filename="spectral-regular.ufo" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+			<lib copy="1" />
+            <location>
+                <dimension name="weight" xvalue="440" />
+            </location>
+        </source>
+        <source familyname="Spectral" filename="spectral-xbold.ufo" stylename="ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Spectral" filename="instances/spectral-extralight.ufo" postscriptfontname="Spectral-ExtraLight" stylemapfamilyname="Spectral ExtraLight" stylemapstylename="regular" stylename="ExtraLight">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-light.ufo" postscriptfontname="Spectral-Light" stylemapfamilyname="Spectral Light" stylemapstylename="regular" stylename="Light">
+            <location>
+                <dimension name="weight" xvalue="260" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-regular.ufo" postscriptfontname="Spectral-Regular" stylemapfamilyname="Spectral" stylemapstylename="regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="440" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-medium.ufo" postscriptfontname="Spectral-Medium" stylemapfamilyname="Spectral Medium" stylemapstylename="regular" stylename="Medium">
+            <location>
+                <dimension name="weight" xvalue="520" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-semibold.ufo" postscriptfontname="Spectral-SemiBold" stylemapfamilyname="Spectral SemiBold" stylemapstylename="regular" stylename="SemiBold">
+            <location>
+                <dimension name="weight" xvalue="640" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-bold.ufo" postscriptfontname="Spectral-Bold" stylemapfamilyname="Spectral" stylemapstylename="bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="780" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Spectral" filename="instances/spectral-extrabold.ufo" postscriptfontname="Spectral-ExtraBold" stylemapfamilyname="Spectral ExtraBold" stylemapstylename="regular" stylename="ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.sc" format="1">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="45" y="-147" type="curve" smooth="yes"/>
+      <point x="79" y="-147"/>
+      <point x="99" y="-132"/>
+      <point x="142" y="-85" type="curve" smooth="yes"/>
+      <point x="183" y="-41"/>
+      <point x="214" y="50"/>
+      <point x="214" y="188" type="curve" smooth="yes"/>
+      <point x="214" y="511" type="line"/>
+      <point x="283" y="545" type="line"/>
+      <point x="283" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="545" type="line"/>
+      <point x="129" y="511" type="line"/>
+      <point x="129" y="52" type="line" smooth="yes"/>
+      <point x="129" y="-61"/>
+      <point x="108" y="-81"/>
+      <point x="69" y="-81" type="curve" smooth="yes"/>
+      <point x="55" y="-81"/>
+      <point x="46" y="-78"/>
+      <point x="28" y="-73" type="curve"/>
+      <point x="22" y="-73" type="line"/>
+      <point x="17" y="-102"/>
+      <point x="13" y="-118"/>
+      <point x="13" y="-120" type="curve" smooth="yes"/>
+      <point x="13" y="-141"/>
+      <point x="29" y="-147"/>
+    </contour>
+    <contour>
+      <point x="161" y="615" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

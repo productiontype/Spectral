@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.sups" format="1">
+  <advance width="306"/>
+  <outline>
+    <component base="five.sinf" yOffset="355"/>
+  </outline>
+</glyph>

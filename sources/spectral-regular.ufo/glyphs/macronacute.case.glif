@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacute.case" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="macroncomb.case" xOffset="250"/>
+    <component base="acutecomb.case" xOffset="328" yOffset="152"/>
+    <contour>
+      <point x="250" y="710" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

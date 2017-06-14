@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveacute.case" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="250"/>
+    <component base="acutecomb.case" xOffset="308" yOffset="112"/>
+    <contour>
+      <point x="250.0" y="710.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

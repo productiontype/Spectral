@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="1">
+  <advance width="709"/>
+  <unicode hex="1EB6"/>
+  <note>
+  </note>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb.case" xOffset="352.0"/>
+    <component base="dotbelowcomb.case" xOffset="341.0"/>
+  </outline>
+</glyph>

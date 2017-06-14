@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresismacron" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="250"/>
+    <component base="macroncomb.case" xOffset="280"/>
+    <contour>
+      <point x="233" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

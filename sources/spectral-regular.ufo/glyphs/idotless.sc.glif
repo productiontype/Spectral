@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless.sc" format="1">
+  <advance width="359"/>
+  <outline>
+    <component base="i.sc"/>
+    <contour>
+      <point x="180" y="615" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="180" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="196" y="0" type="move" name="right"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacute" format="1">
+  <advance width="500"/>
+  <unicode hex="1FEE"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="250"/>
+    <component base="acutecomb.case" xOffset="328"/>
+    <contour>
+      <point x="250" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

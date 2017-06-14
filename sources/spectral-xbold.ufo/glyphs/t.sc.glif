@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="643"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="508" y="16" type="line"/>
+      <point x="414" y="49" type="line"/>
+      <point x="414" y="508" type="line"/>
+      <point x="518" y="508" type="line"/>
+      <point x="598" y="356" type="line"/>
+      <point x="613" y="356" type="line"/>
+      <point x="613" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="356" type="line"/>
+      <point x="46" y="356" type="line"/>
+      <point x="125" y="508" type="line"/>
+      <point x="229" y="508" type="line"/>
+      <point x="229" y="49" type="line"/>
+      <point x="135" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="615" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="322" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

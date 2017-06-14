@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d.sc" format="1">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="291" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="544" type="line"/>
+      <point x="106" y="511" type="line"/>
+      <point x="106" y="49" type="line"/>
+      <point x="30" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="0" type="line" smooth="yes"/>
+      <point x="559" y="0"/>
+      <point x="700" y="129"/>
+      <point x="700" y="306" type="curve" smooth="yes"/>
+      <point x="700.0" y="451.42745098"/>
+      <point x="580.0" y="560"/>
+      <point x="370" y="560" type="curve" smooth="yes"/>
+      <point x="222" y="560" type="line"/>
+      <point x="222" y="508" type="line"/>
+      <point x="301" y="508" type="line" smooth="yes"/>
+      <point x="441.0" y="508"/>
+      <point x="509.0" y="424.265486725"/>
+      <point x="509" y="280" type="curve" smooth="yes"/>
+      <point x="509.0" y="136.106666667"/>
+      <point x="441.0" y="52"/>
+      <point x="314" y="52" type="curve" smooth="yes"/>
+      <point x="246" y="52" type="line"/>
+      <point x="246" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="615" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="366" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

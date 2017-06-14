@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute.sc" format="1">
+  <advance width="660"/>
+  <note>
+  </note>
+  <outline>
+    <component base="a.sc"/>
+    <component base="ringcomb" xOffset="327.0" yOffset="105.0"/>
+    <component base="acutecomb" xOffset="412.0" yOffset="328.0"/>
+  </outline>
+</glyph>

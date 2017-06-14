@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="515"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="475" y="171" type="line"/>
+      <point x="454" y="171" type="line"/>
+      <point x="385" y="8" type="line"/>
+      <point x="449" y="49" type="line"/>
+      <point x="235" y="49" type="line"/>
+      <point x="235" y="7" type="line"/>
+      <point x="467" y="439" type="line"/>
+      <point x="467" y="460" type="line"/>
+      <point x="133" y="460" type="line" smooth="yes"/>
+      <point x="105" y="460"/>
+      <point x="75" y="465"/>
+      <point x="56" y="470" type="curve"/>
+      <point x="51" y="470" type="line"/>
+      <point x="40" y="296" type="line"/>
+      <point x="61" y="296" type="line"/>
+      <point x="141" y="450" type="line"/>
+      <point x="76" y="411" type="line"/>
+      <point x="273" y="411" type="line"/>
+      <point x="273" y="453" type="line"/>
+      <point x="41" y="21" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.0" y="510.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="267.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

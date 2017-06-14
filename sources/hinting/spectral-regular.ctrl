@@ -1,0 +1,9 @@
+uni0032 touch 29-32 yshift -0.5 @16-18
+uni0069 touch 0-11 yshift 1.0 @21-22,30
+uni0069 touch 0-11 yshift -1.0 @27-29
+uni0041 touch 11-12 yshift 0.375 @21-35
+uni0045 touch 19-20 yshift -0.375 @21-35
+uni004C touch 9-10 yshift -0.375 @21-35
+uni005A touch 9-10 yshift -0.375 @21-35
+uni0036 touch 5-8 yshift -1.0 @17-19
+uni0039 touch 0-2,17 yshift 1.0 @17-19

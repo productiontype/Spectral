@@ -1,0 +1,55 @@
+Spectral fonts build notes
+--------------------------------------------------------------------------------
+
+0. Requirements
+
+- fontbakery: https://github.com/googlefonts/fontbakery
+- fontmake: https://github.com/googlei18n/fontmake
+- fonttools: https://github.com/fonttools/fonttools
+- sfnt2woff-zopfli: https://github.com/bramstein/sfnt2woff-zopfli
+- ttfautohint: https://www.freetype.org/ttfautohint/
+- woff2_compress: https://github.com/google/woff2
+- https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze
+
+--------------------------------------------------------------------------------
+
+1. Interpolate instances and build TTF files
+   
+$ cd sources
+$ bash generate.sh
+
+--------------------------------------------------------------------------------
+
+2. Finish TTFs
+   
+$ cd instance_ttf
+$ bash post_generate_ttf.sh
+
+--------------------------------------------------------------------------------
+
+3. Copy and finish TTFs for web use
+
+$ cd my/webfonts-folder
+$ bash post_generate_web.sh
+
+--------------------------------------------------------------------------------
+
+4. Finish TTFs for desktop use
+
+$ cd instance_ttf
+$ bash post_generate_desktop.sh
+
+--------------------------------------------------------------------------------
+
+5. Create webfonts
+   
+$ cd my/webfonts-folder
+$ bash generate_webfonts.sh
+
+--------------------------------------------------------------------------------
+
+6. Create SC family
+
+$ cd my/sc-folder
+$ bash post_generate_sc_family.sh
+

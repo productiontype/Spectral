@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute.case" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="113" y="710" type="line"/>
+      <point x="123" y="710" type="line"/>
+      <point x="280" y="821" type="line"/>
+      <point x="253" y="821" type="line"/>
+      <point x="360" y="710" type="line"/>
+      <point x="370" y="710" type="line"/>
+      <point x="282" y="862" type="line"/>
+      <point x="265" y="862" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="805" type="line"/>
+      <point x="378" y="805" type="line"/>
+      <point x="459" y="898" type="line" smooth="yes"/>
+      <point x="475" y="917"/>
+      <point x="487" y="928"/>
+      <point x="490" y="948" type="curve"/>
+      <point x="442" y="948" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="710" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

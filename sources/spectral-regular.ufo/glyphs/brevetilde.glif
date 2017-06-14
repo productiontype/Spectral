@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevetilde" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="brevecomb" xOffset="250"/>
+    <component base="tildecomb.case" xOffset="250"/>
+    <contour>
+      <point x="250" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

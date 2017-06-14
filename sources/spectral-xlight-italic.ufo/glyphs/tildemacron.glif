@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildemacron" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="tildecomb" xOffset="250"/>
+    <component base="macroncomb.case" xOffset="282"/>
+    <contour>
+      <point x="232" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

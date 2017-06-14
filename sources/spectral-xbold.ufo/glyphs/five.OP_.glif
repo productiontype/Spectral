@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.OP" format="1">
+  <advance width="543.0"/>
+  <outline>
+    <component base="five.OT" xOffset="-20"/>
+  </outline>
+</glyph>

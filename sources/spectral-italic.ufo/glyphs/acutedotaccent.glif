@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutedotaccent" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="dotaccentcomb.case" xOffset="287"/>
+    <component base="acutecomb.case" xOffset="273" yOffset="-180"/>
+    <contour>
+      <point x="238" y="510" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

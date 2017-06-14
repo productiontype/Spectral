@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checkedbox" format="1">
+  <advance width="800"/>
+  <unicode hex="2611"/>
+  <outline>
+    <contour>
+      <point x="102" y="7" type="line"/>
+      <point x="102" y="593" type="line"/>
+      <point x="698" y="593" type="line"/>
+      <point x="698" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="-37" type="line"/>
+      <point x="745" y="-37" type="line"/>
+      <point x="745" y="637" type="line"/>
+      <point x="55" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="419" type="line"/>
+      <point x="272" y="307"/>
+      <point x="327" y="186"/>
+      <point x="376" y="67" type="curve"/>
+      <point x="421" y="71" type="line"/>
+      <point x="508" y="338"/>
+      <point x="610" y="601"/>
+      <point x="733" y="854" type="curve"/>
+      <point x="694" y="872" type="line"/>
+      <point x="571" y="628"/>
+      <point x="458" y="382"/>
+      <point x="382" y="124" type="curve"/>
+      <point x="419" y="134" type="line"/>
+      <point x="380" y="248"/>
+      <point x="331" y="354"/>
+      <point x="274" y="460" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

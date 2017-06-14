@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="505"/>
+  <outline>
+    <contour>
+      <point x="-30" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="470" y="208" type="line"/>
+      <point x="454" y="208" type="line"/>
+      <point x="344" y="55" type="line"/>
+      <point x="214" y="55" type="line"/>
+      <point x="292" y="502" type="line"/>
+      <point x="376" y="544" type="line"/>
+      <point x="378" y="560" type="line"/>
+      <point x="69" y="560" type="line"/>
+      <point x="66" y="544" type="line"/>
+      <point x="126" y="502" type="line"/>
+      <point x="49" y="58" type="line"/>
+      <point x="-27" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="634" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="461" y="560" type="move" name="right"/>
+    </contour>
+    <contour>
+      <point x="230" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="427" y="315" type="move" name="mid"/>
+    </contour>
+  </outline>
+</glyph>

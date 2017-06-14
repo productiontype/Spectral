@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="827"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="16" type="line"/>
+      <point x="189" y="58" type="line"/>
+      <point x="189" y="493" type="line"/>
+      <point x="150" y="493" type="line"/>
+      <point x="631" y="-5" type="line"/>
+      <point x="710" y="-5" type="line"/>
+      <point x="710" y="602" type="line"/>
+      <point x="797" y="644" type="line"/>
+      <point x="797" y="660" type="line"/>
+      <point x="517" y="660" type="line"/>
+      <point x="517" y="644" type="line"/>
+      <point x="640" y="602" type="line"/>
+      <point x="640" y="187" type="line"/>
+      <point x="698" y="187" type="line"/>
+      <point x="247" y="660" type="line"/>
+      <point x="30" y="660" type="line"/>
+      <point x="30" y="644" type="line"/>
+      <point x="119" y="602" type="line"/>
+      <point x="119" y="58" type="line"/>
+      <point x="30" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="414" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="415" y="710" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

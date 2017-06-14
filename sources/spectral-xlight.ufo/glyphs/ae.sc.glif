@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="1">
+  <advance width="818"/>
+  <outline>
+    <contour>
+      <point x="33" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="25" type="line"/>
+      <point x="119" y="36" type="line"/>
+      <point x="117" y="23" type="line"/>
+      <point x="420" y="543" type="line"/>
+      <point x="400" y="543" type="line"/>
+      <point x="400" y="40" type="line"/>
+      <point x="332" y="25" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="453" y="560" type="line"/>
+      <point x="393" y="560" type="line"/>
+      <point x="76" y="24" type="line"/>
+      <point x="95" y="38" type="line"/>
+      <point x="33" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="212" y="211" type="line"/>
+      <point x="424" y="211" type="line"/>
+      <point x="424" y="242" type="line"/>
+      <point x="212" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="703" y="422" type="line"/>
+      <point x="724" y="422" type="line"/>
+      <point x="724" y="560" type="line"/>
+      <point x="425" y="560" type="line"/>
+      <point x="425" y="527" type="line"/>
+      <point x="670" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="632" y="206" type="line"/>
+      <point x="652" y="206" type="line"/>
+      <point x="652" y="376" type="line"/>
+      <point x="632" y="376" type="line"/>
+      <point x="613" y="306" type="line"/>
+      <point x="425" y="306" type="line"/>
+      <point x="425" y="274" type="line"/>
+      <point x="613" y="274" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="0" type="line"/>
+      <point x="748" y="146" type="line"/>
+      <point x="728" y="146" type="line"/>
+      <point x="694" y="33" type="line"/>
+      <point x="425" y="33" type="line"/>
+      <point x="425" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="615" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

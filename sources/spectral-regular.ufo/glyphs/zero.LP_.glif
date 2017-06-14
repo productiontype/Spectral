@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.LP" format="1">
+  <advance width="554"/>
+  <outline>
+    <component base="zero" xOffset="27"/>
+  </outline>
+</glyph>

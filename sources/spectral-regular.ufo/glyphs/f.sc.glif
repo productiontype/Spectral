@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.sc" format="1">
+  <advance width="561"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="305" y="16" type="line"/>
+      <point x="222" y="49" type="line"/>
+      <point x="222" y="560" type="line"/>
+      <point x="66" y="560" type="line"/>
+      <point x="66" y="544" type="line"/>
+      <point x="137" y="511" type="line"/>
+      <point x="137" y="49" type="line"/>
+      <point x="65" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="198" type="line"/>
+      <point x="418" y="198" type="line"/>
+      <point x="418" y="383" type="line"/>
+      <point x="402" y="383" type="line"/>
+      <point x="372" y="315" type="line"/>
+      <point x="175" y="315" type="line"/>
+      <point x="175" y="265" type="line"/>
+      <point x="372" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="475" y="418" type="line"/>
+      <point x="491" y="418" type="line"/>
+      <point x="491" y="560" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="175" y="509" type="line"/>
+      <point x="430" y="509" type="line"/>
+    </contour>
+  </outline>
+</glyph>

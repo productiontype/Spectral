@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.superior" format="1">
+  <advance width="252"/>
+  <outline>
+    <contour>
+      <point x="117" y="505" type="line"/>
+      <point x="129" y="505" type="line"/>
+      <point x="154" y="558" type="line"/>
+      <point x="154" y="579" type="line"/>
+      <point x="144" y="579" type="line"/>
+      <point x="86" y="713" type="line"/>
+      <point x="86" y="716" type="line"/>
+      <point x="125" y="732" type="line"/>
+      <point x="125" y="740" type="line"/>
+      <point x="-16" y="740" type="line"/>
+      <point x="-16" y="732" type="line"/>
+      <point x="18" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="505" type="line"/>
+      <point x="231" y="713" type="line"/>
+      <point x="269" y="732" type="line"/>
+      <point x="269" y="740" type="line"/>
+      <point x="165" y="740" type="line"/>
+      <point x="165" y="732" type="line"/>
+      <point x="200" y="713" type="line"/>
+      <point x="200" y="710" type="line"/>
+      <point x="123" y="525" type="line"/>
+      <point x="123" y="505" type="line"/>
+    </contour>
+  </outline>
+</glyph>

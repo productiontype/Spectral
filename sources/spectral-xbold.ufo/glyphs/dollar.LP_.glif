@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.LP" format="1">
+  <advance width="548"/>
+  <outline>
+    <component base="dollar" xOffset="-32"/>
+  </outline>
+</glyph>
