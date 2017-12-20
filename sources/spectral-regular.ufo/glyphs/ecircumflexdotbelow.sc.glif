@@ -5,7 +5,7 @@
   </note>
   <outline>
     <component base="e.sc"/>
-    <component base="circumflexcomb" xOffset="301.0" yOffset="105.0"/>
+    <component base="circumflexcomb" xOffset="301" yOffset="105"/>
     <component base="dotbelowcomb" xOffset="314.0"/>
   </outline>
 </glyph>

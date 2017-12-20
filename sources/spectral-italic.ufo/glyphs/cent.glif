@@ -41,10 +41,10 @@
       <point x="138" y="95"/>
     </contour>
     <contour>
-      <point x="127" y="26" type="line"/>
+      <point x="131" y="26" type="line"/>
       <point x="167" y="26" type="line"/>
       <point x="411" y="635" type="line"/>
-      <point x="371" y="635" type="line"/>
+      <point x="375" y="635" type="line"/>
     </contour>
   </outline>
 </glyph>

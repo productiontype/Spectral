@@ -41,8 +41,8 @@
     </contour>
     <contour>
       <point x="169" y="-39" type="line"/>
-      <point x="215" y="-39" type="line"/>
-      <point x="365" y="570" type="line"/>
+      <point x="206" y="-39" type="line"/>
+      <point x="356" y="570" type="line"/>
       <point x="319" y="570" type="line"/>
     </contour>
   </outline>

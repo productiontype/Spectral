@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04D9.sc" format="1">
+  <advance width="605.0"/>
+  <outline>
+    <component base="schwa.sc" xOffset="10"/>
+  </outline>
+</glyph>

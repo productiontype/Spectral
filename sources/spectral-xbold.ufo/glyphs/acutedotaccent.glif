@@ -3,9 +3,72 @@
   <advance width="500"/>
   <outline>
     <component base="acutecomb.case" xOffset="250" yOffset="-180"/>
-    <component base="dotaccentcomb.case" xOffset="251" yOffset="10"/>
+    <component base="dotaccentcomb.case" xOffset="91" yOffset="-117"/>
     <contour>
-      <point x="250" y="510" type="move" name="_top"/>
+      <point x="161" y="510" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>252</integer>
+          <key>y</key>
+          <integer>805</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>242</integer>
+          <key>y</key>
+          <integer>682</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>40</integer>
+          <key>y</key>
+          <integer>517</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>181</integer>
+          <key>y</key>
+          <integer>646</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

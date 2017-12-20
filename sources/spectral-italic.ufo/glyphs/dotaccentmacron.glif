@@ -5,7 +5,7 @@
     <component base="dotaccentcomb" xOffset="226"/>
     <component base="macroncomb.case" xOffset="250"/>
     <contour>
-      <point x="208" y="510" type="move" name="_top"/>
+      <point x="208.0" y="510.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -31,13 +31,34 @@
       <point x="153" y="227" type="line"/>
     </contour>
     <contour>
-      <point x="341" y="615" type="move" name="top"/>
+      <point x="341.0" y="615.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="562" y="0" type="move" name="right"/>
+      <point x="562.0" y="0.0" type="move" name="right"/>
     </contour>
     <contour>
-      <point x="285" y="0" type="move" name="bottom"/>
+      <point x="285.0" y="0.0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>341</integer>
+          <key>y</key>
+          <integer>614</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

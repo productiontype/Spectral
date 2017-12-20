@@ -6,7 +6,49 @@
   </note>
   <outline>
     <component base="S"/>
-    <component base="dotaccentcomb.case" xOffset="303.0"/>
-    <component base="dotbelowcomb.case" xOffset="143.0"/>
+    <component base="dotaccentcomb.case" xOffset="346" yOffset="-3"/>
+    <component base="dotbelowcomb.case" xOffset="183"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>Sdotaccent</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Sdotbelowdotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>496</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

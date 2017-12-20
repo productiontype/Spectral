@@ -3,9 +3,30 @@
   <advance width="500"/>
   <outline>
     <component base="acutecomb.case" xOffset="250" yOffset="-180"/>
-    <component base="dotaccentcomb.case" xOffset="250"/>
+    <component base="dotaccentcomb.case" xOffset="181" yOffset="-108"/>
     <contour>
-      <point x="250" y="510" type="move" name="_top"/>
+      <point x="196" y="510" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>326</integer>
+          <key>y</key>
+          <integer>682</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

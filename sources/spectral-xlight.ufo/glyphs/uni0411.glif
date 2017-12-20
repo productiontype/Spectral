@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0411" format="1">
+  <advance width="611"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="301" y="0" type="line" smooth="yes"/>
+      <point x="470.0" y="0"/>
+      <point x="561.0" y="86.14285714285715"/>
+      <point x="561" y="201" type="curve" smooth="yes"/>
+      <point x="561.0" y="307.4470588235294"/>
+      <point x="468.0" y="375"/>
+      <point x="300" y="375" type="curve" smooth="yes"/>
+      <point x="159" y="375" type="line"/>
+      <point x="159" y="340" type="line"/>
+      <point x="299" y="340" type="line" smooth="yes"/>
+      <point x="435.0" y="340"/>
+      <point x="498.0" y="292.76510067114094"/>
+      <point x="498" y="187" type="curve" smooth="yes"/>
+      <point x="498.0" y="100.14285714285715"/>
+      <point x="434.0" y="35"/>
+      <point x="303" y="35" type="curve" smooth="yes"/>
+      <point x="179" y="35" type="line"/>
+      <point x="179" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="660" type="line"/>
+      <point x="65" y="660" type="line"/>
+      <point x="65" y="635" type="line"/>
+      <point x="143" y="618" type="line"/>
+      <point x="143" y="42" type="line"/>
+      <point x="65" y="25" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="498" type="line"/>
+      <point x="515" y="498" type="line"/>
+      <point x="515" y="660" type="line"/>
+      <point x="174" y="660" type="line"/>
+      <point x="174" y="625" type="line"/>
+      <point x="453" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>2</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>B</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0411</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>611</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

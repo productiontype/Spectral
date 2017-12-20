@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="second" format="1">
-  <advance width="450"/>
+  <advance width="420"/>
   <unicode hex="2033"/>
   <outline>
     <component base="minute"/>
-    <component base="minute" xOffset="200.0"/>
+    <component base="minute" xOffset="170"/>
   </outline>
 </glyph>

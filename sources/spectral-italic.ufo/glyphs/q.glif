@@ -7,7 +7,7 @@
       <point x="183" y="-230" type="line"/>
       <point x="398" y="-230" type="line"/>
       <point x="398" y="-214" type="line"/>
-      <point x="328" y="-181" type="line"/>
+      <point x="328" y="-184" type="line"/>
       <point x="445" y="460" type="line"/>
       <point x="439" y="460" type="line"/>
       <point x="369" y="427" type="line"/>
@@ -43,4 +43,25 @@
       <point x="183" y="-214" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>438</integer>
+          <key>y</key>
+          <integer>-184</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

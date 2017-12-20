@@ -9,3 +9,7 @@ uni20AC touch 0-2,33-36,48 yshift -0.25 @11
 uni0035 touch 17-21,26-30 yshift -1.0 @12,14-17
 uni0036 touch 5-8 yshift -1.0 @12
 uni0039 touch 0-2,17 yshift 1.0 @12
+uni0424 touch 8-9,16-17,26-27,36 yshift -1.0 @10-22
+uni0424 touch 3-4,21-22,31-32,36-37 yshift 1.0 @10-15
+uni0424 touch 10-15 yshift 1.0 @10-12
+uni0424 touch 11-14 yshift -1.0 @25-28, 31-37

@@ -46,16 +46,16 @@
       <point x="53" y="70" type="curve"/>
     </contour>
     <contour>
-      <point x="49" y="405" type="line"/>
-      <point x="461" y="405" type="line"/>
-      <point x="461" y="449" type="line"/>
-      <point x="49" y="449" type="line"/>
+      <point x="49" y="386" type="line"/>
+      <point x="461" y="386" type="line"/>
+      <point x="461" y="430" type="line"/>
+      <point x="49" y="430" type="line"/>
     </contour>
     <contour>
-      <point x="49" y="255" type="line"/>
-      <point x="461" y="255" type="line"/>
-      <point x="461" y="299" type="line"/>
-      <point x="49" y="299" type="line"/>
+      <point x="49" y="237" type="line"/>
+      <point x="461" y="237" type="line"/>
+      <point x="461" y="281" type="line"/>
+      <point x="49" y="281" type="line"/>
     </contour>
   </outline>
 </glyph>

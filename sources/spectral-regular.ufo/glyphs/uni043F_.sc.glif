@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043F.sc" format="1">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="295" y="16" type="line"/>
+      <point x="221" y="49" type="line"/>
+      <point x="221" y="560" type="line"/>
+      <point x="65" y="560" type="line"/>
+      <point x="65" y="544" type="line"/>
+      <point x="136" y="511" type="line"/>
+      <point x="136" y="49" type="line"/>
+      <point x="65" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="510" type="line"/>
+      <point x="537" y="510" type="line"/>
+      <point x="537" y="560" type="line"/>
+      <point x="180" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="0" type="line"/>
+      <point x="655" y="0" type="line"/>
+      <point x="655" y="16" type="line"/>
+      <point x="585" y="49" type="line"/>
+      <point x="585" y="511" type="line"/>
+      <point x="655" y="544" type="line"/>
+      <point x="655" y="560" type="line"/>
+      <point x="500" y="560" type="line"/>
+      <point x="500" y="49" type="line"/>
+      <point x="426" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.0" y="615.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="371.0" y="0.0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>262</integer>
+          <key>y</key>
+          <integer>604</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

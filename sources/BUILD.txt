@@ -3,52 +3,60 @@ Spectral fonts build notes
 
 0. Requirements
 
+- afdko/autohint: https://github.com/adobe-type-tools/afdko
 - fontbakery: https://github.com/googlefonts/fontbakery
 - fontmake: https://github.com/googlei18n/fontmake
 - fonttools: https://github.com/fonttools/fonttools
+- pyftfeatfreeze: https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze
 - sfnt2woff-zopfli: https://github.com/bramstein/sfnt2woff-zopfli
 - ttfautohint: https://www.freetype.org/ttfautohint/
 - woff2_compress: https://github.com/google/woff2
-- https://github.com/twardoch/fonttools-utils/tree/master/pyftfeatfreeze
 
 --------------------------------------------------------------------------------
 
-1. Interpolate instances and build TTF files
+1. Interpolate instances and build OTF and TTF files
    
 $ cd sources
 $ bash generate.sh
 
 --------------------------------------------------------------------------------
 
-2. Finish TTFs
+2. Finish OTFs
+   
+$ cd instance_otf
+$ bash post_generate_otf.sh
+
+--------------------------------------------------------------------------------
+
+3. Finish TTFs
    
 $ cd instance_ttf
 $ bash post_generate_ttf.sh
 
 --------------------------------------------------------------------------------
 
-3. Copy and finish TTFs for web use
+4. Copy and finish TTFs for web use
 
 $ cd my/webfonts-folder
 $ bash post_generate_web.sh
 
 --------------------------------------------------------------------------------
 
-4. Finish TTFs for desktop use
+5. Finish TTFs for desktop use
 
 $ cd instance_ttf
 $ bash post_generate_desktop.sh
 
 --------------------------------------------------------------------------------
 
-5. Create webfonts
+6. Create webfonts
    
 $ cd my/webfonts-folder
 $ bash generate_webfonts.sh
 
 --------------------------------------------------------------------------------
 
-6. Create SC family
+7. Create SC family
 
 $ cd my/sc-folder
 $ bash post_generate_sc_family.sh

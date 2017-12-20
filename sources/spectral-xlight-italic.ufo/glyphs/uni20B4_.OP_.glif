@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20B4.OP" format="1">
+  <advance width="460"/>
+  <outline>
+    <component base="uni20B4.OT" xOffset="-20"/>
+  </outline>
+</glyph>

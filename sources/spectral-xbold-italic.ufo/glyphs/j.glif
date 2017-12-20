@@ -19,18 +19,18 @@
       <point x="-77" y="-210" type="curve"/>
     </contour>
     <contour>
-      <point x="209" y="552" type="curve" smooth="yes"/>
-      <point x="258" y="552"/>
-      <point x="294" y="587"/>
-      <point x="294" y="637" type="curve" smooth="yes"/>
-      <point x="294" y="687"/>
-      <point x="258" y="723"/>
-      <point x="209" y="723" type="curve" smooth="yes"/>
-      <point x="160" y="723"/>
-      <point x="123" y="687"/>
-      <point x="123" y="637" type="curve" smooth="yes"/>
-      <point x="123" y="587"/>
-      <point x="160" y="552"/>
+      <point x="207" y="557" type="curve" smooth="yes"/>
+      <point x="252" y="557"/>
+      <point x="285" y="589"/>
+      <point x="285" y="635" type="curve" smooth="yes"/>
+      <point x="285" y="681"/>
+      <point x="252" y="714"/>
+      <point x="207" y="714" type="curve" smooth="yes"/>
+      <point x="162" y="714"/>
+      <point x="128" y="681"/>
+      <point x="128" y="635" type="curve" smooth="yes"/>
+      <point x="128" y="589"/>
+      <point x="162" y="557"/>
     </contour>
     <contour>
       <point x="190" y="510" type="move" name="top"/>

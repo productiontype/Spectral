@@ -1,4 +1,4 @@
-for i in *.ttf ; do 
+for i in *.[to]tf ; do 
   fam_name="${i:0:8}SC-"
   style="${i:9:100}"
   sc_name=$fam_name$style

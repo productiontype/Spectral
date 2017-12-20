@@ -42,6 +42,7 @@
 	<array>
 		<integer>0</integer>
 		<integer>1</integer>
+		<integer>2</integer>
 		<integer>4</integer>
 		<integer>7</integer>
 		<integer>8</integer>
@@ -83,6 +84,7 @@
 		<integer>4</integer>
 		<integer>5</integer>
 		<integer>6</integer>
+		<integer>9</integer>
 		<integer>29</integer>
 		<integer>30</integer>
 		<integer>31</integer>
@@ -170,9 +172,9 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
 	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>450</integer>
 	<key>year</key>

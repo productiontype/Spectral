@@ -4,24 +4,45 @@
   <unicode hex="0307"/>
   <outline>
     <contour>
-      <point x="0" y="547" type="curve" smooth="yes"/>
-      <point x="45" y="547"/>
-      <point x="77" y="578"/>
-      <point x="77" y="623" type="curve" smooth="yes"/>
-      <point x="77" y="668"/>
-      <point x="45" y="701"/>
-      <point x="0" y="701" type="curve" smooth="yes"/>
-      <point x="-44" y="701"/>
-      <point x="-77" y="668"/>
-      <point x="-77" y="623" type="curve" smooth="yes"/>
-      <point x="-77" y="578"/>
-      <point x="-44" y="547"/>
+      <point x="-1" y="542" type="curve" smooth="yes"/>
+      <point x="44" y="542"/>
+      <point x="76" y="573"/>
+      <point x="76" y="618" type="curve" smooth="yes"/>
+      <point x="76" y="663"/>
+      <point x="44" y="696"/>
+      <point x="-1" y="696" type="curve" smooth="yes"/>
+      <point x="-45" y="696"/>
+      <point x="-78" y="663"/>
+      <point x="-78" y="618" type="curve" smooth="yes"/>
+      <point x="-78" y="573"/>
+      <point x="-45" y="542"/>
     </contour>
     <contour>
       <point x="-19" y="510" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="1" y="623" type="move" name="_mid"/>
+      <point x="0" y="618" type="move" name="_mid"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>80.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>-19</integer>
+          <key>y</key>
+          <integer>510</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

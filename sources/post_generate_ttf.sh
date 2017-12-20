@@ -12,6 +12,15 @@ for i in Spectral-ExtraBold Spectral-ExtraBoldItalic Spectral-ExtraLight Spectra
   echo "Hinting $i ..."
 done
 for i in *.ttf ; do mv $i ${i//.hinted/} ; done
-for i in *.ttf ; do 
-  fontbakery fix-fstype $i -e --no-coverage
-done
+
+# Update fsType
+fontbakery fix-fstype *.ttf
+rm *.ttf
+for i in *.fix ; do mv $i $(basename -s .fix $i) ; done
+
+# Add DSIG table
+fontbakery fix-dsig *.ttf -a -f
+
+# Add GASP table
+fontbakery fix-gasp *.ttf --autofix
+for i in *.fix ; do mv $i $(basename -s .fix $i) ; done

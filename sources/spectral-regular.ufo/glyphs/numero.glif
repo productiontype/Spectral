@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numero" format="1">
-  <advance width="1040"/>
+  <advance width="1057"/>
   <unicode hex="2116"/>
   <outline>
     <component base="n.sc"/>
-    <component base="ordmasculine" xOffset="640"/>
+    <component base="ordmasculine" xOffset="657"/>
   </outline>
 </glyph>

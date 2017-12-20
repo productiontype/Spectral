@@ -4,7 +4,7 @@
   <unicode hex="2153"/>
   <outline>
     <component base="one.sups" xOffset="35"/>
-    <component base="fraction" xOffset="344"/>
+    <component base="fraction" xOffset="362"/>
     <component base="three.sinf" xOffset="431"/>
   </outline>
 </glyph>

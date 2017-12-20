@@ -34,16 +34,23 @@
       <point x="125" y="16" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="405" type="line"/>
-      <point x="530" y="405" type="line"/>
-      <point x="530" y="449" type="line"/>
-      <point x="80" y="449" type="line"/>
+      <point x="80" y="386" type="line"/>
+      <point x="530" y="386" type="line"/>
+      <point x="530" y="430" type="line"/>
+      <point x="80" y="430" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="255" type="line"/>
-      <point x="530" y="255" type="line"/>
-      <point x="530" y="299" type="line"/>
-      <point x="80" y="299" type="line"/>
+      <point x="80" y="237" type="line"/>
+      <point x="530" y="237" type="line"/>
+      <point x="530" y="281" type="line"/>
+      <point x="80" y="281" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
 </glyph>

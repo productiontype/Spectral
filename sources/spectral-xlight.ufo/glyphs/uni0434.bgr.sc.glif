@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0434.bgr.sc" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="310" y="564" type="line"/>
+      <point x="291" y="564" type="line"/>
+      <point x="75" y="24" type="line"/>
+      <point x="115" y="24" type="line"/>
+      <point x="298" y="499" type="line"/>
+      <point x="278" y="470" type="line"/>
+      <point x="301" y="470" type="line"/>
+      <point x="281" y="499" type="line"/>
+      <point x="467" y="20" type="line"/>
+      <point x="525" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="33" type="line"/>
+      <point x="20" y="-122" type="line"/>
+      <point x="40" y="-122" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="558" y="-122" type="line"/>
+      <point x="579" y="-122" type="line"/>
+      <point x="579" y="33" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,7 +3,42 @@
   <advance width="243.0"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="period" xOffset="50" yOffset="340"/>
+    <component base="period" xOffset="56" yOffset="372"/>
     <component base="comma" xOffset="-10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>80.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>91</integer>
+          <key>y</key>
+          <integer>415</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>188</integer>
+          <key>y</key>
+          <integer>460</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

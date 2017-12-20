@@ -33,16 +33,16 @@
       <point x="140" y="16" type="line"/>
     </contour>
     <contour>
-      <point x="105" y="317" type="line"/>
-      <point x="409" y="317" type="line"/>
-      <point x="409" y="361" type="line"/>
-      <point x="105" y="361" type="line"/>
+      <point x="105" y="320" type="line"/>
+      <point x="409" y="320" type="line"/>
+      <point x="409" y="358" type="line"/>
+      <point x="105" y="358" type="line"/>
     </contour>
     <contour>
-      <point x="105" y="167" type="line"/>
-      <point x="409" y="167" type="line"/>
-      <point x="409" y="211" type="line"/>
-      <point x="105" y="211" type="line"/>
+      <point x="105" y="170" type="line"/>
+      <point x="409" y="170" type="line"/>
+      <point x="409" y="208" type="line"/>
+      <point x="105" y="208" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -48,14 +48,14 @@
     <contour>
       <point x="73" y="389" type="line"/>
       <point x="405" y="389" type="line"/>
-      <point x="414" y="429" type="line"/>
-      <point x="81" y="429" type="line"/>
+      <point x="413" y="427" type="line"/>
+      <point x="80" y="427" type="line"/>
     </contour>
     <contour>
-      <point x="48" y="239" type="line"/>
-      <point x="381" y="239" type="line"/>
-      <point x="388" y="279" type="line"/>
-      <point x="56" y="279" type="line"/>
+      <point x="48" y="240" type="line"/>
+      <point x="381" y="240" type="line"/>
+      <point x="387" y="278" type="line"/>
+      <point x="55" y="278" type="line"/>
     </contour>
   </outline>
 </glyph>

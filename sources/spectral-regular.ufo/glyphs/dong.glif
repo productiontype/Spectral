@@ -45,10 +45,10 @@
       <point x="326" y="60" type="line"/>
     </contour>
     <contour>
-      <point x="127" y="487" type="line"/>
-      <point x="477" y="487" type="line"/>
-      <point x="477" y="531" type="line"/>
-      <point x="127" y="531" type="line"/>
+      <point x="127" y="490" type="line"/>
+      <point x="477" y="490" type="line"/>
+      <point x="477" y="528" type="line"/>
+      <point x="127" y="528" type="line"/>
     </contour>
     <contour>
       <point x="97" y="-138" type="line"/>
