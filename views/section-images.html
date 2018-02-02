@@ -1,0 +1,19 @@
+<section id="{{pageClass}}" class="{{pageClass}} tinted" ng-controller="imagesController">
+	<div class="conteneur">
+		<div class="carousel-wrapper">
+			<div class="carousel">
+				<div class="item-image" ng-repeat="item in images">
+					<figure>
+						<img ng-src="{{item.src}}" height="100%" width="">
+					</figure>
+					<figcaption class="vertical">
+						{{item.caption}}
+					</figcaption>
+				</div>
+			</div>
+			<!--div class="controls prev"></div>
+			<div class="controls next"></div-->
+		</div>
+		
+	</div>
+</section>

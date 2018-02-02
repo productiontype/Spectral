@@ -1,0 +1,27 @@
+<section id="{{pageClass}}" class="{{pageClass}} tinted" ng-controller="familyStylesController">
+	<div class="conteneur">
+		<ul class="family">
+		    <li ng-repeat="item in family">
+		        
+		        <div 
+		        	class="row between-xs" 
+		        	ng-class="{ 'italic': item.italic == true }"
+		        	style="font-weight:{{item.weight}};">
+		        	
+		        	<div class="col-xs-10 ">
+		        		<div class="name">
+		        			<span class="font-name">Spectral</span>
+		        			<span class="font-weight">{{item.name}}</span>
+		        		</div>
+		        	</div>
+		        	<div class="col-xs-2 text-right">
+		        		<div class="accr">{{item.accr}}</div>
+		        	</div>
+		        </div>
+		    </li>
+		</ul>
+
+		
+	</div>
+	
+</section>

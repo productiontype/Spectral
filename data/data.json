@@ -1,0 +1,132 @@
+{
+	"infos":{
+		"title": "Spectral",
+		"description": "A new typeface for Google Docs",
+		"dlLink": "https://fonts.google.com/download?family=Spectral|Spectral+SC",
+		"vLink": "https://fonts.google.com/specimen/Spectral"
+	},
+	"menu":[
+		
+		{"title":"FAMILY STYLES", "href":"family-styles"},
+		{"title":"DATA", "href":"data"},
+		
+		{"title":"WATERFALL", "href":"waterfall"},
+		
+		{"title":"GLYPHSET", "href":"glyphs"},
+		{"title":"ESSAY", "href":"essay"},
+		{"title":"DUMMY TEXT", "href":"dummy"},
+		{"title":"IMAGES", "href":"images"},
+		{"title":"LANGUAGES SUPPORT", "href":"languages"},
+		{"title":"GLYPH DETAILS", "href":"glyph-details"},
+		{"title":"CREDITS", "href":"credits"}
+	],
+	"family":[
+		{"name":"ExtraLight", "accr":"XL", "weight": 100, "italic": false},
+		{"name":"ExtraLightItalic", "accr":"XL", "weight": 100, "italic": true},
+		{"name":"Light", "accr":"L", "weight": 300, "italic": false},
+		{"name":"LightItalic", "accr":"L", "weight": 300, "italic": true},
+		{"name":"Regular", "accr":"R", "weight": 400, "italic": false},
+		{"name":"Italic", "accr":"I", "weight": 400, "italic": true},
+		{"name":"Medium", "accr":"M", "weight": 500, "italic": false},
+		{"name":"MediumItalic", "accr":"M", "weight": 500, "italic": true},
+		{"name":"Bold", "accr":"B", "weight": 600, "italic": false},
+		{"name":"BoldItalic", "accr":"B", "weight": 600, "italic": true},
+		{"name":"SemiBold", "accr":"SB", "weight": 700, "italic": false},
+		{"name":"SemiBoldItalic", "accr":"SB", "weight": 700, "italic": true},
+		{"name":"ExtraBold", "accr":"XB", "weight": 800, "italic": false},
+		{"name":"ExtraBoldItalic", "accr":"XB", "weight": 800, "italic": true}
+	],
+	"familyShuffled":[
+		{"name":"ExtraLight", "accr":"XL", "weight": 100, "italic": false},
+		{"name":"ExtraBoldItalic", "accr":"XB", "weight": 800, "italic": true},
+		{"name":"Light", "accr":"L", "weight": 300, "italic": false},
+		{"name":"Italic", "accr":"I", "weight": 400, "italic": true},
+		{"name":"SemiBoldItalic", "accr":"SB", "weight": 700, "italic": true},
+		{"name":"SemiBold", "accr":"SB", "weight": 700, "italic": false},
+		{"name":"BoldItalic", "accr":"B", "weight": 600, "italic": true},
+		{"name":"Bold", "accr":"B", "weight": 600, "italic": false},
+		
+		{"name":"Medium", "accr":"M", "weight": 500, "italic": false},
+		{"name":"LightItalic", "accr":"L", "weight": 300, "italic": true},
+		{"name":"Regular", "accr":"R", "weight": 400, "italic": false},
+		
+		{"name":"MediumItalic", "accr":"M", "weight": 500, "italic": true},
+		{"name":"ExtraBold", "accr":"XB", "weight": 800, "italic": false},
+		{"name":"ExtraLightItalic", "accr":"XL", "weight": 100, "italic": true}
+	],
+    
+    "essay":{
+        "texte": "<p><em>Spectral is a new and versatile serif face available in seven weights of roman and italic, with small caps.&nbsp;Intended primarily for text-rich, screen-first environments and long-form reading,&nbsp;<\/em><em><a href=\"https:\/\/fonts.google.com\/specimen\/Spectral\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/fonts.google.com\/specimen\/Spectral\">Spectral<\/a><\/em><em>&nbsp;<\/em><em>is brought to you by Production Type, commissioned by Google Fonts, and free to use across Google Docs, Sheets, and Slides, or in any of your projects.<\/em><\/p> <h3>Screen-first typefaces<\/h3> <p>The history of early digital typefaces, though still fairly recent, has already proven that typeface design doesn&rsquo;t need to reinvent itself because of technical constraints. One only has to look back over the last 20 years to discover work that forged a viable path. Many early digital types (<a href=\"https:\/\/en.wikipedia.org\/wiki\/Trinit%C3%A9_(typeface)\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/en.wikipedia.org\/wiki\/Trinit%C3%A9_(typeface)\">Trinit&eacute;<\/a>,&nbsp;<a href=\"http:\/\/typographica.org\/typeface-reviews\/demos-next\/\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: http:\/\/typographica.org\/typeface-reviews\/demos-next\/\">Demos<\/a>,&nbsp;<a href=\"https:\/\/books.google.com\/books?id=wdYmvQD5C8IC&amp;pg=PT99#v=onepage&amp;q&amp;f=false\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/books.google.com\/books?id=wdYmvQD5C8IC&amp;pg=PT99#v=onepage&amp;q&amp;f=false\">Colorado<\/a>, and&nbsp;<a href=\"https:\/\/en.wikipedia.org\/wiki\/Georgia_(typeface)\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/en.wikipedia.org\/wiki\/Georgia_(typeface)\">Georgia<\/a>&nbsp;for example) set a powerful example by being unobtrusive, transparent designs that rely on commonly accepted shapes, while remaining innovative and fit-for-purpose. These giants, on whose shoulders&nbsp;Spectral&nbsp;aspires to stand, form a solid set of accomplished, serious designs.<\/p> <p>Over the past decade, the amount of attention given to readability studies by typeface designers has yielded either bland and conservative results, or overwrought &ldquo;solutions.&rdquo; This is more pronounced in screen typefaces than those made for print media, where common pitfalls include overly simplified shapes, &ldquo;friendly&rdquo; letters, and facile tricks like unnecessarily upright italics.<\/p> <p>In response, Spectral takes an unambiguous stance: Screen typefaces should not look like caricatures of themselves. They should instead be functional text designs that stay interesting enough to convey the many voices that contemporary users need.<\/p> <h3>Elzevir faces: A lesson in durability<\/h3> <p>Defining a new serif face for screen use is a rather broad brief. Common wisdom has long suggested that serifs for screen reading underperform and should therefore occur with less frequency in good type libraries. Although their readability is in fact much higher than that of sans serifs, they&rsquo;re traditionally viewed as fuzzy and archaic in screen-first environments. We decided that the time had come to reinvigorate the use of well-crafted serif typefaces online.<\/p> <p>We began by probing history. For six centuries, France has enjoyed a tradition of high-performance designs for immersive reading. One of the most overlooked highlights of that tradition is the resurgence of Elzevir typefaces, which happened in France some forty years before everywhere else. The French Elzevir (sometimes also known as French&nbsp;<a href=\"https:\/\/en.wikipedia.org\/wiki\/Serif#Old-style\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/en.wikipedia.org\/wiki\/Serif#Old-style\">Old Style<\/a>) is a lesser-known genre in the Anglocentric type-design history of the late nineteenth and early twentieth century. The Elzevir typefaces mark one of the first attempts to recreate a new modernity, at a time when another modern style (<a href=\"https:\/\/en.wikipedia.org\/wiki\/Didone_(typography)\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/en.wikipedia.org\/wiki\/Didone_(typography)\">Didone<\/a>) prevailed. Across France, countless punchcutters soon began exploring Old Style types as text faces. Naming conventions were sloppy, but the shapes were specific: A serif looking back at the Renaissance, but polished and honed to work hard for neat reproduction on the new and shiny paper surfaces of the time. From the late 1880s onwards, these early revivals soon shed their bibliophile status to emerge as broadly useful text typefaces. Only decades later did this trend catch on globally, with Monotype&rsquo;s comprehensive and well-advertised&nbsp;<a href=\"https:\/\/en.wikipedia.org\/wiki\/Monotype_Imaging#Typefounding\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/en.wikipedia.org\/wiki\/Monotype_Imaging#Typefounding\">revival program<\/a>. In the meantime, the stars of French typeface design in the period&mdash;including Pierre Jannet and Maurice Olli&egrave;re&mdash;enjoyed success but eventually fell out of favor.<\/p> <p>While deeply rooted in French type design history, Spectral tends to reject the idea of any country-specific flavor&mdash;much in the same way that Elzevir typefaces have always represented a cross-current of western influences from Italy, France, the Netherlands, Germany, and the United States. From fifteenth-century France to sixteenth-century Holland and back to nineteenth-century France, the underlying concept of these Elzevir typefaces still makes sense in 2017. Our design takes material that succeeded in the past and puts it to use in the present.<\/p> <h3>Origin story: From Gargantua to Spectral<\/h3> <p>The inspiration for this project first began to coalesce in 2008 at the&nbsp;<em>Rencontre de Lure<\/em>s conference. At the event, while presenting a lecture on the influence of technique in typeface design, Jean-Baptiste Lev&eacute;e&mdash;who went on to found&nbsp;Production Type in 2014&mdash;included an image of the word &ldquo;party&rdquo; taken from Descartes'&nbsp;<em>Gargantua<\/em>&nbsp;to illustrate the role of inktraps. The image stuck firmly in his mind, and returned to Lev&eacute;e when he began working on Spectral eight years later&mdash;though he&rsquo;d since forgotten the original source.<\/p> <p>At Production Type, we wanted to focus our initial letterform explorations on the specific page of text from which the word&nbsp;&ldquo;party&rdquo;&nbsp;was taken, because printed metal type looks very different from one page to another. Scouting through the foundry&rsquo;s library, Lev&eacute;e eventually came across the book and recognized it as the source material. In order to find the physical page on which it appears, we searched a&nbsp;<a href=\"http:\/\/sami.is.free.fr\/Oeuvres\/rabelais_gargantua.htm\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: http:\/\/sami.is.free.fr\/Oeuvres\/rabelais_gargantua.htm\">digital edition of&nbsp;<em>Gargantua<\/em><\/a>. It only took a few minutes to identify the quote (in book I, chapter XV) and even less time to find it on page 56. The next step&mdash;identifying the exact typeface used in that edition&mdash;took deeper investigation.<\/p> <p>Lev&eacute;e had mistakenly identified the book in the Rencontre lecture as one of Pierre Jannet&rsquo;s famous editions in the series&nbsp;<em>Catalogue Raisonn&eacute; De La Biblioth&egrave;que Elz&eacute;virienne<\/em>&nbsp;from 1860. But it was in fact a later and more common edition from 1882. The book was part of a series that the publisher Marpon-Flammarion had named &ldquo;Jannet-Picard&rdquo;&mdash;hence the confusion.<\/p> <p>The final step, identifying exactly which type was used in the &ldquo;party&rdquo; fragment, proved the trickiest. While Jannet was responsible for an earlier 1867&nbsp;<em>Gargantua<\/em>&nbsp;edition, the later reprint we had in the Production Type library (and cited by&nbsp;Lev&eacute;e in 2008)&nbsp;was not set in Jannet&rsquo;s Elzevir types. It took quite a few tries to scout and trace the font used in this very specific edition. We found the answer in &ldquo;Elz&eacute;vir \u2116 9,&rdquo; a typeface released by the Warnery foundry in 1882. The design remained in Warnery&rsquo;s catalog into the 1930s.<\/p> <p>Spectral is much closer to that one printed word&mdash;party&mdash;than to any other excerpts from &ldquo;Elz&eacute;vir \u2116 9,&rdquo; and we selectively adopted letter shapes and ideas from additional source material. The numerals are a good example of that process, where some designs like the &lsquo;3&rsquo; and the &lsquo;5&rsquo; were still performing well over one hundred years later, while others such as the numerals &lsquo;6&rsquo; and &lsquo;7&rsquo; felt outdated. The Warnery italics seemed especially antiquated, so as our research phrase drew to a close, we decided to design Spectral&rsquo;s italics as entirely new creations made for the technological context of on-screen, long-form reading.<\/p> <h3>Designing for immersive reading<\/h3> <p>A sort of mental back-and-forth held sway during the initial stages of the design process for Spectral. As always, we focused first on gracefulness and visual quality. Like any other design, this one also required context-specific modifications. Many of these constraints make Spectral particularly well-suited for digital typesetting. A lot of care went into devising real, clear, unambiguous weight differences between all seven members of the family. This differs greatly from typefaces destined mainly for print, where a slight change in weight usually suffices to indicate a variation in emphasis. But singling out portions of a text presents challenges on most screens that emit light (rather than absorb it). So we made the eternal trifecta of ExtraLight, Regular, and Bold unmistakeable in Spectral. Even the intermediate styles (Light, SemiBold) offer enough contrast with their neighbors to create emphasis. Spectral has seven weights that span from ExtraLight to Black, with matching italics. The character set today covers 146 languages (including Vietnamese), has 1,221 glyphs, and includes small capitals, as well as a myriad of symbols and pictograms.<\/p> <p>As a further distinction from print, the Spectral italics are heavier in weight than the norm. In order to enable clear on-screen visual hierarchy, we employed a technique known as multiplexing for the figures: The numeral characters share the same width, a feature useful in tables and in contexts that require vertical alignment. Spectral has four figure styles: tabular lining (caps-aligned), tabular old style (hanging), proportional lining, and proportional old style, as well as the requisite suite of small forms like superscript and subscript numerals. We prioritized orthogonal segments and simple diagonals because they are more easily rendered by displays than other shapes (to a certain extent), with the goal of enhancing the general sharpness of the face.<\/p> <h3>The future of reading<\/h3> <p>Although reading and writing are somewhat solitary pursuits, they&rsquo;re increasingly collaborative, iterative, and social acts. We collaborate and revise in the cloud. We organize our data (and even our finances) in digital spreadsheets. While developing Spectral, we looked back to the Elzevir typefaces for guidance because their genius, as a cultural form, was to implicitly acknowledge that the nature of information had changed. No longer privileged, information had become popular, compact, portable, eminently transmissible, and reproducible. This called for a different kind of letterform&mdash;one that detached itself from the elite hand of the scribe and the pure imitation of manuscripts. The letterform that evolved&mdash;of even color, open counters, and compact extenders&mdash;has stood in good stead for centuries.<\/p> <p>Information has metamorphosed yet again. It has become even less rarefied, even more immediate. We carry it with us wherever we go. We collaborate on the fly. We sync. Information is often read on screen. Spectral can be printed of course, but it will likely be seen more frequently online.<\/p> <h3>Production Type's process<\/h3> <p>Releasing a typeface under the&nbsp;<a href=\"http:\/\/scripts.sil.org\/cms\/scripts\/page.php?site_id=nrsi&amp;id=ofl\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: http:\/\/scripts.sil.org\/cms\/scripts\/page.php?site_id=nrsi&amp;id=ofl\">SIL Open Font License<\/a>&nbsp;is not an obvious choice for a traditional foundry. But the present situation differs considerably from ten years ago, when quality standards and custom tools were still trade secrets. Lifting the curtain on a foundry&rsquo;s best practices presents less of a risk today: digital, ubiquitous documentation has changed the game entirely. Production Type may still have its own procedures and workflows, but our production and mastering processes are all well-documented and openly accessible in the font editors and open source tools we use. This move toward open communication&mdash;from character-set strategy, to the release of source files, build instructions, and internal preferences for letterform construction&mdash;was made possible through our collaboration with Google Fonts. The use of the&nbsp;<a href=\"https:\/\/guides.github.com\/\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/guides.github.com\/\">Git version control system<\/a>&nbsp;is central to the Google Fonts workflow; we used this privately from the start of the project, and used the generated data for visualizations throughout the printed specimen.<\/p> <p>Looking ahead, the development of language extensions is promising. The source files were developed with interpolation, so they are already prepared for the latest OpenType Variable Fonts technology. And because Spectral&rsquo;s future is inextricably linked to the SIL Open Font License, there&rsquo;s ample room for growth&mdash;not only by collaborating with us on Spectral itself, but also in taking the design in&nbsp;<a href=\"https:\/\/spectral.prototypo.io\/\" target=\"_blank\" rel=\"noopener noreferrer\" data-g-category=\"outbound links\" data-g-action=\"page interaction\" data-g-label=\"outbound link: https:\/\/spectral.prototypo.io\/\">new directions<\/a>&mdash;we&rsquo;re excited by the possibilities.<\/p>"
+    },
+    "dummy": {
+    	"texte": "Google Docs, Google Sheets, and Google Slides are a word processor, a spreadsheet and a slideshow presentation program respectively, all part of a free, web-based software office suite offered by Google within its Google Drive service. The three apps are available as web applications, and as mobile apps for Android and iOS. The apps are compatible with Microsoft Office and OpenDocument file formats. The suite also consists of Google Forms (survey software), Google Drawings (diagramming software) and Google Fusion Tables (database manager; experimental).The suite allows users to create and edit files online while collaborating with other users in real-time. Edits are tracked by user with a revision history presenting changes. An editor’s position is highlighted with an editor-specific color and cursor. A permissions system regulates what users can do. Updates have introduced features using machine learning, including “Explore”, offering search results based on the contents of a document, answers based on natural language questions in a spreadsheet, and dynamic design suggestions based on contents of a slideshow, and “Action items”, allowing users to assign tasks to other users.While Google Docs has been criticized for lacking the functionality of Microsoft Office, it has received praise for its simplicity, ease of collaboration and frequent product updates. Google has been criticized for its practice of automatically scanning documents for keywords that violate the terms of service, and censoring those documents.Google Docs originated from two separate products, Writely and XL2Web.Writely was a web-based word processor created by the software company Upstartle and launched in August 2005. It began as an experiment by programmers Sam Schillace, Steve Newman and Claudia Carpenter, trying out the then-new Ajax technology and the “content editable” function in browsers. On March 9, 2006, Google announced that it had acquired Upstartle.XL2Web by 2Web Technologies was a web-based spreadsheet application, which was acquired by Google in 2005 and turned into Google Labs Spreadsheets. It was launched as a test for a limited number of users, on a first-come, first-served basis on June 6, 2006. The limited test was later replaced with a beta version available to all Google Account holders, around the same time as an official announcement press release was issued.In September 2007, Google released a presentation program for Google Docs, which originated from the company’s acquisition of Tonic Systems on April 17, 2007.In July 2009, Google dropped the beta testing status from Google Docs.In January 2010, Google Docs started allowing users to upload any file type up to 250 MB, with 1 GB of free space and paid storage available for $0.25 per GB per year. This cloud storage feature was eventually reworked when Google Drive was introduced in 2012. Google Drive now serves as the cloud storage service from Google, while Docs, Sheets and Slides serve as the office suite inside Google Drive.In March 2010, Google acquired DocVerse, an online document collaboration company. DocVerse allowed multiple user online collaboration on Microsoft Office-compatible document formats such as Word, Excel, and PowerPoint. Improvements based on DocVerse were announced and deployed in April 2010.In June 2012, Google acquired Quickoffice, a “leader in office productivity solutions”, with particular emphasis on Quickoffice’s “seamless interoperability with popular file formats”.In October 2012, Google Documents, Spreadsheets and Presentations were renamed Google Docs, Sheets and Slides, respectively. At the same time, Chrome apps were released, which provided shortcuts to the services on Chrome’s new tab page. Google announced in August 2016 that support for Chrome apps would end on Microsoft Windows, Apple macOS, and Linux computers between 2017 and 2018.The suite serves as a collaborative tool for cooperative editing of documents, spreadsheets and presentations in real-time. Documents can be shared, opened, and edited by multiple users simultaneously and users are able to see character-by-character changes as other collaborators make edits. Changes are automatically saved to Google’s servers, and a revision history is automatically kept so past edits may be viewed and reverted to. An editor’s current position is represented with an editor-specific color/cursor, so if another editor happens to be viewing that part of the document they can see edits as they occur. A sidebar chat functionality allows collaborators to discuss edits. The revision history allows users to see the additions made to a document, with each author distinguished by color. Only adjacent revisions can be compared, and users cannot control how frequently revisions are saved. Files can be exported to a user’s local computer in a variety of formats (ODF, HTML, PDF, RTF, Text, Office Open XML). Files can be tagged and archived for organizational purposes.",
+    	"texte_short": "Google Docs, Google Sheets, and Google Slides are a word processor, a spreadsheet and a slideshow presentation program respectively, all part of a free, web-based software office suite offered by Google within its Google Drive service. "
+    },
+    "images":[
+		{
+			"caption": "00000001",
+			"src": "images/spectral-by-production-type-00000001.jpg"
+		},{
+			"caption": "00000002",
+			"src": "images/spectral-by-production-type-00000002.jpg"
+		},{
+			"caption": "Amortization",
+			"src": "images/spectral-by-production-type-170606-Amortization.jpg"
+		},{
+			"caption": "Thesis",
+			"src": "images/spectral-by-production-type-170606-Thesis.jpg"
+		},{
+			"caption": "Spectral-google-font",
+			"src": "images/spectral-by-production-type-170718-Spectral-google-font.jpg"
+		},{
+			"caption": "bertrand",
+			"src": "images/spectral-by-production-type-bertrand-2.jpg"
+		},{
+			"caption": "cochard",
+			"src": "images/spectral-by-production-type-cochard-2.jpg"
+		},{
+			"caption": "X20160742",
+			"src": "images/spectral-by-production-type-img-X20160742.jpg"
+		},{
+			"caption": "X20160949",
+			"src": "images/spectral-by-production-type-img-X20160949-1.jpg"
+		},{
+			"caption": "Jannet-bib-elzevirienne",
+			"src": "images/spectral-by-production-type-Jannet-bib-elzevirienne-2.jpg"
+		},{
+			"caption": "lespinasse-olliere",
+			"src": "images/spectral-by-production-type-lespinasse-olliere-2.jpg"
+		}
+	],
+
+	"credits":[
+		{
+			"title": "SPECTRAL",
+			"texte": "<p>Production Type<br/>Google Fonts</p>"
+		},
+		{
+			"title": "TYPEFACE DESIGN TEAM",
+			"texte": "<p>Jean-Baptiste Levée, Dorine Sauzet, Quentin Schmerber,<br/>Christoph Koeberlin, Mathieu Réguer</p>"
+		},
+		{
+			"title": "GOOGLE DESIGN TEAM",
+			"texte": "<p>Rob Giampietro, Dave Crossland,<br/>Damien Correl, Bryn Smith, Chad Kloepfer</p>"
+		},
+		{
+			"title": "ENCODING",
+			"texte": "Unicode"
+		},
+		{
+			"title": "CHARACTER SET",
+			"texte": "Latin Extended"
+		},
+		{
+			"title": "FORMAT",
+			"texte": "OpenType-TrueType"
+		},
+		{
+			"title": "VERSION",
+			"texte": "1.001"
+		}
+	]
+}	

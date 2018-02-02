@@ -1,0 +1,79 @@
+<section>
+  <div class="conteneur">
+    <h1>Font SpecimenTools Example</h1>
+        <p><em>We only show the very basics here, go to
+            <a href="https://github.com/graphicore/mdlFontSpecimen">mdlFontSpecimen</a>
+            to see how these SpecimenTools should be used.</em></p>
+
+        <h4>Size of Glyph-Set
+            <span class="font-data"
+                  data-getter="NumberGlyphs"></span>
+        </h4>
+        <h4>Supported Languages
+            <span class="font-data"
+                  data-getter="NumberSupportedLanguages"></span>
+        </h4>
+        <div>
+            <h4>All Supported Languages</h4>
+            <p class="font-data"
+               data-getter="SupportedLanguages"></p>
+        </h4>
+
+        <div>
+            <h2>Choose a Font</h2>
+            <div class="family-chooser"></div>
+        </div>
+
+      <div class="type-tester"
+           data-unit-font-size="px"
+           data-min-font-size="5"
+           data-max-font-size="128"
+           data-step-font-size="1"
+           data-value-font-size="18"
+           data-unit-letter-spacing="px"
+           data-min-letter-spacing="-5"
+           data-max-letter-spacing="5"
+           data-value-letter-spacing="0"
+           data-step-letter-spacing="0.1"
+           data-unit-line-height="%"
+           data-min-line-height="50"
+           data-max-line-height="300"
+           data-step-line-height="5"
+           data-value-line-height="100"
+           data-class-line-height="custom-class special-slider">
+
+        <h2 class="mdl-card__title-text">Test the Font</h2>
+        <h5>Default Features</h5>
+        <div class="type-tester__features--default"></div>
+        <h5>Optional Features</h5>
+        <div class="type-tester__features--optional"></div>
+        
+        <h5>Font size: <span class="type-tester__label" data-target-property="font-size"></span></h5>
+        <div class="type-tester__slider" data-target-property="font-size"></div>
+
+        <h5>Letter spacing: <span class="type-tester__label" data-target-property="letter-spacing"></span></h5>
+        <div class="type-tester__slider" data-target-property="letter-spacing"></div>
+
+        <h5>Line height: <span class="type-tester__label" data-target-property="line-height"></span></h5>
+        <div class="type-tester__slider" data-target-property="line-height"></div>
+        
+        <p class="current-font type-tester__content" contenteditable="true">
+        TYPE HERE …<br />
+        Web typography refers to the use of fonts on the World Wide Web. When
+        HTML was first created, font faces and styles were controlled exclusively
+        by the settings of each Web browser. There was no mechanism for individual
+        Web pages to control font display until Netscape introduced the &lt;font&gt;
+        tag in 1995, which was then standardized in the HTML 3.2 specification.
+        However, the font specified by the tag had to be installed on the user's
+        computer or a fallback font, such as a browser's default sans-serif or
+        monospace font, would be used. The first Cascading Style Sheets specification
+        was published in 1996 and provided the same capabilities.
+        </p>
+        <small><a href="https://en.wikipedia.org/wiki/Web_typography">Source: Wikipedia</a></small>
+
+      </div>
+
+       <div class="glyph-table"></div>
+    </div>
+  </div>
+</section>

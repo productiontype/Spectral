@@ -1,0 +1,37 @@
+<section id="{{pageClass}}" class="{{pageClass}}" ng-controller="creditsController">
+	<div class="conteneur">
+		<div class="credits-wrap">
+			<div class="row top-xs" ng-repeat="item in credits">
+				<div class="col-xs-12 col-md-3">
+					<h3>{{item.title}}</h3>
+				</div>
+				<div class="col-xs-12 col-md-9">
+					<div ng-bind-html="item.texte"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="credits-footer">
+			<div class="row bottom-xs">
+				<div class="col-xs-12 col-md-4 hidden-xs"></div>
+				<div class="col-xs-12 col-md-4 text-center">
+					<div class="description">
+						{{infos.description}}
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-4 text-right">
+					<div id="dbg"></div>
+					
+					<ul>
+						<li>
+							<a href="{{infos.vLink}}" class="" target="_blank">Google Fonts Specimen</a>
+						</li>
+						<li>
+							<a href="{{infos.dlLink}}" class="">Download</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

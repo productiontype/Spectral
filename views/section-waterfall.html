@@ -1,0 +1,29 @@
+<section id="{{pageClass}}" class="{{pageClass}} tinted" ng-controller="waterfallController">
+	<div class="conteneur">
+		<div class="waterfall-wrapper">
+			<div class="waterfall-item" ng-repeat="n in [7, 6.5, 6, 5.5, 5, 4.5, 4, 3.5, 3] track by $index">
+				<div style="font-size: {{n}}vw; font-weight:{{fontWeight}};" ng-class="{ 'italic': italic == true }">
+					SPECTRAL {{fontWeight}}
+				</div>
+			</div>
+		</div>
+		<div class="waterfall-menu">
+			<ul>
+				<li ng-repeat="item in data.family">
+					<div
+					ng-class="{ 'italic': item.italic == true }"
+		        	style="font-weight:{{item.weight}};"
+		        	ng-click="updateFont(item.weight,item.italic)"
+		        	data-weight="{{item.weight}}"
+		        	data-italic="{{item.italic}}"
+					>
+						{{item.accr}}
+					</div>
+					
+				</li>
+			</ul>
+			
+			<div class="family-chooser"></div>
+		</div>
+	</div>
+</section>

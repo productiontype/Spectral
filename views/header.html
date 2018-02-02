@@ -1,0 +1,35 @@
+<header>
+	<div class="burger" ng-click="navActive=!navActive">
+		<i></i>
+	</div>
+	<div id="menu" ng-show="navActive">
+		<ul>
+			<li ng-repeat="item in data.menu">
+				<a href="#{{item.href}}">
+					{{item.title}}
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div class="header">
+		<div class="row">
+			<div class="col-xs-6">
+				<h1 ng-click="navActive=!navActive">
+					<span class="fw-100">S</span>
+					<span class="fw-300">P</span>
+					<span class="fw-400">E</span>
+					<span class="fw-500">C</span>
+					<span class="fw-600">T</span>
+					<span class="fw-700">R</span>
+					<span class="fw-800">A</span>
+					<span class="fw-800">L</span>
+				</h1>
+			</div>
+			<div class="col-xs-6 text-right">
+				<a href="https://www.productiontype.com/" target="_blank">
+					<div ng-include="'../images/logo-production-type.svg'" class="logo-production-type"></div>
+				</a>
+			</div>
+		</div>
+	</div>
+</header>
