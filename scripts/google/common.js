@@ -1,18 +1,19 @@
-var fontFiles = [
-	  '../../fonts/Spectral-Bold.ttf'
-	, '../../fonts/Spectral-BoldItalic.ttf'
-	, '../../fonts/Spectral-ExtraBold.ttf'
-	, '../../fonts/Spectral-ExtraBoldItalic.ttf'
-	, '../../fonts/Spectral-ExtraLight.ttf'
-	, '../../fonts/Spectral-ExtraLightItalic.ttf'
-	, '../../fonts/Spectral-Italic.ttf'
-	, '../../fonts/Spectral-Light.ttf'
-	, '../../fonts/Spectral-LightItalic.ttf'
-	, '../../fonts/Spectral-Medium.ttf'
-	, '../../fonts/Spectral-MediumItalic.ttf'
-	, '../../fonts/Spectral-Regular.ttf'
-	, '../../fonts/Spectral-SemiBold.ttf'
-	, '../../fonts/Spectral-SemiBoldItalic.ttf'
+let fontSpecimenConfig = {}
+fontSpecimenConfig.fontFiles = [
+     '../../fonts/Spectral-Bold.ttf'
+    , '../../fonts/Spectral-BoldItalic.ttf'
+    , '../../fonts/Spectral-ExtraBold.ttf'
+    , '../../fonts/Spectral-ExtraBoldItalic.ttf'
+    , '../../fonts/Spectral-ExtraLight.ttf'
+    , '../../fonts/Spectral-ExtraLightItalic.ttf'
+    , '../../fonts/Spectral-Italic.ttf'
+    , '../../fonts/Spectral-Light.ttf'
+    , '../../fonts/Spectral-LightItalic.ttf'
+    , '../../fonts/Spectral-Medium.ttf'
+    , '../../fonts/Spectral-MediumItalic.ttf'
+    , '../../fonts/Spectral-Regular.ttf'
+    , '../../fonts/Spectral-SemiBold.ttf'
+    , '../../fonts/Spectral-SemiBoldItalic.ttf'
 ];
 
 require.config({
@@ -31,9 +32,8 @@ require.config({
 });
 
 require(['bootstrap'], function(require) {
-  
   	require(['../load-fonts'], function(main) {
-      	main(window, fontFiles);
+      	main(window, fontSpecimenConfig.fontFiles);
  	});
 
  	require(['../googlefontsbadge'], function() {
