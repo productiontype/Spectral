@@ -1,89 +1,104 @@
 <!doctype html>
 <html class="no-js" lang="" ng-app="App">
-  <head>
-    <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SPECTRAL</title>
-    <meta name="description" content="A new typeface for Google Docs">
-    <base href="/spectral/" />
+    <head>
+        <meta charset="utf-8">
+     
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- COMMON TAGS -->
+        <meta charset="utf-8">
+        <title>SPECTRAL</title>
+        <!-- Search Engine -->
+        <meta name="description" content="A new typeface for Google Docs">
+        <meta name="image" content="https://googlefonts.github.io/spectral/images/spectral-social.jpg">
+        <!-- Schema.org for Google -->
+        <meta itemprop="name" content="SPECTRAL">
+        <meta itemprop="description" content="A new typeface for Google Docs">
+        <meta itemprop="image" content="https://googlefonts.github.io/spectral/images/spectral-social.jpg">
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="SPECTRAL">
+        <meta name="twitter:description" content="A new typeface for Google Docs">
+        <meta name="twitter:site" content="@ProductionType">
+        <meta name="twitter:creator" content="@ProductionType">
+        <meta name="twitter:image:src" content="https://googlefonts.github.io/spectral/images/spectral-social.jpg">
+        <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+        <meta name="og:title" content="SPECTRAL">
+        <meta name="og:description" content="A new typeface for Google Docs">
+        <meta name="og:image" content="https://googlefonts.github.io/spectral/images/spectral-social.jpg">
+        <meta name="og:url" content="https://googlefonts.github.io/spectral/">
+        <meta name="og:site_name" content="SPECTRAL">
+        <meta name="og:type" content="website">
+           
+        <base href="/spectral/" />
+        <link rel="apple-touch-icon" sizes="57x57" href="spectral/images/icons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="spectral/images/icons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="spectral/images/icons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="spectral/images/icons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="spectral/images/icons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="spectral/images/icons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="spectral/images/icons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="spectral/images/icons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="spectral/images/icons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="spectral/images/icons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="spectral/images/icons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="spectral/images/icons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="spectral/images/icons/favicon-16x16.png">
+        <link rel="manifest" href="spectral/images/icons/manifest.json">
+        <meta name="msapplication-TileColor" content="#C19E5E">
+        <meta name="msapplication-TileImage" content="spectral/images/icons/ms-icon-144x144.png">
+        <meta name="theme-color" content="#C19E5E">
+        
 
-    <link rel="apple-touch-icon" sizes="57x57" href="spectral/images/icons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="spectral/images/icons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="spectral/images/icons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="spectral/images/icons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="spectral/images/icons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="spectral/images/icons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="spectral/images/icons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="spectral/images/icons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="spectral/images/icons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="spectral/images/icons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="spectral/images/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="spectral/images/icons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="spectral/images/icons/favicon-16x16.png">
-    <link rel="manifest" href="spectral/images/icons/manifest.json">
-    <meta name="msapplication-TileColor" content="#C19E5E">
-    <meta name="msapplication-TileImage" content="spectral/images/icons/ms-icon-144x144.png">
-    <meta name="theme-color" content="#C19E5E">
-
-    
-
-    <link rel="stylesheet" href="spectral/styles/main.css">
-    
-    <script src="spectral/scripts/vendor/modernizr.js"></script>
-
-    
-  </head>
-  <body ng-controller="baseController" class="loading">
-    <!--[if lt IE 10]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-    
-    
-    <div id="wrapper">
-      <div ng-include="'views/header.html'"></div>
-      
-      <div class="part" ng-include="'views/section-animation.html'"></div>
-      
-      <div class="part" ng-include="'views/section-family.html'"></div>
-      <div class="part" ng-include="'views/section-data.html'"></div>
-
-      <div class="part" ng-include="'views/section-waterfall.html'"></div>
-      <div class="part" ng-include="'views/section-glyphs.html'"></div>
-
-      <div class="part" ng-include="'views/section-essay.html'"></div>
-      <div class="part" ng-include="'views/section-dummy.html'"></div>
-
-      <div class="part" ng-include="'views/section-images.html'"></div>
-      <div class="part" ng-include="'views/section-languages.html'"></div>
-      <div class="part" ng-include="'views/section-glyph-details.html'"></div>
-
-      <div class="part" ng-include="'views/section-credits.html'"></div>
-    
-    </div>
-
-    
-    
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-      e.src='https://www.google-analytics.com/analytics.js';
-      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-      ga('create','UA-XXXXX-X');ga('send','pageview');
-    </script>
-
-    
-    <script src="spectral/scripts/vendor.js"></script>
-
-    <script src="spectral/scripts/main.js"></script>
-    
-    <script src="spectral/scripts/ng/controller/controller.js"></script>
-    <script src="spectral/scripts/ng/services/data.js"></script>
-    <script src="spectral/scripts/ng/services/ls.js"></script>
-    
-    <script src="spectral/scripts/google/common.js"></script>
-    
-  </body>
+        
+        <link rel="stylesheet" href="spectral/styles/main.css">
+        
+        <script src="spectral/scripts/vendor/modernizr.js"></script>
+        
+    </head>
+    <body ng-controller="baseController" class="loading">
+        <!--[if lt IE 10]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        
+        <div id="wrapper">
+            <div ng-include="'views/header.html'"></div>
+            
+            <div class="part" ng-include="'views/section-animation.html'"></div>
+            
+            <div class="part" ng-include="'views/section-family.html'"></div>
+            <div class="part" ng-include="'views/section-data.html'"></div>
+            <div class="part" ng-include="'views/section-waterfall.html'"></div>
+            <div class="part" ng-include="'views/section-glyphs.html'"></div>
+            <div class="part" ng-include="'views/section-essay.html'"></div>
+            <div class="part" ng-include="'views/section-dummy.html'"></div>
+            <div class="part" ng-include="'views/section-images.html'"></div>
+            <div class="part" ng-include="'views/section-languages.html'"></div>
+            <div class="part" ng-include="'views/section-glyph-details.html'"></div>
+            <div class="part" ng-include="'views/section-credits.html'"></div>
+            
+        </div>
+        
+        
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='https://www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+        
+        <script src="spectral/scripts/vendor.js"></script>
+        <script src="spectral/scripts/main.js"></script>
+        
+        <script src="spectral/scripts/ng/controller/controller.js"></script>
+        <script src="spectral/scripts/ng/services/data.js"></script>
+        <script src="spectral/scripts/ng/services/ls.js"></script>
+        
+        <script src="spectral/scripts/google/common.js"></script>
+        
+    </body>
 </html>
