@@ -8,4 +8,15 @@
     <component base="ringcomb" xOffset="258.0"/>
     <component base="acutecomb" xOffset="347.0" yOffset="223.0"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.2235</real>
+        <real>0.1686</real>
+        <real>0.8353</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

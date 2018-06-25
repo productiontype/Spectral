@@ -1556,8 +1556,6 @@
 	<string>numbersign.OP_.glif</string>
 	<key>numbersign.OT</key>
 	<string>numbersign.OT_.glif</string>
-	<key>numero</key>
-	<string>numero.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>o.sc</key>
@@ -2196,6 +2194,8 @@
 	<string>umacrondieresis.sc.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>uni00A0</key>
+	<string>uni00A0_.glif</string>
 	<key>uni01C4</key>
 	<string>uni01C4_.glif</string>
 	<key>uni01C5</key>
@@ -2214,8 +2214,6 @@
 	<string>uni01CB_.glif</string>
 	<key>uni01CC</key>
 	<string>uni01CC_.glif</string>
-	<key>uni02BC</key>
-	<string>uni02BC_.glif</string>
 	<key>uni0401</key>
 	<string>uni0401.glif</string>
 	<key>uni0402</key>

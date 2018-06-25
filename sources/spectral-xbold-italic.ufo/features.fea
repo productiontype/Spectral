@@ -148,9 +148,9 @@ feature ordn { # Ordinals
         sub @figs.default [A a.sc a]' by ordfeminine;
     } ordn_base;
     lookup ordn_numero {
-        sub N [O o o.sc degree ordmasculine] by numero;
-        sub n [O o o.sc degree ordmasculine] by numero;
-        sub n.sc [O o o.sc degree ordmasculine] by numero;
+        sub N [O o o.sc degree ordmasculine] by uni2116;
+        sub n [O o o.sc degree ordmasculine] by uni2116;
+        sub n.sc [O o o.sc degree ordmasculine] by uni2116;
     } ordn_numero;
 } ordn;
     

@@ -19,7 +19,7 @@
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>7</integer>
 	<key>openTypeHheaAscender</key>
-	<integer>1059</integer>
+	<integer>917</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-463</integer>
 	<key>openTypeHheaLineGap</key>
@@ -174,7 +174,7 @@
 	<key>versionMajor</key>
 	<integer>2</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>450</integer>
 	<key>year</key>

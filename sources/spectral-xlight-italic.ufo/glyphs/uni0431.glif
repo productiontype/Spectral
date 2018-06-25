@@ -109,6 +109,13 @@
           <integer>459</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9904</real>
+        <real>1.0</real>
+        <real>0.464</real>
+        <real>1.0</real>
+      </array>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

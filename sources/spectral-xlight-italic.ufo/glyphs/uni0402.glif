@@ -561,6 +561,13 @@
           <real>786.0</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9904</real>
+        <real>1.0</real>
+        <real>0.464</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

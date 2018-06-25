@@ -1,6 +1,6 @@
 for i in *.ttf ; do 
-  fontbakery fix-fsselection --usetypometrics $i -e --no-coverage
+  gftools fix-fsselection --usetypometrics $i
 done
 for i in *.ttf ; do 
-  fontbakery fix-dsig $i -e --no-coverage
+  gftools fix-dsig $i
 done

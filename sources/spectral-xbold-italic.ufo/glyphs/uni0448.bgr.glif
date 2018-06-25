@@ -4,4 +4,15 @@
   <outline>
     <component base="uni0448"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.9904</real>
+        <real>1.0</real>
+        <real>0.464</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

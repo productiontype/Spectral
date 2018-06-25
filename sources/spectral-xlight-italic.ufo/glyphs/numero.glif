@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="numero" format="1">
-  <advance width="960"/>
-  <unicode hex="2116"/>
-  <outline>
-    <component base="n.sc"/>
-    <component base="ordmasculine" xOffset="583"/>
-  </outline>
-</glyph>

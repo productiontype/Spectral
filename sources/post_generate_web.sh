@@ -1,3 +1,3 @@
 for i in *.ttf ; do 
-  fontbakery fix-vertical-metrics $i -e --no-coverage
+  gftools fix-vertical-metrics $i
 done
