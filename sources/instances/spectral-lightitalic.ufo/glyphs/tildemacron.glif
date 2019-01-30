@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildemacron" format="2">
+  <advance width="500.0"/>
+  <anchor x="231.54545454545453" y="510.0" name="_top"/>
+  <outline>
+    <component base="tildecomb" xOffset="250.0"/>
+    <component base="macroncomb.case" xOffset="282.45454545454544"/>
+  </outline>
+</glyph>

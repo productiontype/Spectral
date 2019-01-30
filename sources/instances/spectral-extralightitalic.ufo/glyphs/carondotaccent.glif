@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondotaccent" format="2">
+  <advance width="500"/>
+  <anchor x="216.0" y="510.0" name="_top"/>
+  <outline>
+    <component base="caroncomb" xOffset="250"/>
+    <component base="dotaccentcomb.case" xOffset="263" yOffset="4"/>
+  </outline>
+</glyph>

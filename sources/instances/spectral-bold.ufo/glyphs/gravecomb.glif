@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="85.28571428571428" y="510.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="74.21428571428572" y="530.0" type="line"/>
+      <point x="96.14285714285714" y="530.0" type="line"/>
+      <point x="13.392857142857139" y="707.0" type="line"/>
+      <point x="-96.53571428571428" y="707.0" type="line"/>
+      <point x="-96.53571428571428" y="682.1428571428571"/>
+      <point x="-87.5" y="662.5357142857143"/>
+      <point x="-56.857142857142854" y="637.9285714285714" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

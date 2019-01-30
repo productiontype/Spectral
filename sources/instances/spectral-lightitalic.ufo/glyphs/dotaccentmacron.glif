@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentmacron" format="2">
+  <advance width="500.0"/>
+  <anchor x="220.54545454545453" y="510.0" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="239.0909090909091"/>
+    <component base="macroncomb.case" xOffset="266.90909090909093"/>
+  </outline>
+</glyph>

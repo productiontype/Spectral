@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="secondtonechinese" format="1">
-  <advance width="500"/>
+  <advance width="259"/>
   <unicode hex="02CA"/>
   <outline>
-    <component base="acute"/>
+    <component base="acute" xOffset="-0.27335011225678585"/>
   </outline>
 </glyph>

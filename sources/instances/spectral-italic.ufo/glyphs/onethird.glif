@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="2">
+  <advance width="730"/>
+  <unicode hex="2153"/>
+  <outline>
+    <component base="one.sups" xOffset="-2"/>
+    <component base="fraction" xOffset="292"/>
+    <component base="three.sinf" xOffset="411"/>
+  </outline>
+</glyph>

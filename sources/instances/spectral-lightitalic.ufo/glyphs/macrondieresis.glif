@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresis" format="2">
+  <advance width="500.0"/>
+  <anchor x="232.0909090909091" y="510.0" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="250.0"/>
+    <component base="dieresiscomb.case" xOffset="281.3636363636364"/>
+  </outline>
+</glyph>

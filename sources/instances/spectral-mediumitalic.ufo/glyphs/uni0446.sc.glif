@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0446.sc" format="2">
+  <advance width="668.6071428571429"/>
+  <outline>
+    <contour>
+      <point x="506.10714285714283" y="0.0" type="line"/>
+      <point x="547.0714285714286" y="-143.60714285714286" type="line"/>
+      <point x="563.8928571428571" y="-143.60714285714286" type="line"/>
+      <point x="596.4285714285714" y="46.07142857142857" type="line"/>
+      <point x="418.39285714285717" y="46.07142857142857" type="line"/>
+      <point x="410.2142857142857" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="665.9285714285714" y="560.0" type="line"/>
+      <point x="440.64285714285717" y="560.0" type="line"/>
+      <point x="437.64285714285717" y="544.0" type="line"/>
+      <point x="499.9642857142857" y="503.64285714285717" type="line"/>
+      <point x="408.85714285714283" y="0.0" type="line"/>
+      <point x="504.2142857142857" y="0.0" type="line"/>
+      <point x="595.3214285714286" y="503.64285714285717" type="line"/>
+      <point x="662.9285714285714" y="544.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="476.5357142857143" y="46.07142857142857" type="line"/>
+      <point x="114.0" y="46.07142857142857" type="line"/>
+      <point x="112.39285714285714" y="0.0" type="line"/>
+      <point x="474.92857142857144" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="322.32142857142856" y="560.0" type="line"/>
+      <point x="97.57142857142857" y="560.0" type="line"/>
+      <point x="94.57142857142857" y="544.0" type="line"/>
+      <point x="158.67857142857142" y="503.64285714285717" type="line"/>
+      <point x="77.39285714285714" y="56.35714285714286" type="line"/>
+      <point x="5.857142857142857" y="16.0" type="line"/>
+      <point x="2.8571428571428568" y="0.0" type="line"/>
+      <point x="162.57142857142856" y="0.0" type="line"/>
+      <point x="253.85714285714286" y="503.64285714285717" type="line"/>
+      <point x="320.1428571428571" y="544.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

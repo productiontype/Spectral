@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro.OP" format="2">
+  <advance width="487.1428571428571"/>
+  <outline>
+    <component base="Euro.OT" xOffset="-13.714285714285715"/>
+  </outline>
+</glyph>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0431" format="2">
+  <advance width="527.7272727272727"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="440.95454545454544" y="744.0909090909091" type="curve"/>
+      <point x="454.5" y="744.0909090909091" type="line"/>
+      <point x="458.5" y="740.0909090909091" type="line"/>
+      <point x="458.5" y="730.0909090909091" type="line" smooth="yes"/>
+      <point x="458.5" y="654.3636363636364"/>
+      <point x="435.1818181818182" y="617.6818181818181"/>
+      <point x="338.54545454545456" y="606.8181818181819" type="curve" smooth="yes"/>
+      <point x="232.13636363636363" y="595.1363636363636"/>
+      <point x="209.63636363636363" y="581.8181818181819"/>
+      <point x="184.45454545454547" y="565.6363636363636" type="curve" smooth="yes"/>
+      <point x="159.6818181818182" y="548.8636363636364"/>
+      <point x="138.72727272727272" y="518.0909090909091"/>
+      <point x="129.45454545454547" y="450.8181818181818" type="curve" smooth="yes"/>
+      <point x="125.45454545454545" y="422.8181818181818"/>
+      <point x="123.63636363636364" y="388.22727272727275"/>
+      <point x="123.63636363636364" y="346.6363636363636" type="curve" smooth="yes"/>
+      <point x="123.63636363636364" y="255.45454545454547" type="line" smooth="yes"/>
+      <point x="123.63636363636364" y="101.45454545454545"/>
+      <point x="185.72727272727272" y="24.81818181818182"/>
+      <point x="277.8636363636364" y="24.81818181818182" type="curve" smooth="yes"/>
+      <point x="346.1818181818182" y="24.81818181818182"/>
+      <point x="404.09090909090907" y="81.95454545454545"/>
+      <point x="404.09090909090907" y="196.77272727272728" type="curve" smooth="yes"/>
+      <point x="404.09090909090907" y="299.77272727272725"/>
+      <point x="372.54545454545456" y="404.1363636363636"/>
+      <point x="254.5" y="404.1363636363636" type="curve" smooth="yes"/>
+      <point x="195.95454545454547" y="404.1363636363636"/>
+      <point x="144.5" y="368.3636363636364"/>
+      <point x="114.54545454545455" y="319.1818181818182" type="curve"/>
+      <point x="96.5909090909091" y="329.04545454545456" type="line"/>
+      <point x="128.5909090909091" y="386.54545454545456"/>
+      <point x="179.22727272727272" y="440.0"/>
+      <point x="277.95454545454544" y="440.0" type="curve" smooth="yes"/>
+      <point x="392.45454545454544" y="440.0"/>
+      <point x="477.72727272727275" y="352.3181818181818"/>
+      <point x="477.72727272727275" y="215.4090909090909" type="curve" smooth="yes"/>
+      <point x="477.72727272727275" y="77.0909090909091"/>
+      <point x="383.45454545454544" y="-10.0"/>
+      <point x="264.45454545454544" y="-10.0" type="curve" smooth="yes"/>
+      <point x="123.4090909090909" y="-10.0"/>
+      <point x="50.0" y="98.36363636363636"/>
+      <point x="50.0" y="247.4090909090909" type="curve" smooth="yes"/>
+      <point x="50.0" y="456.72727272727275"/>
+      <point x="92.31818181818181" y="609.1818181818181"/>
+      <point x="351.54545454545456" y="675.0909090909091" type="curve" smooth="yes"/>
+      <point x="426.5" y="694.2727272727273"/>
+      <point x="440.95454545454544" y="705.1818181818181"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>2</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0431</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>510</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

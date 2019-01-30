@@ -57,32 +57,4 @@
       <point x="802.0" y="71.05084745762713"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>615</integer>
-          <key>y</key>
-          <integer>-131</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.9904</real>
-        <real>1.0</real>
-        <real>0.464</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

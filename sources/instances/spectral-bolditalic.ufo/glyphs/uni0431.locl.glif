@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0431.locl" format="2">
+  <advance width="505.7857142857143"/>
+  <outline>
+    <contour>
+      <point x="232.21428571428572" y="37.107142857142854" type="curve" smooth="yes"/>
+      <point x="182.67857142857142" y="37.107142857142854"/>
+      <point x="166.14285714285714" y="89.28571428571428"/>
+      <point x="166.14285714285714" y="171.89285714285714" type="curve" smooth="yes"/>
+      <point x="166.14285714285714" y="309.60714285714283"/>
+      <point x="213.82142857142856" y="419.9642857142857"/>
+      <point x="276.35714285714283" y="419.9642857142857" type="curve" smooth="yes"/>
+      <point x="323.07142857142856" y="419.9642857142857"/>
+      <point x="341.0357142857143" y="376.67857142857144"/>
+      <point x="341.0357142857143" y="288.39285714285717" type="curve" smooth="yes"/>
+      <point x="341.0357142857143" y="156.39285714285714"/>
+      <point x="295.5357142857143" y="37.107142857142854"/>
+    </contour>
+    <contour>
+      <point x="471.9642857142857" y="268.5" type="curve" smooth="yes"/>
+      <point x="471.9642857142857" y="378.25"/>
+      <point x="413.7335475825714" y="448.43848137142857"/>
+      <point x="296.35714285714283" y="465.67857142857144" type="curve" smooth="yes"/>
+      <point x="190.14285714285714" y="481.25"/>
+      <point x="170.82142857142856" y="505.9642857142857"/>
+      <point x="170.82142857142856" y="534.0714285714286" type="curve" smooth="yes"/>
+      <point x="170.82142857142856" y="572.5753968255714"/>
+      <point x="197.21428571428572" y="591.25"/>
+      <point x="302.82142857142856" y="591.25" type="curve" smooth="yes"/>
+      <point x="460.5357142857143" y="591.25"/>
+      <point x="488.4083414438571" y="620.0774215046072"/>
+      <point x="507.85714285714283" y="726.4285714285714" type="curve" smooth="yes"/>
+      <point x="511.67857142857144" y="747.9642857142857" type="line"/>
+      <point x="508.2857142857143" y="751.9642857142857" type="line"/>
+      <point x="483.17857142857144" y="751.9642857142857" type="line"/>
+      <point x="475.7857142857143" y="709.25"/>
+      <point x="455.85714285714283" y="699.0714285714286"/>
+      <point x="321.89285714285717" y="699.0714285714286" type="curve" smooth="yes"/>
+      <point x="159.67857142857144" y="699.0714285714286"/>
+      <point x="109.67857142857143" y="624.8214285714286"/>
+      <point x="109.67857142857143" y="550.5714285714286" type="curve" smooth="yes"/>
+      <point x="109.67857142857143" y="485.92857142857144"/>
+      <point x="157.35714285714286" y="451.14285714285717"/>
+      <point x="225.53571428571428" y="440.7857142857143" type="curve"/>
+      <point x="218.07142857142858" y="448.64285714285717" type="line"/>
+      <point x="104.89064601321786" y="415.0461100088214"/>
+      <point x="34.82142857142857" y="303.17857142857144"/>
+      <point x="34.82142857142857" y="192.28571428571428" type="curve" smooth="yes"/>
+      <point x="34.82142857142857" y="80.25"/>
+      <point x="93.71428571428571" y="-10.0"/>
+      <point x="216.82142857142856" y="-10.0" type="curve" smooth="yes"/>
+      <point x="371.10714285714283" y="-10.0"/>
+      <point x="471.9642857142857" y="128.39285714285714"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>2</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0431.locl</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>459</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

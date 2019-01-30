@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slashLP" format="2">
+  <advance width="544.6428571428571"/>
+  <outline>
+    <component base="zero.zero" xOffset="13.714285714285714"/>
+  </outline>
+</glyph>

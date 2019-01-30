@@ -20,8 +20,5 @@
     <contour>
       <point x="1" y="510" type="move" name="_top"/>
     </contour>
-    <contour>
-      <point x="1" y="618" type="move" name="_mid"/>
-    </contour>
   </outline>
 </glyph>

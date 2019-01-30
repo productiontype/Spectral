@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="716.7142857142857"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="441.57142857142856"/>
+    <component base="acutecomb.case" xOffset="551.0" yOffset="195.0"/>
+  </outline>
+</glyph>

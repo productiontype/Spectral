@@ -1,17 +1,17 @@
-uni0045 touch 19-20 yshift -0.375 @23-32
-uni0069 touch 0-11 yshift -0.75 @30,33-35,48
-uni20AC touch 0-2,31-34,48 yshift -0.75 @11
-uni0035 touch 15-19,24-29 yshift -1.0 @16-17
-uni0036 touch 5-8 yshift -0.5 @16-17
-uni0039 touch 0-2,19 yshift 0.5 @16-20
+E touch 19-20 yshift -0.375 @23-32
+i touch 0-11 yshift -0.75 @30,33-35,48
+Euro touch 0-2,31-34,48 yshift -0.75 @11
+five touch 15-19,24-29 yshift -1.0 @16-17
+six touch 5-8 yshift -0.5 @16-17
+nine touch 0-2,19 yshift 0.5 @16-20
 uni0424 touch 8-9,16-17,30-31,36 yshift -1.0 @10-22
 uni0424 touch 10-15 yshift 1.0 @10-12
 uni0424 touch 3-4,21-22,28-29,37-38 yshift 1.0 @10-15
 uni0424 touch 12-13 yshift -1.0 @27-28
 uni0447 touch 6-10,20-24 yshift -1.0 @18-20
-uni0069 right 19
-uni006A right 20
-uni0075 right 10
-uni0075 right 24
+i right 19
+j right 20
+u right 10
+u right 24
 uni043D left 4
 uni043D left 11

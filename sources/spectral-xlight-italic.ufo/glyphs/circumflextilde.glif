@@ -10,23 +10,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>80.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>260</integer>
-          <key>y</key>
-          <integer>590</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>

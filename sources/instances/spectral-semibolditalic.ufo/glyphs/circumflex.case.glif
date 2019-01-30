@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.case" format="2">
+  <advance width="381.7142857142857"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="253.45322100864792"/>
+  </outline>
+</glyph>

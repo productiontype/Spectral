@@ -2,7 +2,7 @@
 <glyph name="circumflexhookabove" format="1">
   <advance width="500"/>
   <outline>
-    <component base="circumflex"/>
+    <component base="circumflexcomb" xOffset="250"/>
     <component base="hookabovecomb" xOffset="250" yOffset="194"/>
     <contour>
       <point x="250.0" y="510.0" type="move" name="_top"/>

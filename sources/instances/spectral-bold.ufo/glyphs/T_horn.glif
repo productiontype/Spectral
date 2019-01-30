@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="683.5357142857142"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="43.75" y="0.0" type="line"/>
+      <point x="365.3928571428571" y="0.0" type="line"/>
+      <point x="365.3928571428571" y="16.0" type="line"/>
+      <point x="279.92857142857144" y="57.214285714285715" type="line"/>
+      <point x="279.92857142857144" y="602.7857142857143" type="line"/>
+      <point x="365.3928571428571" y="644.0" type="line"/>
+      <point x="365.3928571428571" y="660.0" type="line"/>
+      <point x="43.75" y="660.0" type="line"/>
+      <point x="43.75" y="644.0" type="line"/>
+      <point x="129.21428571428572" y="602.7857142857143" type="line"/>
+      <point x="129.21428571428572" y="57.214285714285715" type="line"/>
+      <point x="43.75" y="16.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="365.96428571428567" y="165.53571428571428" type="line" smooth="yes"/>
+      <point x="528.9642857142857" y="165.53571428571428"/>
+      <point x="650.9642857142857" y="241.07142857142858"/>
+      <point x="650.9642857142857" y="353.7142857142857" type="curve" smooth="yes"/>
+      <point x="650.9642857142857" y="477.7142857142857"/>
+      <point x="546.9642857142857" y="531.5"/>
+      <point x="389.9642857142857" y="531.5" type="curve" smooth="yes"/>
+      <point x="258.07142857142856" y="531.5" type="line"/>
+      <point x="258.07142857142856" y="476.5" type="line"/>
+      <point x="321.5" y="476.5" type="line" smooth="yes"/>
+      <point x="434.5" y="476.5"/>
+      <point x="497.5" y="437.5"/>
+      <point x="497.5" y="344.5" type="curve" smooth="yes"/>
+      <point x="497.5" y="269.5"/>
+      <point x="433.5" y="214.46428571428572"/>
+      <point x="328.5" y="214.46428571428572" type="curve" smooth="yes"/>
+      <point x="254.92857142857142" y="214.46428571428572" type="line"/>
+      <point x="254.92857142857142" y="165.53571428571428" type="line"/>
+    </contour>
+  </outline>
+</glyph>

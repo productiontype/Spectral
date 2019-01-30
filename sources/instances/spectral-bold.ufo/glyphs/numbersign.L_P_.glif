@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.LP" format="2">
+  <advance width="576.4285714285714"/>
+  <outline>
+    <component base="numbersign" xOffset="7.857142857142858"/>
+  </outline>
+</glyph>

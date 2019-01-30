@@ -45,37 +45,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>626</integer>
-          <key>y</key>
-          <integer>-214</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>554</integer>
-          <key>y</key>
-          <integer>-182</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>mask</key>
@@ -127,9 +96,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>405</integer>
+                  <integer>403</integer>
                   <key>y</key>
-                  <integer>-174</integer>
+                  <integer>-183</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -415,9 +384,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>241</integer>
+                  <integer>239</integer>
                   <key>y</key>
-                  <integer>-173</integer>
+                  <integer>-182</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>

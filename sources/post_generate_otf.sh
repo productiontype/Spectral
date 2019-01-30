@@ -7,6 +7,6 @@ for file in *.otf; do
 	echo  Hinting $file ...
   autohint -q $file
 done
-for i in *.ttf ; do 
-  fontbakery fix-fstype $i -e --no-coverage
-done
+gftools fix-fstype *.otf
+rm *.otf
+for i in *.fix ; do mv $i $(basename -s .fix $i) ; done

@@ -39,7 +39,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Spectral" filename="instances/spectral-italic.ufo" postscriptfontname="Spectral-Italic" stylemapfamilyname="Spectral" stylemapstylename="italic" stylename="Regular Italic">
+        <instance familyname="Spectral" filename="instances/spectral-italic.ufo" postscriptfontname="Spectral-Italic" stylemapfamilyname="Spectral" stylemapstylename="italic" stylename="Italic">
             <location>
                 <dimension name="weight" xvalue="440" />
             </location>

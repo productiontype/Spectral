@@ -1,18 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.alt" format="1">
-  <advance width="500"/>
+  <advance width="231"/>
   <outline>
     <contour>
-      <point x="185" y="553" type="line"/>
-      <point x="195" y="553" type="line"/>
-      <point x="294" y="673" type="line" smooth="yes"/>
-      <point x="315" y="699"/>
-      <point x="318" y="720"/>
-      <point x="315" y="740" type="curve"/>
-      <point x="242" y="740" type="line"/>
+      <point x="98.75441016589056" y="553" type="line"/>
+      <point x="108.75441016589056" y="553" type="line"/>
+      <point x="207.75441016589056" y="673" type="line" smooth="yes"/>
+      <point x="228.75441016589056" y="699"/>
+      <point x="231.75441016589056" y="720"/>
+      <point x="228.75441016589056" y="740" type="curve"/>
+      <point x="155.75441016589056" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="278" y="740" type="move" name="_right"/>
+      <point x="191.75441016589056" y="740" type="move" name="_right"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>_right</string>
+              <key>x</key>
+              <real>191.75441016589056</real>
+              <key>y</key>
+              <real>740.0</real>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>98.75441016589056</real>
+                  <key>y</key>
+                  <integer>553</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>108.75441016589056</real>
+                  <key>y</key>
+                  <integer>553</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>207.75441016589056</real>
+                  <key>y</key>
+                  <integer>673</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>228.75441016589056</real>
+                  <key>y</key>
+                  <integer>699</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>231.75441016589056</real>
+                  <key>y</key>
+                  <integer>720</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>228.75441016589056</real>
+                  <key>y</key>
+                  <integer>740</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>155.75441016589056</real>
+                  <key>y</key>
+                  <integer>740</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>231</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

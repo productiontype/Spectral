@@ -1,0 +1,419 @@
+# LANGUAGE SYSTEMS
+
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn MOL;
+languagesystem latn NLD;
+languagesystem latn ROM;
+languagesystem latn TRK;
+languagesystem cyrl SRB;
+languagesystem cyrl BGR;
+
+# FEATURES CLASSES
+
+@uc=[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Amacron Abreve Aring Aringacute Adotbelow Aogonek Adblgrave Ainvertedbreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Ahookabove AE AEacute Cacute Ccircumflex Ccaron Cdotaccent Ccedilla Ccedillaacute Dcaron Dcroat Ddotbelow Dlinebelow Egrave Eacute Ecircumflex Ecaron Etilde Edieresis Emacron Ebreve Edotaccent Eogonek Edotbelow Edblgrave Einvertedbreve Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Ehookabove Emacrongrave Emacronacute Ecedillabreve Gcircumflex Gbreve Gdotaccent Gcommaaccent Gcaron Gmacron Hcircumflex Hbar Hdotbelow Hbrevebelow Igrave Iacute Icircumflex Itilde Idieresis Imacron Ibreve Iogonek Idotbelow Idblgrave Iinvertedbreve Ihookabove Idieresisacute IJ Jacute Jcircumflex Kcommaaccent Lacute Lcaron Lcommaaccent Lslash Ldot Ldotbelow Llinebelow Mdotbelow Nacute Ncaron Ntilde Ncommaaccent Ndotaccent Ndotbelow Nlinebelow Ograve Oacute Ocircumflex Otilde Odieresis Omacron Obreve Ohungarumlaut Odotbelow Oogonek Odblgrave Oinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Ohookabove Otildeacute Otildedieresis Omacrongrave Omacronacute Oslash Oslashacute Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde OE Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve Rdotbelow Rlinebelow Sacute Scircumflex Scaron Scedilla Scommaaccent Sdotaccent Sdotbelow Sacutedotaccent Scarondotaccent Sdotbelowdotaccent Tcaron Tcommaaccent Tbar Tcedilla Tdotbelow Tlinebelow Ugrave Uacute Ucircumflex Utilde Udieresis Umacron Ubreve Uring Uhungarumlaut Uogonek Udotbelow Udblgrave Uinvertedbreve Uhookabove Utildeacute Umacrondieresis Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Wgrave Wacute Wcircumflex Wdieresis Ygrave Yacute Ycircumflex Ydieresis Ytilde Ymacron Ydotbelow Yhookabove Ydotaccent Zacute Zcaron Zdotaccent Zdotbelow Schwa Eng Eth Thorn uni01C4 uni01C7 uni01CA];
+@uc.all = [@uc Germandbls Idotaccent];
+@uc.punct = [hyphen.case exclamdown.case questiondown.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case slash.case backslash.case endash.case emdash.case periodcentered.case parenleft.case parenright.case bracketleft.case bracketright.case braceleft.case braceright.case at.case];
+@uc_cyr=[uni0410 uni0411 uni0412 uni0413 uni0403 uni0490 uni0414 uni0415 uni0401 uni0416 uni0417 uni0418 uni0419 uni041A uni040C uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni040E uni0424 uni0425 uni0427 uni0426 uni0428 uni0429 uni040F uni042C uni042A uni042B uni0409 uni040A uni0405 uni0404 uni042D uni0406 uni0407 uni0408 uni040B uni042E uni042F uni0402 uni0462 uni0472 uni0474 uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE uni0414.bgr uni0416.bgr uni041A.bgr uni041B.bgr ];
+
+@lc=[a b c d e f g h i j k l m n o p q r s t u v w x y z agrave aacute acircumflex atilde adieresis amacron abreve aring aringacute adotbelow aogonek adblgrave ainvertedbreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde ahookabove ae aeacute cacute ccircumflex ccaron cdotaccent ccedilla ccedillaacute dcaron dcroat ddotbelow dlinebelow egrave eacute ecircumflex ecaron etilde edieresis emacron ebreve edotaccent eogonek edotbelow edblgrave einvertedbreve ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde ehookabove emacrongrave emacronacute ecedillabreve gcircumflex gbreve gdotaccent gcommaaccent gcaron gmacron hcircumflex hbar hdotbelow hbrevebelow igrave iacute icircumflex itilde idieresis imacron ibreve iogonek idotbelow idblgrave iinvertedbreve ihookabove idieresisacute ij jacute jcircumflex kcommaaccent lacute lcaron lcommaaccent lslash ldot ldotbelow llinebelow mdotbelow nacute ncaron ntilde ncommaaccent ndotaccent ndotbelow nlinebelow ograve oacute ocircumflex otilde odieresis omacron obreve ohungarumlaut odotbelow oogonek odblgrave oinvertedbreve odieresismacron otildemacron odotaccentmacron ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde ohookabove otildeacute otildedieresis omacrongrave omacronacute oslash oslashacute ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde oe racute rcaron rcommaaccent rdblgrave rinvertedbreve rdotbelow rlinebelow sacute scircumflex scaron scedilla scommaaccent sdotaccent sdotbelow sacutedotaccent scarondotaccent sdotbelowdotaccent tcaron tcommaaccent tbar tcedilla tdotbelow tlinebelow ugrave uacute ucircumflex utilde udieresis umacron ubreve uring uhungarumlaut uogonek udotbelow udblgrave uinvertedbreve uhookabove utildeacute umacrondieresis uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde wgrave wacute wcircumflex wdieresis ygrave yacute ycircumflex ydieresis ytilde ymacron ydotbelow yhookabove ydotaccent zacute zcaron zdotaccent zdotbelow schwa eng eth thorn uni01C6 uni01C9 uni01CC];
+@lc.punct_sc=[exclam exclamdown question questiondown quotesingle quotedbl quotedblleft quotedblright quoteleft quoteright periodcentered ampersand at];
+@lc.punct_uc = [hyphen exclamdown questiondown guilsinglleft guilsinglright guillemotleft guillemotright slash backslash endash emdash periodcentered parenleft parenright bracketleft bracketright braceleft braceright at];
+@lc.all = [@lc idotless idotaccent longs];
+@lc_cyr=[uni0452 uni0454 uni0455 uni0456 uni0457 uni0458 uni0459 uni045A uni045B uni045F uni0430 uni0431 uni0432 uni0433 uni0453 uni0493 uni0434 uni0435 uni0451 uni0436 uni0437 uni0438 uni0439 uni04E3 uni043A uni045C uni043B uni043C uni043D uni043E uni043F uni0440 uni0441 uni0442 uni0443 uni045E uni04EF uni0444 uni0445 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044D uni044E uni044F uni0463 uni0473 uni0475 uni0491 uni0497 uni049B uni04A3 uni04AF uni04B1 uni04B3 uni04B7 uni04BB uni04CF uni04D9 uni04E9 uni0434.bgr uni043B.bgr uni0433.locl uni0431.locl uni043A.bgr uni0438.bgr uni043F.bgr uni0439.bgr uni0449.bgr uni0442.locl uni0447.bgr uni0433.bgr uni0442.bgr uni043F.locl uni0436.bgr uni044C.bgr uni0434.locl uni044E.bgr uni044A.bgr uni0432.bgr uni0437.bgr uni043D.bgr uni0448.bgr uni0446.bgr];
+
+@sc=[a.sc b.sc c.sc d.sc e.sc f.sc g.sc h.sc i.sc j.sc k.sc l.sc m.sc n.sc o.sc p.sc q.sc r.sc s.sc t.sc u.sc v.sc w.sc x.sc y.sc z.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc amacron.sc abreve.sc aring.sc aringacute.sc adotbelow.sc aogonek.sc adblgrave.sc ainvertedbreve.sc abreveacute.sc abrevedotbelow.sc abrevegrave.sc abrevehookabove.sc abrevetilde.sc acircumflexacute.sc acircumflexdotbelow.sc acircumflexgrave.sc acircumflexhookabove.sc acircumflextilde.sc ahookabove.sc ae.sc aeacute.sc cacute.sc ccircumflex.sc ccaron.sc cdotaccent.sc ccedilla.sc ccedillaacute.sc dcaron.sc dcroat.sc ddotbelow.sc dlinebelow.sc egrave.sc eacute.sc ecircumflex.sc ecaron.sc etilde.sc edieresis.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc edotbelow.sc edblgrave.sc einvertedbreve.sc ecircumflexacute.sc ecircumflexdotbelow.sc ecircumflexgrave.sc ecircumflexhookabove.sc ecircumflextilde.sc ehookabove.sc emacrongrave.sc emacronacute.sc ecedillabreve.sc gcircumflex.sc gbreve.sc gdotaccent.sc gcommaaccent.sc gcaron.sc gmacron.sc hcircumflex.sc hbar.sc hdotbelow.sc hbrevebelow.sc igrave.sc iacute.sc icircumflex.sc itilde.sc idieresis.sc imacron.sc ibreve.sc iogonek.sc idotbelow.sc idblgrave.sc iinvertedbreve.sc ihookabove.sc idieresisacute.sc ij.sc jacute.sc jcircumflex.sc kcommaaccent.sc lacute.sc lcaron.sc lcommaaccent.sc lslash.sc ldot.sc ldotbelow.sc llinebelow.sc mdotbelow.sc nacute.sc ncaron.sc ntilde.sc ncommaaccent.sc ndotaccent.sc ndotbelow.sc nlinebelow.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc omacron.sc obreve.sc ohungarumlaut.sc odotbelow.sc oogonek.sc odblgrave.sc oinvertedbreve.sc odieresismacron.sc otildemacron.sc odotaccentmacron.sc ocircumflexacute.sc ocircumflexdotbelow.sc ocircumflexgrave.sc ocircumflexhookabove.sc ocircumflextilde.sc ohookabove.sc otildeacute.sc otildedieresis.sc omacrongrave.sc omacronacute.sc oslash.sc oslashacute.sc ohorn.sc ohornacute.sc ohorndotbelow.sc ohorngrave.sc ohornhookabove.sc ohorntilde.sc oe.sc racute.sc rcaron.sc rcommaaccent.sc rdblgrave.sc rinvertedbreve.sc rdotbelow.sc rlinebelow.sc sacute.sc scircumflex.sc scaron.sc scedilla.sc scommaaccent.sc sdotaccent.sc sdotbelow.sc sacutedotaccent.sc scarondotaccent.sc sdotbelowdotaccent.sc tcaron.sc tcommaaccent.sc tbar.sc tcedilla.sc tdotbelow.sc tlinebelow.sc ugrave.sc uacute.sc ucircumflex.sc utilde.sc udieresis.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc udotbelow.sc udblgrave.sc uinvertedbreve.sc uhookabove.sc utildeacute.sc umacrondieresis.sc uhorn.sc uhornacute.sc uhorndotbelow.sc uhorngrave.sc uhornhookabove.sc uhorntilde.sc wgrave.sc wacute.sc wcircumflex.sc wdieresis.sc ygrave.sc yacute.sc ycircumflex.sc ydieresis.sc ytilde.sc ymacron.sc ydotbelow.sc yhookabove.sc ydotaccent.sc zacute.sc zcaron.sc zdotaccent.sc zdotbelow.sc schwa.sc eng.sc eth.sc thorn.sc dzcaron.sc lj.sc nj.sc];
+@sc.punct=[exclam.sc exclamdown.sc question.sc questiondown.sc quotesingle.sc quotedbl.sc quotedblleft.sc quotedblright.sc quoteleft.sc quoteright.sc periodcentered.sc ampersand.sc at.sc];
+@sc.all = [@sc germandbls.sc idotaccent.sc];
+@sc_cyr_lc=[uni0452.sc uni0454.sc uni0455.sc uni0456.sc uni0457.sc uni0458.sc uni0459.sc uni045A.sc uni045B.sc uni045F.sc uni0430.sc uni0431.sc uni0432.sc uni0433.sc uni0453.sc uni0493.sc uni0434.sc uni0435.sc uni0451.sc uni0436.sc uni0437.sc uni0438.sc uni0439.sc uni04E3.sc uni043A.sc uni045C.sc uni043B.sc uni043C.sc uni043D.sc uni043E.sc uni043F.sc uni0440.sc uni0441.sc uni0442.sc uni0443.sc uni045E.sc uni04EF.sc uni0444.sc uni0445.sc uni0446.sc uni0447.sc uni0448.sc uni0449.sc uni044A.sc uni044B.sc uni044C.sc uni044D.sc uni044E.sc uni044F.sc uni0463.sc uni0473.sc uni0475.sc uni0491.sc uni0497.sc uni049B.sc uni04A3.sc uni04AF.sc uni04B1.sc uni04B3.sc uni04B7.sc uni04BB.sc uni04CF.sc uni04D9.sc uni04E9.sc uni0434.bgr.sc uni043B.bgr.sc uni0433.locl.sc uni0431.locl.sc uni043A.bgr.sc uni0438.bgr.sc uni043F.bgr.sc uni0439.bgr.sc uni0449.bgr.sc uni0442.locl.sc uni0447.bgr.sc uni0433.bgr.sc uni0442.bgr.sc uni043F.locl.sc uni0436.bgr.sc uni044C.bgr.sc uni0434.locl.sc uni044E.bgr.sc uni044A.bgr.sc uni0432.bgr.sc uni0437.bgr.sc uni043D.bgr.sc uni0448.bgr.sc uni0446.bgr.sc];
+@sc_cyr_uc=[uni0430.sc uni0431.sc uni0432.sc uni0433.sc uni0453.sc uni0491.sc uni0434.sc uni0435.sc uni0451.sc uni0436.sc uni0437.sc uni0438.sc uni0439.sc uni043A.sc uni045C.sc uni043B.sc uni043C.sc uni043D.sc uni043E.sc uni043F.sc uni0440.sc uni0441.sc uni0442.sc uni0443.sc uni045E.sc uni0444.sc uni0445.sc uni0447.sc uni0446.sc uni0448.sc uni0449.sc uni045F.sc uni044C.sc uni044A.sc uni044B.sc uni0459.sc uni045A.sc uni0455.sc uni0454.sc uni044D.sc uni0456.sc uni0457.sc uni0458.sc uni045B.sc uni044E.sc uni044F.sc uni0452.sc uni0463.sc uni0473.sc uni0475.sc uni0493.sc uni0497.sc uni049B.sc uni04A3.sc uni04AF.sc uni04B1.sc uni04B3.sc uni04B7.sc uni04BB.sc uni04CF.sc uni04D9.sc uni04E3.sc uni04E9.sc uni04EF.sc uni0434.bgr.sc uni0436.bgr.sc uni043A.bgr.sc uni043B.bgr.sc ];
+
+@figs.default = [ zero one two three four five six seven eight nine ];
+@currency.default = [ numbersign Euro dollar cent sterling florin yen zero.zero ruble uni20B4 uni20B8 uni2116 ];
+
+@figs.lt = [ zero one two three four five six seven eight nine ];
+@currency.lt = [ numbersign Euro dollar cent sterling florin yen zero.zero ruble uni20B4 uni20B8 uni2116];
+
+@figs.lp = [ zero.LP one.LP two.LP three.LP four.LP five.LP six.LP seven.LP eight.LP nine.LP ];
+@currency.lp = [ numbersign.LP Euro.LP dollar.LP cent.LP sterling.LP florin.LP yen.LP zero.slashLP ruble.LP uni20B4.LP uni20B8.LP uni2116.LP ];
+
+@figs.ot = [ zero.OT one.OT two.OT three.OT four.OT five.OT six.OT seven.OT eight.OT nine.OT ];
+@currency.ot = [ numbersign.OT Euro.OT dollar.OT cent.OT sterling.OT florin.OT yen.OT zero.slashOT ruble.OT uni20B4.OT uni20B8.OT uni2116.OT ];
+
+@figs.op = [ zero.OP one.OP two.OP three.OP four.OP five.OP six.OP seven.OP eight.OP nine.OP ];
+@currency.op = [ numbersign.OP Euro.OP dollar.OP cent.OP sterling.OP florin.OP yen.OP zero.slashOP ruble.OP uni20B4.OP uni20B8.OP uni2116.OP];
+
+@figs.denominator = [ zero.sinf one.sinf two.sinf three.sinf four.sinf five.sinf six.sinf seven.sinf eight.sinf nine.sinf ];
+
+@figs.numerator = [ zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups ];
+
+@figs.superior = [ zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior ];
+
+@figs.inferior = [ zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior ];
+
+@sup_from = [ a b c d e f g h i j k l m n o p q r s t u v w x y z ];
+@sup_to = [ a.superior b.superior c.superior d.superior e.superior f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior n.superior o.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior w.superior x.superior y.superior z.superior ];
+
+@figs.opencirc = [ zero.opencirc uni2780 uni2781 uni2782 uni2783 uni2784 uni2785 uni2786 uni2787 uni2788 ];
+@figs.closecirc = [ zero.closecirc uni278A uni278B uni278C uni278D uni278E uni278F uni2790 uni2791 uni2792 ];
+
+@arrows.from = [less greater plus minus multiply divide equal plusminus];
+@arrows.to = [ arrowleft arrowright arrowup arrowdown arrowupleft arrowupright arrowdownleft arrowdownright ];
+
+@dingbats.from = [a b c d];
+@dingbats.to = [blacksquare blackdiamond blackcircle blacktriangle];
+
+# FEATURES
+
+feature aalt { # ALL ALTERNATES
+    feature locl;
+    feature ordn;
+    feature numr;
+    feature dnom;
+    feature sinf;
+    feature sups;
+    feature zero;
+    feature onum;
+    feature lnum;
+    feature tnum;
+    feature pnum;
+    feature c2sc;
+    feature smcp;
+    feature case;
+    feature hist;
+    feature ss01;
+    feature ss02;
+    feature ss03;
+    feature ss04;
+    feature ss05;
+    feature ss06;
+} aalt;
+
+feature ornm {
+    lookup arrows_all {
+        sub @arrows.from by @arrows.to;
+    } arrows_all;
+} ornm ;
+
+feature cpsp { # Capital Spacing
+    pos @uc.all  <5 0 10 0>;
+} cpsp;
+
+feature locl { # Localized Forms
+    script latn;
+    language AZE; # Azeri
+        sub i by idotaccent;
+    language CRT; # Crimean Tatar
+        sub i by idotaccent;
+    language MOL; # Moldavian
+        sub [Scedilla scedilla.sc scedilla] by [Scommaaccent scommaaccent.sc scommaaccent];
+    language NLD; #Dutch
+		sub iacute j' by jacute;
+		sub iacute.sc j.sc' by jacute.sc;
+		sub Iacute J' by Jacute;
+    language ROM; # Romanian
+        sub [Scedilla scedilla.sc scedilla] by [Scommaaccent scommaaccent.sc scommaaccent];
+    language TRK; # Turkish        
+        sub i by idotaccent;
+    script cyrl;
+    language SRB; # Serbian
+        sub [uni0431 uni0433 uni0434 uni043F uni0442] by [uni0431.locl uni0433.locl uni0434.locl uni043F.locl uni0442.locl];
+    language BGR; # Bulgarian
+        sub [uni0414 uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044A uni044C uni044E] by [uni0414.bgr uni0416.bgr uni041A.bgr uni041B.bgr uni0432.bgr uni0433.bgr uni0434.bgr uni0436.bgr uni0437.bgr uni0438.bgr uni0439.bgr uni043A.bgr uni043B.bgr uni043D.bgr uni043F.bgr uni0442.bgr uni0446.bgr uni0447.bgr uni0448.bgr uni0449.bgr uni044A.bgr uni044C.bgr uni044E.bgr];
+
+} locl;
+
+feature ss05 {
+    featureNames { 
+        name "Serbian Localized Forms"; # Windows English
+        name 1 0 0 "Serbian Localized Forms"; # Mac English
+    };
+    sub [uni0431 uni0433 uni0434 uni043F uni0442] by [uni0431.locl uni0433.locl uni0434.locl uni043F.locl uni0442.locl];
+} ss05;
+
+feature ss06 {
+    featureNames { 
+        name "Bulgarian Localized Forms"; # Windows English
+        name 1 0 0 "Bulgarian Localized Forms"; # Mac English
+    };
+    sub [uni0414 uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044A uni044C uni044E] by [uni0414.bgr uni0416.bgr uni041A.bgr uni041B.bgr uni0432.bgr uni0433.bgr uni0434.bgr uni0436.bgr uni0437.bgr uni0438.bgr uni0439.bgr uni043A.bgr uni043B.bgr uni043D.bgr uni043F.bgr uni0442.bgr uni0446.bgr uni0447.bgr uni0448.bgr uni0449.bgr uni044A.bgr uni044C.bgr uni044E.bgr];
+} ss06;
+
+feature ordn { # Ordinals
+    lookup ordn_base {
+        sub @figs.default [O o.sc o]' by ordmasculine;
+        sub @figs.default [A a.sc a]' by ordfeminine;
+    } ordn_base;
+    lookup ordn_numero {
+        sub N [O o o.sc degree ordmasculine] by uni2116;
+        sub n [O o o.sc degree ordmasculine] by uni2116;
+        sub n.sc [O o o.sc degree ordmasculine] by uni2116;
+    } ordn_numero;
+} ordn;
+    
+feature frac { # Fractions - This feature code by Tal Leming
+      lookup FractionBar {
+         ignore    sub slash @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt slash'; ignore    sub slash' @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt slash; ignore    sub slash @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   @figs.lt   slash'; ignore    sub slash'   @figs.lt   @figs.lt   slash; ignore    sub slash   @figs.lt   slash'; ignore    sub slash'   @figs.lt   slash;    sub @figs.lt slash' @figs.lt by fraction;
+         ignore    sub slash @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp slash'; ignore    sub slash' @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp slash; ignore    sub slash @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   @figs.lp   slash'; ignore    sub slash'   @figs.lp   @figs.lp   slash; ignore    sub slash   @figs.lp   slash'; ignore    sub slash'   @figs.lp   slash;    sub @figs.lp slash' @figs.lp by fraction;
+         ignore    sub slash @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot slash'; ignore    sub slash' @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot slash; ignore    sub slash @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   @figs.ot   slash'; ignore    sub slash'   @figs.ot   @figs.ot   slash; ignore    sub slash   @figs.ot   slash'; ignore    sub slash'   @figs.ot   slash;    sub @figs.ot slash' @figs.ot by fraction;
+         ignore    sub slash @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op slash'; ignore    sub slash' @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op slash; ignore    sub slash @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   @figs.op   slash'; ignore    sub slash'   @figs.op   @figs.op   slash; ignore    sub slash   @figs.op   slash'; ignore    sub slash'   @figs.op   slash;    sub @figs.op slash' @figs.op by fraction;
+      } FractionBar;
+      lookup Numerator1 {
+        sub @figs.lt' fraction by @figs.numerator;
+        sub @figs.lp' fraction by @figs.numerator;
+        sub @figs.ot' fraction by @figs.numerator;
+        sub @figs.op' fraction by @figs.numerator;
+      } Numerator1;
+      lookup Numerator2 {
+        sub @figs.lt' @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator fraction by @figs.numerator;
+      } Numerator2;
+      lookup Numerator3 {
+        sub @figs.lt' @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator fraction by @figs.numerator;
+    } Numerator3;
+      lookup Numerator4 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator4;
+      lookup Numerator5 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator5;
+      lookup Numerator6 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator6;
+      lookup Numerator7 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator7;
+      lookup Numerator8 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator8;
+      lookup Numerator9 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator9;
+      lookup Numerator10 {
+        sub @figs.lt' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.lp' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.ot' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+        sub @figs.op' @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator @figs.numerator fraction by @figs.numerator;
+      } Numerator10;
+      lookup Denominator {
+        sub [fraction @figs.denominator] @figs.lt' by @figs.denominator;
+        sub [fraction @figs.denominator] @figs.lp' by @figs.denominator;
+        sub [fraction @figs.denominator] @figs.ot' by @figs.denominator;
+        sub [fraction @figs.denominator] @figs.op' by @figs.denominator;
+      } Denominator;
+      lookup ThinSpace {
+         sub @figs.lt space' @figs.numerator by thinspace;
+         sub @figs.lp space' @figs.numerator by thinspace;
+         sub @figs.ot space' @figs.numerator by thinspace;
+         sub @figs.op space' @figs.numerator by thinspace;
+     } ThinSpace; 
+} frac;
+
+feature numr { # numerator
+    lookup numr_all {
+        sub @figs.default by @figs.numerator;
+    } numr_all;
+} numr;
+
+feature dnom { # denominator
+    lookup dnom_all {
+        sub @figs.default by @figs.denominator;
+    } dnom_all;
+} dnom;
+
+feature sinf { # inferior
+    lookup sups_all {
+        sub @figs.default by @figs.inferior;
+    } sups_all;
+} sinf;
+
+feature sups { # superior
+    lookup sups_figs {
+        sub @figs.default by @figs.superior;
+    } sups_figs;
+    lookup sups_letters {
+        sub @sup_from by @sup_to;
+        sub idotaccent by i.superior;
+    } sups_letters;
+} sups;
+
+feature zero { # zero slash
+    lookup zero_all {
+        sub zero by zero.zero;
+    } zero_all;
+} zero;
+
+feature onum { # old style figures
+    lookup onum_all {
+        sub [@figs.lt @figs.lp] by [@figs.ot @figs.op];
+        sub [@currency.lt @currency.lp] by [@currency.ot @currency.op];
+    } onum_all;
+} onum;
+
+feature lnum { # lining figures
+    lookup lnum_all {
+        sub [@figs.ot @figs.op] by [@figs.lt @figs.lp];
+        sub [@currency.ot @currency.op] by [@currency.lt @currency.lp];
+    } lnum_all;
+} lnum;
+
+feature tnum { # tabular figures
+    lookup tnum_all {
+        sub [@figs.lp @figs.op] by [@figs.lt @figs.ot];
+        sub [@currency.lp @currency.op] by [@currency.lt @currency.ot];
+    } tnum_all;
+} tnum;
+
+feature pnum { # proportional figures
+    lookup pnum_all {
+        sub [@figs.lt @figs.ot] by [@figs.lp @figs.op];
+        sub [@currency.lt @currency.ot] by [@currency.lp @currency.op];
+    } pnum_all;
+} pnum;
+
+feature c2sc { # caps to small caps
+    lookup c2sc_letters {
+          sub @uc by @sc;
+          sub @uc_cyr by @sc_cyr_uc;
+          sub @lc by @sc;
+          sub @lc_cyr by @sc_cyr_lc;
+          sub @lc.punct_sc by @sc.punct;
+          sub Germandbls by germandbls.sc;
+          sub Idotaccent by idotaccent.sc;
+      } c2sc_letters;
+      lookup onum_all;
+} c2sc;
+
+feature smcp { # small caps
+    lookup smcp_letters {
+          sub @lc by @sc;
+          sub @lc.punct_sc by @sc.punct;
+          sub idotless by i.sc;
+          sub idotaccent by idotaccent.sc;
+          sub germandbls by germandbls.sc;
+          sub @lc_cyr by @sc_cyr_lc;
+      } smcp_letters;
+      lookup onum_all;
+} smcp;
+
+feature case { # Case-sensitive forms
+    lookup case {
+        sub @lc by @uc;
+    } case; 
+    lookup case_exceptions {
+         sub [germandbls longs] by [Germandbls S]; 
+         sub [uni01C5 uni01C8 uni01CB] by [uni01C4 uni01C7 uni01CA];
+         sub idotaccent by Idotaccent;
+         sub idotless by I;
+     } case_exceptions;
+    lookup case_punctuation {
+        sub @lc.punct_uc by @uc.punct;
+    } case_punctuation; 
+    lookup lnum_all;
+} case;
+
+feature hist { # Historical Forms
+    lookup hist_all {
+        sub s' @lc.all by longs;
+    } hist_all;
+} hist;
+
+feature liga {
+    lookup liga_all {
+        sub f f b by f_f_b ;
+        sub f f h by f_f_h ;
+        sub f f i by f_f_i ;
+        sub f f j by f_f_j ;
+        sub f f k by f_f_k ;
+        sub f f l by f_f_l ;
+        sub f f t by f_f_t ;
+        sub f b by f_b ;
+        sub f f by f_f ;
+        sub f h by f_h ;
+        sub f i by fi ;
+        sub f j by f_j ;
+        sub f k by f_k ;
+        sub f l by fl ;
+        sub f t by f_t ;
+    } liga_all ;
+} liga ;
+
+feature dlig {
+    lookup dlig_all {
+        sub c h by c_h ;
+        sub c t by c_t ;
+        sub s t by s_t ;
+        sub s p by s_p ;
+        sub T h by T_h ;
+    } dlig_all ;
+} dlig ;
+
+feature ss01 { # Open circled figures
+    featureNames {
+        name "Open circled figures"; # Windows English
+        name 1 0 0 "Open circled figures"; # Mac English
+    };
+    lookup opencirc_01 {
+        sub one zero by uni2789;
+    } opencirc_01;
+    lookup opencirc_02 {
+        sub @figs.default by @figs.opencirc;
+    } opencirc_02;
+} ss01;
+
+feature ss02 { # close circled figures
+    featureNames {
+        name "Closed circled figures"; # Windows English
+        name 1 0 0 "Closed circled figures"; # Mac English
+    };
+    lookup closecirc_01 {
+        sub one zero by uni2793;
+    } closecirc_01;
+    lookup closecirc_02 {
+        sub @figs.default by @figs.closecirc;
+    } closecirc_02;
+} ss02;
+
+feature ss03 { #Arrows
+    featureNames {
+        name "Arrows"; # Windows English
+        name 1 0 0 "Arrows"; # Mac English
+    };
+    lookup arrows_all;
+} ss03;
+
+feature ss04 { #Dingbats
+    featureNames { 
+        name "Dingbats"; # Windows English
+        name 1 0 0 "Dingbats"; # Mac English
+    };
+    lookup dingbats_all {
+        sub @dingbats.from by @dingbats.to;
+    } dingbats_all;
+} ss04;

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown.case" format="2">
+  <advance width="397.32142857142856"/>
+  <outline>
+    <component base="questiondown" xOffset="34.785714285714285" yOffset="198.92857142857142"/>
+  </outline>
+</glyph>

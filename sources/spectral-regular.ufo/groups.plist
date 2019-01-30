@@ -1826,6 +1826,7 @@
 	<array>
 		<string>quotedblright</string>
 		<string>quoteright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>@MMK_L_kern_quotesingle3</key>
 	<array>
@@ -3504,6 +3505,7 @@
 	<array>
 		<string>quotedblright</string>
 		<string>quoteright</string>
+		<string>uni02BC</string>
 	</array>
 	<key>@MMK_R_kern_quotesingle3</key>
 	<array>

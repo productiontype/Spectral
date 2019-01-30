@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adotbelow" format="2">
+  <advance width="764.2857142857143"/>
+  <unicode hex="1EA0"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotbelowcomb.case" xOffset="362.7857142857143"/>
+  </outline>
+</glyph>

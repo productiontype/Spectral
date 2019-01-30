@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis" format="2">
+  <advance width="541.7142857142857"/>
+  <unicode hex="1E4F"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildedieresis" xOffset="18.285714285714285"/>
+  </outline>
+</glyph>

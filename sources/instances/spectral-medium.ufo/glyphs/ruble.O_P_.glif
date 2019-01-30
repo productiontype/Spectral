@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.OP" format="2">
+  <advance width="477.57142857142856"/>
+  <outline>
+    <component base="ruble.OT" xOffset="-10.0"/>
+  </outline>
+</glyph>

@@ -1,13 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="verticallinemod" format="1">
-  <advance width="500.0"/>
+  <advance width="167"/>
   <unicode hex="02C8"/>
   <outline>
     <contour>
-      <point x="217" y="535" type="line"/>
-      <point x="254" y="535" type="line"/>
-      <point x="284" y="701" type="line"/>
-      <point x="247" y="701" type="line"/>
+      <point x="97.16746733951439" y="535" type="line"/>
+      <point x="134.1674673395144" y="535" type="line"/>
+      <point x="164.1674673395144" y="701" type="line"/>
+      <point x="127.16746733951439" y="701" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>mask</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>97.16746733951439</real>
+                  <key>y</key>
+                  <integer>535</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>134.1674673395144</real>
+                  <key>y</key>
+                  <integer>535</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>164.1674673395144</real>
+                  <key>y</key>
+                  <integer>701</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>127.16746733951439</real>
+                  <key>y</key>
+                  <integer>701</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>verticallinemod</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>167</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

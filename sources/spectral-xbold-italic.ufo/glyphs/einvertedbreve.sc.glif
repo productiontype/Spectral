@@ -330,7 +330,7 @@
                   <key>x</key>
                   <integer>181</integer>
                   <key>y</key>
-                  <integer>646</integer>
+                  <integer>645</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -340,7 +340,7 @@
                   <key>x</key>
                   <integer>206</integer>
                   <key>y</key>
-                  <integer>646</integer>
+                  <integer>645</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -348,7 +348,7 @@
                   <key>x</key>
                   <integer>246</integer>
                   <key>y</key>
-                  <integer>715</integer>
+                  <integer>714</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -356,7 +356,7 @@
                   <key>x</key>
                   <integer>292</integer>
                   <key>y</key>
-                  <integer>732</integer>
+                  <integer>731</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -366,7 +366,7 @@
                   <key>x</key>
                   <integer>360</integer>
                   <key>y</key>
-                  <integer>732</integer>
+                  <integer>731</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -374,7 +374,7 @@
                   <key>x</key>
                   <integer>430</integer>
                   <key>y</key>
-                  <integer>732</integer>
+                  <integer>731</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -382,7 +382,7 @@
                   <key>x</key>
                   <integer>467</integer>
                   <key>y</key>
-                  <integer>719</integer>
+                  <integer>718</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -392,7 +392,7 @@
                   <key>x</key>
                   <integer>488</integer>
                   <key>y</key>
-                  <integer>646</integer>
+                  <integer>645</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -402,7 +402,7 @@
                   <key>x</key>
                   <integer>513</integer>
                   <key>y</key>
-                  <integer>646</integer>
+                  <integer>645</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -410,7 +410,7 @@
                   <key>x</key>
                   <integer>510</integer>
                   <key>y</key>
-                  <integer>754</integer>
+                  <integer>753</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -418,7 +418,7 @@
                   <key>x</key>
                   <integer>475</integer>
                   <key>y</key>
-                  <integer>813</integer>
+                  <integer>812</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -428,7 +428,7 @@
                   <key>x</key>
                   <integer>375</integer>
                   <key>y</key>
-                  <integer>813</integer>
+                  <integer>812</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -436,7 +436,7 @@
                   <key>x</key>
                   <integer>284</integer>
                   <key>y</key>
-                  <integer>813</integer>
+                  <integer>812</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -444,7 +444,7 @@
                   <key>x</key>
                   <integer>228</integer>
                   <key>y</key>
-                  <integer>769</integer>
+                  <integer>768</integer>
                 </dict>
               </array>
             </dict>

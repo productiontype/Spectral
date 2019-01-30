@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.LP" format="2">
+  <advance width="551.6785714285714"/>
+  <outline>
+    <component base="sterling" xOffset="-9.928571428571427"/>
+  </outline>
+</glyph>

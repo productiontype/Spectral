@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.OP" format="2">
+  <advance width="478.42857142857144"/>
+  <outline>
+    <component base="yen.OT" xOffset="-13.785714285714285"/>
+  </outline>
+</glyph>

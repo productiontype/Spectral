@@ -40,34 +40,4 @@
       <point x="228" y="25" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>0</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>showMeasurements</key>
-          <integer>1</integer>
-          <key>x</key>
-          <integer>332</integer>
-          <key>y</key>
-          <integer>280</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.9904</real>
-        <real>1.0</real>
-        <real>0.464</real>
-        <real>1.0</real>
-      </array>
-    </dict>
-  </lib>
 </glyph>

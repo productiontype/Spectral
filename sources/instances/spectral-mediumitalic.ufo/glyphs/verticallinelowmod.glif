@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="157.53571428571428"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <component base="verticallinemod" xOffset="-128.32142857142858" yOffset="-768.0"/>
+  </outline>
+</glyph>

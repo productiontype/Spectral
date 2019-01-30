@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown.case" format="2">
+  <advance width="226.27272727272728"/>
+  <outline>
+    <component base="exclamdown" xOffset="36.45454545454545" yOffset="207.27272727272728"/>
+  </outline>
+</glyph>

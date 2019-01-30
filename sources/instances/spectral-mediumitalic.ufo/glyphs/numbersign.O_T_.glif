@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign.OT" format="2">
+  <advance width="517.8571428571429"/>
+  <outline>
+    <contour>
+      <point x="18.464285714285715" y="160.64285714285714" type="line"/>
+      <point x="410.6428571428571" y="160.64285714285714" type="line"/>
+      <point x="417.6428571428571" y="203.0" type="line"/>
+      <point x="25.464285714285715" y="203.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="40.285714285714285" y="0.0" type="line"/>
+      <point x="87.64285714285714" y="0.0" type="line"/>
+      <point x="303.82142857142856" y="531.1785714285714" type="line"/>
+      <point x="256.4642857142857" y="531.1785714285714" type="line"/>
+    </contour>
+    <contour>
+      <point x="202.28571428571428" y="0.0" type="line"/>
+      <point x="249.64285714285714" y="0.0" type="line"/>
+      <point x="465.82142857142856" y="531.1785714285714" type="line"/>
+      <point x="418.4642857142857" y="531.1785714285714" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.64285714285714" y="340.82142857142856" type="line"/>
+      <point x="483.82142857142856" y="340.82142857142856" type="line"/>
+      <point x="490.82142857142856" y="383.17857142857144" type="line"/>
+      <point x="98.64285714285714" y="383.17857142857144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

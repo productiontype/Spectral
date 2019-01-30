@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.sinf" format="2">
+  <advance width="330.4642857142857"/>
+  <outline>
+    <contour>
+      <point x="11.964285714285715" y="0.0" type="curve"/>
+      <point x="98.32142857142857" y="0.0" type="line"/>
+      <point x="141.74907539814285" y="115.6686194695"/>
+      <point x="220.28571428571428" y="245.85714285714286"/>
+      <point x="292.67857142857144" y="355.5" type="curve"/>
+      <point x="297.89285714285717" y="385.0" type="line"/>
+      <point x="44.39285714285714" y="385.0" type="line"/>
+      <point x="27.75" y="289.89285714285717" type="line"/>
+      <point x="236.32142857142858" y="289.89285714285717" type="line"/>
+      <point x="275.75" y="365.0" type="line"/>
+      <point x="161.20260770571429" y="216.37643037314285"/>
+      <point x="60.070490778514284" y="83.59519766968928"/>
+    </contour>
+  </outline>
+</glyph>

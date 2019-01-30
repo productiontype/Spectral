@@ -19,8 +19,5 @@
     <contour>
       <point x="0.0" y="710.0" type="move" name="_top"/>
     </contour>
-    <contour>
-      <point x="0.0" y="786.0" type="move" name="_mid"/>
-    </contour>
   </outline>
 </glyph>

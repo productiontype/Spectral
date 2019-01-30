@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.LP" format="2">
+  <advance width="495.42857142857144"/>
+  <outline>
+    <component base="cent" xOffset="-15.142857142857144"/>
+  </outline>
+</glyph>

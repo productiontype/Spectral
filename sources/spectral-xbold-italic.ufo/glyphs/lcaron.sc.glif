@@ -3,7 +3,7 @@
   <advance width="505"/>
   <outline>
     <component base="l.sc"/>
-    <component base="caroncomb.alt" xOffset="188" yOffset="-180"/>
+    <component base="caroncomb.alt" xOffset="275.2455898341094" yOffset="-180"/>
   </outline>
   <lib>
     <dict>
@@ -173,9 +173,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>359</integer>
+                  <real>271.7544101658906</real>
                   <key>y</key>
-                  <integer>374</integer>
+                  <real>373.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -183,9 +183,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>384</integer>
+                  <real>296.7544101658906</real>
                   <key>y</key>
-                  <integer>374</integer>
+                  <real>373.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -193,25 +193,25 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>495</integer>
+                  <real>407.7544101658906</real>
                   <key>y</key>
-                  <integer>494</integer>
+                  <real>493.0</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>518</integer>
+                  <real>430.7544101658906</real>
                   <key>y</key>
-                  <integer>519</integer>
+                  <real>518.0</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>519</integer>
+                  <real>431.7544101658906</real>
                   <key>y</key>
-                  <integer>541</integer>
+                  <real>540.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -219,9 +219,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>516</integer>
+                  <real>428.7544101658906</real>
                   <key>y</key>
-                  <integer>561</integer>
+                  <real>560.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -229,9 +229,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>406</integer>
+                  <real>318.7544101658906</real>
                   <key>y</key>
-                  <integer>561</integer>
+                  <real>560.0</real>
                 </dict>
               </array>
             </dict>

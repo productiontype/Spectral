@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.LP" format="2">
+  <advance width="540.2857142857143"/>
+  <outline>
+    <component base="two" xOffset="-2.1428571428571432"/>
+  </outline>
+</glyph>

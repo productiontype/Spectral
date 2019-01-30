@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin.LP" format="2">
+  <advance width="438.7142857142857"/>
+  <outline>
+    <component base="florin" xOffset="-34.357142857142854"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacronacute" format="2">
+  <advance width="771.5714285714286"/>
+  <unicode hex="1E52"/>
+  <outline>
+    <component base="O"/>
+    <component base="macronacute.case" xOffset="214.57142857142856"/>
+  </outline>
+</glyph>

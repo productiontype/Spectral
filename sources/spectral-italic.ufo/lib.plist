@@ -2,32 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.typemytype.robofont.2.layerShow</key>
-	<false/>
-	<key>com.typemytype.robofont.2.layerStrokeColor</key>
-	<array>
-		<real>1.0</real>
-		<real>0.0</real>
-		<real>0.0</real>
-		<real>0.7</real>
-	</array>
-	<key>com.typemytype.robofont.background.layerShow</key>
-	<true/>
-	<key>com.typemytype.robofont.background.layerStrokeColor</key>
-	<array>
-		<real>0.0</real>
-		<real>0.8</real>
-		<real>0.2</real>
-		<real>0.7</real>
-	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
-	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
-	<true/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
@@ -43,256 +23,11 @@
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>446</integer>
-			<key>y</key>
-			<integer>660</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>676</integer>
-			<key>y</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>208</integer>
-			<key>y</key>
-			<integer>56</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>226</integer>
-			<key>y</key>
-			<integer>735</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>310</integer>
-			<key>y</key>
-			<integer>450</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>270</integer>
-			<key>y</key>
-			<integer>16</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>526</integer>
-			<key>y</key>
-			<integer>560</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>480</integer>
-			<key>y</key>
-			<integer>515</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>121</integer>
-			<key>y</key>
-			<integer>544</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>180</integer>
-			<key>y</key>
-			<integer>504</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>624</integer>
-			<key>y</key>
-			<integer>45</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<true/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>572</integer>
-			<key>y</key>
-			<integer>-142</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>top Acc Comb</string>
-			<key>x</key>
-			<integer>143</integer>
-			<key>y</key>
-			<integer>707</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>bot Acc Comb</string>
-			<key>x</key>
-			<integer>186</integer>
-			<key>y</key>
-			<integer>530</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string>mid Acc Comb</string>
-			<key>x</key>
-			<integer>179</integer>
-			<key>y</key>
-			<integer>618</integer>
-		</dict>
-	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>2</string>
-		<string>background</string>
-		<string>mask</string>
 	</array>
-	<key>com.typemytype.robofont.mask.layerStrokeColor</key>
-	<array>
-		<real>0.5</real>
-		<real>1.0</real>
-		<real>0.0</real>
-		<real>0.7</real>
-	</array>
-	<key>com.typemytype.robofont.segmentType</key>
-	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.sort</key>
@@ -1497,6 +1232,7 @@
 				<string>servicemark</string>
 				<string>ordfeminine</string>
 				<string>ordmasculine</string>
+				<string>numero</string>
 				<string>numbersign</string>
 				<string>Euro</string>
 				<string>dollar</string>
@@ -2988,6 +2724,7 @@
 		<string>servicemark</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
+		<string>numero</string>
 		<string>numbersign</string>
 		<string>Euro</string>
 		<string>dollar</string>

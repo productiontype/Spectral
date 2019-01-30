@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde.case" format="1">
-  <advance width="500"/>
+  <advance width="385"/>
   <outline>
-    <component base="tildecomb.case" xOffset="250"/>
+    <component base="tildecomb.case" xOffset="257.18302097788126"/>
   </outline>
 </glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreveacute" format="2">
+  <advance width="764.2857142857143"/>
+  <unicode hex="1EAE"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveacute.case" xOffset="131.71428571428572"/>
+  </outline>
+</glyph>

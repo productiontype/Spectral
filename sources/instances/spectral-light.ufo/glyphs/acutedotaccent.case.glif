@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccent.case" format="2">
+  <advance width="500.0"/>
+  <anchor x="181.63636363636363" y="710.0" name="_top"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="250.0"/>
+    <component base="dotaccentcomb.case" xOffset="146.0" yOffset="74.36363636363636"/>
+  </outline>
+</glyph>

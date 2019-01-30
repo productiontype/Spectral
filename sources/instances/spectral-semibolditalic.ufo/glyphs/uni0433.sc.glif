@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0433.sc" format="2">
+  <advance width="520.8571428571429"/>
+  <outline>
+    <contour>
+      <point x="-7.142857142857142" y="0.0" type="line"/>
+      <point x="262.57142857142856" y="0.0" type="line"/>
+      <point x="265.1428571428571" y="16.0" type="line"/>
+      <point x="187.57142857142856" y="56.857142857142854" type="line"/>
+      <point x="278.0" y="560.0" type="line"/>
+      <point x="93.57142857142857" y="560.0" type="line"/>
+      <point x="90.57142857142857" y="544.0" type="line"/>
+      <point x="150.57142857142858" y="503.14285714285717" type="line"/>
+      <point x="70.71428571428571" y="56.857142857142854" type="line"/>
+      <point x="-4.142857142857142" y="16.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="475.0" y="413.14285714285717" type="line"/>
+      <point x="491.57142857142856" y="413.14285714285717" type="line"/>
+      <point x="517.7142857142857" y="560.0" type="line"/>
+      <point x="208.0" y="560.0" type="line"/>
+      <point x="198.57142857142858" y="510.7142857142857" type="line"/>
+      <point x="438.85714285714283" y="510.7142857142857" type="line"/>
+    </contour>
+  </outline>
+</glyph>

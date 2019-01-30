@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sinf" format="2">
+  <advance width="308.45454545454544"/>
+  <outline>
+    <contour>
+      <point x="105.9090909090909" y="0.0" type="line"/>
+      <point x="160.1818181818182" y="0.0" type="line"/>
+      <point x="227.72727272727272" y="385.0" type="line"/>
+      <point x="207.36363636363637" y="385.0" type="line"/>
+      <point x="-27.09090909090909" y="123.63636363636364" type="line"/>
+      <point x="-30.0" y="109.45454545454545" type="line"/>
+      <point x="247.54545454545453" y="109.45454545454545" type="line"/>
+      <point x="253.45454545454547" y="143.63636363636363" type="line"/>
+      <point x="-2.6363636363636367" y="143.63636363636363" type="line"/>
+      <point x="4.545454545454545" y="125.63636363636364" type="line"/>
+      <point x="189.0" y="334.54545454545456" type="line"/>
+      <point x="164.0909090909091" y="330.1818181818182" type="line"/>
+    </contour>
+  </outline>
+</glyph>
