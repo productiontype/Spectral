@@ -13,7 +13,7 @@ Spectral is available under the SIL Open Font License v1.1, for more details see
 Contributions
 -------------
 
-The project is led by Production Type, a digital type design agency based in Paris. 
+The project is led by Production Type, a digital type design agency based in Paris and Shanghai. 
 To contribute ideas and feedback, see [github.com/productiontype/spectral](https://github.com/productiontype/spectral)
 
 
