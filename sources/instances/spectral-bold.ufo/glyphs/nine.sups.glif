@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="nine.sups" format="2">
-  <advance width="369.32142857142856"/>
-  <outline>
-    <component base="nine.sinf" yOffset="355.60714285714283"/>
-  </outline>
-</glyph>

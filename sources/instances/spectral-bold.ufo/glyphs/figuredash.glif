@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="figuredash" format="2">
-  <advance width="560.7142857142857"/>
-  <unicode hex="2012"/>
-  <outline>
-    <component base="endash" xOffset="30.357142857142854"/>
-  </outline>
-</glyph>

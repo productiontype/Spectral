@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ruble.LP" format="2">
-  <advance width="592.4642857142857"/>
-  <outline>
-    <component base="ruble" xOffset="20.0"/>
-  </outline>
-</glyph>

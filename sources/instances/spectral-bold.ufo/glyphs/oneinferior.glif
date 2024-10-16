@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="oneinferior" format="2">
-  <advance width="293.2857142857143"/>
-  <unicode hex="2081"/>
-  <outline>
-    <component base="one.sinf" yOffset="-230.0"/>
-  </outline>
-</glyph>

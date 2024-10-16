@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="acute.case" format="2">
-  <advance width="274.4642857142857"/>
-  <outline>
-    <component base="acutecomb.case" xOffset="137.42857142857142"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ecircumflextilde" format="2">
-  <advance width="681.1428571428571"/>
-  <unicode hex="1EC4"/>
-  <outline>
-    <component base="E"/>
-    <component base="circumflextilde.case" xOffset="103.82142857142857"/>
-  </outline>
-</glyph>
