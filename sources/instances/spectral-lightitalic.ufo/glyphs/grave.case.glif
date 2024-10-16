@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="grave.case" format="2">
-  <advance width="249.45454545454547"/>
-  <outline>
-    <component base="gravecomb.case" xOffset="187.05062360605052"/>
-  </outline>
-</glyph>

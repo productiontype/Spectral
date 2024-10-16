@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ninesuperior" format="2">
-  <advance width="327.27272727272725"/>
-  <unicode hex="2079"/>
-  <outline>
-    <component base="nine.sinf" yOffset="505.0"/>
-  </outline>
-</glyph>

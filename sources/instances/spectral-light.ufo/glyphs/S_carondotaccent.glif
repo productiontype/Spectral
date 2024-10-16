@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Scarondotaccent" format="2">
-  <advance width="524.8636363636364"/>
-  <unicode hex="1E66"/>
-  <outline>
-    <component base="S"/>
-    <component base="carondotaccent.case" xOffset="21.181818181818183"/>
-  </outline>
-</glyph>

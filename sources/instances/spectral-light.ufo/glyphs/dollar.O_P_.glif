@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dollar.OP" format="2">
-  <advance width="459.5"/>
-  <outline>
-    <component base="dollar.OT" xOffset="-25.363636363636363"/>
-  </outline>
-</glyph>
