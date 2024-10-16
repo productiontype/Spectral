@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ampersand" format="1">
-  <advance width="719.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand" format="2">
+  <advance width="719"/>
   <unicode hex="0026"/>
   <outline>
     <contour>

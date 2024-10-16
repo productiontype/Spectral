@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexgrave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgrave" format="2">
   <advance width="500"/>
+  <anchor x="250" y="510" name="_top"/>
   <outline>
     <contour>
       <point x="114" y="530" type="line"/>
@@ -13,16 +14,11 @@
       <point x="239" y="707" type="line"/>
     </contour>
     <contour>
-      <point x="129" y="637" type="line"/>
-      <point x="137" y="637" type="line"/>
-      <point x="82" y="780" type="line"/>
-      <point x="35" y="780" type="line"/>
-      <point x="35" y="761"/>
-      <point x="44" y="749"/>
-      <point x="64" y="723" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="250" y="510" type="move" name="_top"/>
+      <point x="138" y="637" type="line"/>
+      <point x="79" y="780" type="line"/>
+      <point x="25" y="780" type="line"/>
+      <point x="25" y="767" type="line"/>
+      <point x="127" y="637" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresiscomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
+  <anchor x="0" y="510" name="_top"/>
   <outline>
     <contour>
       <point x="-94" y="576" type="curve" smooth="yes"/>
@@ -30,9 +30,6 @@
       <point x="53" y="617" type="curve" smooth="yes"/>
       <point x="53" y="594"/>
       <point x="71" y="576"/>
-    </contour>
-    <contour>
-      <point x="0" y="510" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>
