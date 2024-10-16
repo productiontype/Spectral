@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Uacute" format="2">
-  <advance width="776.5714285714286"/>
-  <unicode hex="00DA"/>
-  <outline>
-    <component base="U"/>
-    <component base="acutecomb.case" xOffset="560.8214285714286"/>
-  </outline>
-</glyph>

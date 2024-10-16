@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni0401" format="2">
-  <advance width="658.8571428571429"/>
-  <unicode hex="0401"/>
-  <outline>
-    <component base="Edieresis"/>
-  </outline>
-</glyph>

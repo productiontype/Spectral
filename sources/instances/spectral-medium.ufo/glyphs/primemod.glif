@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="primemod" format="2">
-  <advance width="250.0"/>
-  <unicode hex="02B9"/>
-  <outline>
-    <component base="minute" xOffset="3.552713678800501e-15"/>
-  </outline>
-</glyph>
