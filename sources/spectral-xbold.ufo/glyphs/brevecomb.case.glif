@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case" format="2">
+  <anchor x="0" y="710" name="_top"/>
   <outline>
     <contour>
       <point x="0" y="710" type="curve" smooth="yes"/>
@@ -17,9 +17,6 @@
       <point x="-168" y="862" type="line"/>
       <point x="-145" y="759"/>
       <point x="-103" y="710"/>
-    </contour>
-    <contour>
-      <point x="0" y="710" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

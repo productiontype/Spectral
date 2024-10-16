@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oslash.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
   <advance width="694"/>
+  <anchor x="347" y="615" name="top"/>
   <outline>
     <contour>
       <point x="347" y="-10" type="curve" smooth="yes"/>
@@ -35,15 +36,6 @@
       <point x="112" y="-10" type="line"/>
       <point x="659" y="572" type="line"/>
       <point x="582" y="572" type="line"/>
-    </contour>
-    <contour>
-      <point x="347" y="615" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="377" y="0" type="move" name="right"/>
-    </contour>
-    <contour>
-      <point x="347" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

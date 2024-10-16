@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01CB" format="2">
+  <advance width="1168"/>
+  <unicode hex="01CB"/>
+  <anchor x="783" y="361" name="caret_"/>
+  <outline>
+    <component base="N"/>
+    <component base="j" xOffset="827"/>
+  </outline>
+</glyph>
