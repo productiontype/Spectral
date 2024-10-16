@@ -1,82 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="verticallinelowmod" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
   <advance width="114"/>
   <unicode hex="02CC"/>
   <outline>
     <component base="verticallinemod" xOffset="-139" yOffset="-768"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>-56.83253266048561</real>
-                  <key>y</key>
-                  <real>-233.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>-12.832532660485612</real>
-                  <key>y</key>
-                  <real>-233.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>17.16746733951439</real>
-                  <key>y</key>
-                  <real>-67.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>-26.83253266048561</real>
-                  <key>y</key>
-                  <real>-67.0</real>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>verticallinelowmod</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>114</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

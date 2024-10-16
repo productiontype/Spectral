@@ -1,82 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="firsttonechinese" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
   <advance width="388"/>
   <unicode hex="02C9"/>
   <outline>
     <component base="macroncomb" xOffset="245.48747836687176"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>86.48747836687176</real>
-                  <key>y</key>
-                  <integer>584</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>392.48747836687176</real>
-                  <key>y</key>
-                  <integer>584</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>404.48747836687176</real>
-                  <key>y</key>
-                  <integer>650</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>98.48747836687176</real>
-                  <key>y</key>
-                  <integer>650</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>firsttonechinese</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>388</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
