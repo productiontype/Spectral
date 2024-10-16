@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cedillacomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
   <unicode hex="0327"/>
+  <anchor x="-7.0" y="0.0" name="_bottom"/>
   <outline>
     <contour>
       <point x="-7" y="-240" type="curve" smooth="yes"/>
@@ -28,9 +28,6 @@
       <point x="-90" y="-210" type="line"/>
       <point x="-72" y="-231"/>
       <point x="-44" y="-240"/>
-    </contour>
-    <contour>
-      <point x="-7.0" y="0.0" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

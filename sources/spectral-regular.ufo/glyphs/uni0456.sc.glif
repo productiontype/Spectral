@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0456.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0456.sc" format="2">
   <advance width="359"/>
+  <anchor x="180" y="615" name="top"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="196" y="0" name="right"/>
   <outline>
     <component base="i.sc"/>
   </outline>

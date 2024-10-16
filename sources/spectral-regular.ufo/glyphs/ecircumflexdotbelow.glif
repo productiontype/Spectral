@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecircumflexdotbelow" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexdotbelow" format="2">
   <advance width="484"/>
   <unicode hex="1EC7"/>
-  <note>
-  </note>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="260.0"/>
-    <component base="dotbelowcomb" xOffset="264.0"/>
+    <component base="circumflexcomb" xOffset="260"/>
+    <component base="dotbelowcomb" xOffset="264"/>
   </outline>
 </glyph>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hookabovecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
   <unicode hex="0309"/>
+  <anchor x="-10.0" y="510.0" name="_top"/>
   <outline>
     <contour>
       <point x="-58" y="541" type="line"/>
@@ -19,9 +19,6 @@
       <point x="11" y="571"/>
       <point x="-14" y="558"/>
       <point x="-58" y="542" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-10.0" y="510.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

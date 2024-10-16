@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0433.locl.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0433.locl.sc" format="2">
   <advance width="525"/>
+  <anchor x="301.0" y="615.0" name="top"/>
   <outline>
     <component base="uni0433.sc"/>
   </outline>

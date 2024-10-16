@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
   <advance width="354"/>
   <unicode hex="0074"/>
+  <anchor x="155" y="610" name="top"/>
+  <anchor x="212.0" y="0.0" name="bottom"/>
+  <anchor x="309" y="740" name="right"/>
   <outline>
     <contour>
       <point x="208" y="-10" type="curve"/>
@@ -29,15 +32,6 @@
       <point x="100" y="89" type="line" smooth="yes"/>
       <point x="100" y="26"/>
       <point x="149" y="-10"/>
-    </contour>
-    <contour>
-      <point x="155" y="610" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="212.0" y="0.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="309" y="740" type="move" name="right"/>
     </contour>
   </outline>
 </glyph>

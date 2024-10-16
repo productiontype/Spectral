@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="pi" format="1">
-  <advance width="589.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="589"/>
   <unicode hex="03C0"/>
   <outline>
     <contour>
