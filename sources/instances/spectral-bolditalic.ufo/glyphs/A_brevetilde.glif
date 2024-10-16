@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Abrevetilde" format="2">
-  <advance width="717.4285714285714"/>
-  <unicode hex="1EB4"/>
-  <outline>
-    <component base="A"/>
-    <component base="brevetilde.case" xOffset="197.71428571428572"/>
-  </outline>
-</glyph>

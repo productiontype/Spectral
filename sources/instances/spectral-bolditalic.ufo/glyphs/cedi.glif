@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="cedi" format="2">
-  <advance width="560.7142857142857"/>
-  <unicode hex="20B5"/>
-  <outline>
-    <component base="cent" xOffset="-6.678571428571429"/>
-  </outline>
-</glyph>

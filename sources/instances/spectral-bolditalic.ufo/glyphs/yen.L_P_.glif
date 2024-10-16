@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="yen.LP" format="2">
-  <advance width="583.3571428571429"/>
-  <outline>
-    <component base="yen" xOffset="3.25"/>
-  </outline>
-</glyph>
