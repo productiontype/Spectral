@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brevebelowcomb.case" format="2">
-  <anchor x="10.857142857142858" y="0.0" name="_bottom"/>
-  <outline>
-    <component base="brevebelowcomb" xOffset="-1.2857142857142858" yOffset="-3.428571428571429"/>
-  </outline>
-</glyph>

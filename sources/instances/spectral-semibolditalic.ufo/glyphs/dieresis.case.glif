@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dieresis.case" format="2">
-  <advance width="370.7142857142857"/>
-  <outline>
-    <component base="dieresiscomb.case" xOffset="250.40937833479842"/>
-  </outline>
-</glyph>

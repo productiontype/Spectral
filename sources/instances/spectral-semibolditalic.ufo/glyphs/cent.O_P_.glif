@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="cent.OP" format="2">
-  <advance width="485.2857142857143"/>
-  <outline>
-    <component base="cent.OT" xOffset="-26.999999999999996"/>
-  </outline>
-</glyph>
