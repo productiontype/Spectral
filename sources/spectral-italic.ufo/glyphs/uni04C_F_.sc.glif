@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04CF.sc" format="2">
+  <advance width="321"/>
+  <anchor x="217" y="615" name="top"/>
+  <anchor x="131" y="0" name="right"/>
+  <anchor x="109" y="0" name="bottom"/>
+  <outline>
+    <component base="i.sc"/>
+  </outline>
+</glyph>
