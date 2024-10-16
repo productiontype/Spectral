@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="firsttonechinese" format="2">
-  <advance width="346"/>
-  <unicode hex="02C9"/>
-  <outline>
-    <component base="macroncomb" xOffset="226.16258468360218"/>
-  </outline>
-</glyph>
