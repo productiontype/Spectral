@@ -1,0 +1,8 @@
+sources:
+  - Spectral.designspace
+  - Spectral-Italic.designspace
+buildVariable: false
+familyName: Spectral
+buildSmallCap: true
+buildOTF: true
+cleanUp: true
