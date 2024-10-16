@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macronacute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacute" format="2">
   <advance width="500"/>
+  <anchor x="233" y="510" name="_top"/>
   <outline>
-    <component base="macroncomb" xOffset="250"/>
-    <component base="acutecomb.case" xOffset="332"/>
     <contour>
-      <point x="233" y="510" type="move" name="_top"/>
+      <point x="127" y="603" type="line"/>
+      <point x="368" y="603" type="line"/>
+      <point x="373" y="631" type="line"/>
+      <point x="132" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="710" type="line"/>
+      <point x="262" y="710" type="line"/>
+      <point x="421" y="848" type="line"/>
+      <point x="421" y="862" type="line"/>
+      <point x="363" y="862" type="line"/>
     </contour>
   </outline>
 </glyph>

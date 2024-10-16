@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oslash" format="1">
-  <advance width="459.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="459"/>
   <unicode hex="00F8"/>
+  <anchor x="279" y="510" name="top"/>
   <outline>
     <contour>
       <point x="188" y="-10" type="curve" smooth="yes"/>
@@ -36,9 +37,6 @@
       <point x="33" y="-10" type="line"/>
       <point x="456" y="460" type="line"/>
       <point x="426" y="460" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="510" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

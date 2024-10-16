@@ -1,12 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresisacute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacute" format="2">
   <advance width="500"/>
-  <unicode hex="1FEE"/>
+  <anchor x="233" y="510" name="_top"/>
   <outline>
-    <component base="dieresiscomb" xOffset="250"/>
-    <component base="acutecomb.case" xOffset="333"/>
     <contour>
-      <point x="233" y="510" type="move" name="_top"/>
+      <point x="168" y="580" type="curve" smooth="yes"/>
+      <point x="189" y="580"/>
+      <point x="205" y="596"/>
+      <point x="205" y="617" type="curve" smooth="yes"/>
+      <point x="205" y="638"/>
+      <point x="189" y="654"/>
+      <point x="168" y="654" type="curve" smooth="yes"/>
+      <point x="147" y="654"/>
+      <point x="131" y="638"/>
+      <point x="131" y="617" type="curve" smooth="yes"/>
+      <point x="131" y="596"/>
+      <point x="147" y="580"/>
+    </contour>
+    <contour>
+      <point x="332" y="580" type="curve" smooth="yes"/>
+      <point x="353" y="580"/>
+      <point x="369" y="596"/>
+      <point x="369" y="617" type="curve" smooth="yes"/>
+      <point x="369" y="638"/>
+      <point x="353" y="654"/>
+      <point x="332" y="654" type="curve" smooth="yes"/>
+      <point x="311" y="654"/>
+      <point x="295" y="638"/>
+      <point x="295" y="617" type="curve" smooth="yes"/>
+      <point x="295" y="596"/>
+      <point x="311" y="580"/>
+    </contour>
+    <contour>
+      <point x="253" y="710" type="line"/>
+      <point x="263" y="710" type="line"/>
+      <point x="422" y="848" type="line"/>
+      <point x="422" y="862" type="line"/>
+      <point x="364" y="862" type="line"/>
     </contour>
   </outline>
 </glyph>

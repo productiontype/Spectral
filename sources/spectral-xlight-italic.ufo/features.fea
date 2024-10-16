@@ -4,6 +4,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem cyrl dflt;
 languagesystem latn AZE;
+languagesystem latn CAT;
 languagesystem latn CRT;
 languagesystem latn MOL;
 languagesystem latn NLD;
@@ -92,11 +93,18 @@ feature aalt { # ALL ALTERNATES
     feature ss06;
 } aalt;
 
-feature ornm {
-    lookup arrows_all {
-        sub @arrows.from by @arrows.to;
-    } arrows_all;
-} ornm ;
+feature ccmp {
+    lookup ccmp_soft_dotted {
+        @CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb hungarumlautcomb breveinvertedcomb commaturnedabovecomb hookabovecomb dblgravecomb];
+        @CombiningNonTopAccents = [cedillacomb dieresisbelowcomb hookabovecomb];
+        lookupflag UseMarkFilteringSet @CombiningTopAccents;
+        sub [i j]' @CombiningTopAccents by [idotless jdotless];
+        sub [uni0456 uni0458]' @CombiningTopAccents by [idotless jdotless];
+        sub iogonek' @CombiningTopAccents by idotless ogonekcomb; # or "by iogonek.dotless"
+        sub idotbelow' @CombiningTopAccents by idotless dotbelowcomb; # or "by idotbelow.dotless"        
+        sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+    } ccmp_soft_dotted;
+} ccmp;
 
 feature cpsp { # Capital Spacing
     pos @uc.all  <5 0 10 0>;
@@ -106,6 +114,10 @@ feature locl { # Localized Forms
     script latn;
     language AZE; # Azeri
         sub i by idotaccent;
+    language CAT;
+        sub l periodcentered' l by periodcentered.loclCAT;
+        sub L periodcentered' L by periodcentered.loclCAT.case;
+        sub l.sc periodcentered.sc' l.sc by periodcentered.loclCAT.sc;
     language CRT; # Crimean Tatar
         sub i by idotaccent;
     language MOL; # Moldavian
@@ -123,7 +135,6 @@ feature locl { # Localized Forms
         sub [uni0431 uni0433 uni0434 uni043F uni0442] by [uni0431.locl uni0433.locl uni0434.locl uni043F.locl uni0442.locl];
     language BGR; # Bulgarian
         sub [uni0414 uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044A uni044C uni044E] by [uni0414.bgr uni0416.bgr uni041A.bgr uni041B.bgr uni0432.bgr uni0433.bgr uni0434.bgr uni0436.bgr uni0437.bgr uni0438.bgr uni0439.bgr uni043A.bgr uni043B.bgr uni043D.bgr uni043F.bgr uni0442.bgr uni0446.bgr uni0447.bgr uni0448.bgr uni0449.bgr uni044A.bgr uni044C.bgr uni044E.bgr];
-
 } locl;
 
 feature ss05 {

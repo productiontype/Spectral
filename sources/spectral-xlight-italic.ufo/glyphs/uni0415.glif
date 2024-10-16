@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0415" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0415" format="2">
   <advance width="551"/>
   <unicode hex="0415"/>
+  <anchor x="360" y="710" name="top"/>
+  <anchor x="393" y="0" name="right"/>
+  <anchor x="257" y="0" name="bottom"/>
   <outline>
     <component base="E"/>
   </outline>

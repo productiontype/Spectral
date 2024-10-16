@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="idotless" format="1">
-  <advance width="235.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="235"/>
   <unicode hex="0131"/>
+  <anchor x="148" y="510" name="top"/>
+  <anchor x="121" y="0" name="right"/>
+  <anchor x="87" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="88" y="-10" type="curve" smooth="yes"/>
@@ -23,15 +26,6 @@
       <point x="52" y="95" type="line" smooth="yes"/>
       <point x="38" y="14"/>
       <point x="56" y="-10"/>
-    </contour>
-    <contour>
-      <point x="148" y="510" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="121" y="0" type="move" name="right"/>
-    </contour>
-    <contour>
-      <point x="87" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
