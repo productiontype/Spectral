@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevegrave" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegrave" format="2">
   <advance width="500"/>
+  <anchor x="250" y="510" name="_top"/>
   <outline>
-    <component base="brevecomb" xOffset="250"/>
-    <component base="gravecomb.case" xOffset="192" yOffset="-40"/>
     <contour>
-      <point x="250" y="510" type="move" name="_top"/>
+      <point x="250" y="540" type="curve" smooth="yes"/>
+      <point x="329" y="540"/>
+      <point x="358" y="596"/>
+      <point x="386" y="707" type="curve"/>
+      <point x="373" y="707" type="line"/>
+      <point x="338" y="605"/>
+      <point x="302" y="583"/>
+      <point x="250" y="583" type="curve" smooth="yes"/>
+      <point x="198" y="583"/>
+      <point x="162" y="605"/>
+      <point x="127" y="707" type="curve"/>
+      <point x="114" y="707" type="line"/>
+      <point x="142" y="596"/>
+      <point x="171" y="540"/>
+    </contour>
+    <contour>
+      <point x="262" y="670" type="line"/>
+      <point x="169" y="822" type="line"/>
+      <point x="105" y="822" type="line"/>
+      <point x="105" y="809" type="line"/>
+      <point x="248" y="670" type="line"/>
     </contour>
   </outline>
 </glyph>

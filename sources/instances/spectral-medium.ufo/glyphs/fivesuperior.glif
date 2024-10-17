@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="fivesuperior" format="2">
-  <advance width="310.42857142857144"/>
-  <unicode hex="2075"/>
-  <outline>
-    <component base="five.sinf" yOffset="505.0"/>
-  </outline>
-</glyph>

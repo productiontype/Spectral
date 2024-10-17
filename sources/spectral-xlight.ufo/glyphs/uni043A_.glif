@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni043A" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni043A" format="2">
   <advance width="528"/>
   <unicode hex="043A"/>
+  <anchor x="284.0" y="510.0" name="top"/>
   <outline>
     <contour>
       <point x="394" y="0" type="line"/>

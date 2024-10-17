@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ring.case" format="2">
-  <advance width="249.03571428571428"/>
-  <outline>
-    <component base="ringcomb.case" xOffset="187.31036386579078"/>
-  </outline>
-</glyph>

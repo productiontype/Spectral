@@ -4,6 +4,7 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem cyrl dflt;
 languagesystem latn AZE;
+languagesystem latn CAT;
 languagesystem latn CRT;
 languagesystem latn MOL;
 languagesystem latn NLD;
@@ -92,6 +93,19 @@ feature aalt { # ALL ALTERNATES
     feature ss06;
 } aalt;
 
+feature ccmp {
+    lookup ccmp_soft_dotted {
+        @CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb hungarumlautcomb breveinvertedcomb commaturnedabovecomb hookabovecomb dblgravecomb];
+        @CombiningNonTopAccents = [cedillacomb dieresisbelowcomb hookabovecomb];
+        lookupflag UseMarkFilteringSet @CombiningTopAccents;
+        sub [i j]' @CombiningTopAccents by [idotless jdotless];
+        sub [uni0456 uni0458]' @CombiningTopAccents by [idotless jdotless];
+        sub iogonek' @CombiningTopAccents by idotless ogonekcomb; # or "by iogonek.dotless"
+        sub idotbelow' @CombiningTopAccents by idotless dotbelowcomb; # or "by idotbelow.dotless"        
+        sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+    } ccmp_soft_dotted;
+} ccmp;
+
 feature ornm {
     lookup arrows_all {
         sub @arrows.from by @arrows.to;
@@ -106,6 +120,10 @@ feature locl { # Localized Forms
     script latn;
     language AZE; # Azeri
         sub i by idotaccent;
+    language CAT;
+        sub l periodcentered' l by periodcentered.loclCAT;
+        sub L periodcentered' L by periodcentered.loclCAT.case;
+        sub l.sc periodcentered.sc' l.sc by periodcentered.loclCAT.sc;
     language CRT; # Crimean Tatar
         sub i by idotaccent;
     language MOL; # Moldavian

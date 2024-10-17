@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="3.0">
+  <axes>
+      <axis minimum="200" maximum="800" default="400" name="weight" tag="wght">
+        <map input="200" output="1" />
+        <map input="300" output="260" />
+        <map input="400" output="440" />
+        <map input="500" output="520" />
+        <map input="600" output="640" />
+        <map input="700" output="780" />
+        <map input="800" output="1000" />
+      </axis>
+  </axes>
+
+
+  <sources>
+    <source filename="spectral-xlight.ufo" name="master.Spectral.ExtraLight.0" familyname="Spectral" stylename="ExtraLight">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="spectral-regular.ufo" name="master.Spectral.Regular.1" familyname="Spectral" stylename="Regular">
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="440"/>
+      </location>
+    </source>
+    <source filename="spectral-xbold.ufo" name="master.Spectral.ExtraBold.2" familyname="Spectral" stylename="ExtraBold">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+
+
+  <instances>
+    <instance name="instance_ExtraLight" familyname="Spectral" stylename="ExtraLight" filename="instances/Spectral-ExtraLight.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral ExtraLight" postscriptfontname="Spectral-ExtraLight">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Light" familyname="Spectral" stylename="Light" filename="instances/Spectral-Light.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral Light" postscriptfontname="Spectral-Light">
+      <location>
+        <dimension name="weight" xvalue="260"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Regular" familyname="Spectral" stylename="Regular" filename="instances/Spectral-Regular.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral" postscriptfontname="Spectral-Regular">
+      <location>
+        <dimension name="weight" xvalue="440"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Medium" familyname="Spectral" stylename="Medium" filename="instances/Spectral-Medium.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral Medium" postscriptfontname="Spectral-Medium">
+      <location>
+        <dimension name="weight" xvalue="520"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_SemiBold" familyname="Spectral" stylename="SemiBold" filename="instances/Spectral-SemiBold.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral SemiBold" postscriptfontname="Spectral-SemiBold">
+      <location>
+        <dimension name="weight" xvalue="640"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Bold" familyname="Spectral" stylename="Bold" filename="instances/Spectral-Bold.ufo" stylemapstylename="bold" stylemapfamilyname="Spectral" postscriptfontname="Spectral-Bold">
+      <location>
+        <dimension name="weight" xvalue="780"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_ExtraBold" familyname="Spectral" stylename="ExtraBold" filename="instances/Spectral-ExtraBold.ufo" stylemapstylename="regular" stylemapfamilyname="Spectral ExtraBold" postscriptfontname="Spectral-ExtraBold">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

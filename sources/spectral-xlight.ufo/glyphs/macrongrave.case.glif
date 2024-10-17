@@ -1,11 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macrongrave.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongrave.case" format="2">
   <advance width="500"/>
+  <anchor x="250.0" y="710.0" name="_top"/>
   <outline>
-    <component base="macroncomb.case" xOffset="250"/>
-    <component base="gravecomb.case" xOffset="185" yOffset="152"/>
     <contour>
-      <point x="250.0" y="710.0" type="move" name="_top"/>
+      <point x="123" y="769" type="line"/>
+      <point x="377" y="769" type="line"/>
+      <point x="377" y="805" type="line"/>
+      <point x="123" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="862" type="line"/>
+      <point x="162" y="1014" type="line"/>
+      <point x="98" y="1014" type="line"/>
+      <point x="98" y="1001" type="line"/>
+      <point x="241" y="862" type="line"/>
     </contour>
   </outline>
 </glyph>

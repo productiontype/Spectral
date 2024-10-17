@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="omacrongrave" format="2">
-  <advance width="481.72727272727275"/>
-  <unicode hex="1E51"/>
-  <outline>
-    <component base="o"/>
-    <component base="macrongrave" xOffset="55.54545454545455"/>
-  </outline>
-</glyph>

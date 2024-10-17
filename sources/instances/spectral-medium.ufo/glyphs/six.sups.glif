@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="six.sups" format="2">
-  <advance width="348.42857142857144"/>
-  <outline>
-    <component base="six.sinf" yOffset="355.14285714285717"/>
-  </outline>
-</glyph>

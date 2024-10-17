@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dlinebelow" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow" format="2">
   <advance width="559"/>
   <unicode hex="1E0F"/>
   <outline>
     <component base="d"/>
-    <component base="macronbelowcomb" xOffset="275.0"/>
+    <component base="macronbelowcomb" xOffset="271"/>
   </outline>
 </glyph>

@@ -1,7 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni041B.bgr" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni041B.bgr" format="2">
   <advance width="636"/>
   <outline>
-    <component base="V" xScale="-1" yScale="-1" xOffset="646" yOffset="660"/>
+    <contour>
+      <point x="388" y="665" type="line"/>
+      <point x="369" y="665" type="line"/>
+      <point x="37" y="19" type="line"/>
+      <point x="56" y="32" type="line"/>
+      <point x="-12" y="14" type="line"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="154" y="14" type="line"/>
+      <point x="65" y="32" type="line"/>
+      <point x="75" y="13" type="line"/>
+      <point x="356" y="588" type="line"/>
+      <point x="334" y="571" type="line"/>
+      <point x="368" y="571" type="line"/>
+      <point x="350" y="588" type="line"/>
+      <point x="442" y="23" type="line"/>
+      <point x="449" y="30" type="line"/>
+      <point x="368" y="14" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="556" y="14" type="line"/>
+      <point x="467" y="38" type="line"/>
+      <point x="499" y="22" type="line"/>
+    </contour>
   </outline>
 </glyph>

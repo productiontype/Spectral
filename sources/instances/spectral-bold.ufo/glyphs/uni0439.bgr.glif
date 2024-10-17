@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni0439.bgr" format="2">
-  <advance width="593.1785714285714"/>
-  <outline>
-    <component base="u"/>
-    <component base="cyrbreve" xOffset="284.7857142857143"/>
-  </outline>
-</glyph>

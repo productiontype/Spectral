@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ae.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
   <advance width="934"/>
+  <anchor x="520.0" y="615.0" name="top"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -51,9 +52,6 @@
       <point x="796" y="52" type="line"/>
       <point x="525" y="52" type="line"/>
       <point x="525" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="520.0" y="615.0" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

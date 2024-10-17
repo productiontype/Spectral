@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="k.superior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.superior" format="2">
   <advance width="336"/>
+  <anchor x="200.0" y="505.0" name="bottom"/>
   <outline>
     <contour>
       <point x="7" y="505" type="line"/>
@@ -32,9 +33,6 @@
       <point x="145" y="638" type="line"/>
       <point x="145" y="630" type="line"/>
       <point x="199" y="531" type="line"/>
-    </contour>
-    <contour>
-      <point x="200.0" y="505.0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

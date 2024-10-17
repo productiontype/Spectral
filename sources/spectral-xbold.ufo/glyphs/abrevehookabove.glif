@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abrevehookabove" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevehookabove" format="2">
   <advance width="531"/>
   <unicode hex="1EB3"/>
   <outline>
     <component base="a"/>
-    <component base="brevehookabove" xOffset="8.0"/>
+    <component base="brevehookabove" xOffset="8"/>
   </outline>
 </glyph>

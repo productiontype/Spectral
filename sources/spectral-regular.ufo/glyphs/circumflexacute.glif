@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexacute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacute" format="2">
   <advance width="500"/>
+  <anchor x="250.0" y="510.0" name="_top"/>
   <outline>
     <contour>
       <point x="103" y="530" type="line"/>
@@ -14,15 +15,10 @@
     </contour>
     <contour>
       <point x="358" y="637" type="line"/>
-      <point x="366" y="637" type="line"/>
-      <point x="453" y="733" type="line" smooth="yes"/>
-      <point x="471" y="752"/>
-      <point x="476" y="765"/>
-      <point x="476" y="780" type="curve"/>
+      <point x="367" y="637" type="line"/>
+      <point x="486" y="769" type="line"/>
+      <point x="486" y="780" type="line"/>
       <point x="399" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="250.0" y="510.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -1,15 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uhorn.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn.sc" format="2">
   <advance width="737"/>
+  <anchor x="378" y="615" name="top"/>
+  <anchor x="366" y="0" name="bottom"/>
+  <anchor x="392" y="0" name="right"/>
   <outline>
     <contour>
-      <point x="371" y="-10" type="curve" smooth="yes"/>
-      <point x="504" y="-10"/>
-      <point x="601" y="53"/>
-      <point x="601" y="214" type="curve" smooth="yes"/>
-      <point x="601" y="512" type="line"/>
-      <point x="672" y="544" type="line"/>
-      <point x="672" y="560" type="line"/>
+      <point x="601" y="510" type="line"/>
+      <point x="707" y="527" type="line" smooth="yes"/>
+      <point x="766" y="536"/>
+      <point x="787" y="563"/>
+      <point x="787" y="602" type="curve" smooth="yes"/>
+      <point x="787" y="633"/>
+      <point x="778" y="647"/>
+      <point x="746" y="647" type="curve" smooth="yes"/>
+      <point x="700" y="647" type="line"/>
+      <point x="700" y="555" type="line"/>
+      <point x="707" y="567" type="line"/>
+      <point x="697" y="563"/>
+      <point x="672" y="560"/>
+      <point x="645" y="560" type="curve" smooth="yes"/>
       <point x="458" y="560" type="line"/>
       <point x="458" y="544" type="line"/>
       <point x="544" y="513" type="line"/>
@@ -29,32 +39,10 @@
       <point x="137" y="214" type="line" smooth="yes"/>
       <point x="137" y="53"/>
       <point x="236" y="-10"/>
-    </contour>
-    <contour>
-      <point x="783" y="615" type="curve" smooth="yes"/>
-      <point x="783" y="640"/>
-      <point x="777" y="643"/>
-      <point x="760" y="643" type="curve" smooth="yes"/>
-      <point x="728" y="643" type="line"/>
-      <point x="723" y="638" type="line"/>
-      <point x="723" y="607" type="line" smooth="yes"/>
-      <point x="723" y="578.391304348"/>
-      <point x="711.0" y="560"/>
-      <point x="677" y="560" type="curve" smooth="yes"/>
-      <point x="611" y="560" type="line"/>
-      <point x="607" y="544" type="line"/>
-      <point x="693" y="544" type="line" smooth="yes"/>
-      <point x="743.0" y="544"/>
-      <point x="783.0" y="564.285714286"/>
-    </contour>
-    <contour>
-      <point x="378" y="615" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="366" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="392" y="0" type="move" name="right"/>
+      <point x="371" y="-10" type="curve" smooth="yes"/>
+      <point x="504" y="-10"/>
+      <point x="601" y="53"/>
+      <point x="601" y="214" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

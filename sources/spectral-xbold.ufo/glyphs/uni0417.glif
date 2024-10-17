@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0417" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0417" format="2">
   <advance width="648"/>
   <unicode hex="0417"/>
   <outline>
@@ -31,9 +31,9 @@
       <point x="362.1830985915493" y="45.0"/>
       <point x="278" y="45" type="curve" smooth="yes"/>
       <point x="237.04132231404958" y="45.0"/>
-      <point x="200.35618595259916" y="51.48678623096161"/>
+      <point x="200" y="51"/>
       <point x="160" y="82" type="curve"/>
-      <point x="206" y="51" type="line"/>
+      <point x="225" y="27" type="line"/>
       <point x="73" y="219" type="line"/>
       <point x="55" y="219" type="line"/>
       <point x="72" y="44" type="line"/>

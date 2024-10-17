@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j.superior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.superior" format="2">
   <advance width="160"/>
+  <anchor x="83.0" y="771.0" name="top"/>
   <outline>
     <contour>
       <point x="31" y="385" type="line"/>
@@ -30,9 +31,6 @@
       <point x="51" y="843" type="curve" smooth="yes"/>
       <point x="51" y="827"/>
       <point x="63" y="816"/>
-    </contour>
-    <contour>
-      <point x="83.0" y="771.0" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0401" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0401" format="2">
   <advance width="551"/>
   <unicode hex="0401"/>
   <outline>
-    <component base="Edieresis"/>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="373.99999999999017"/>
   </outline>
 </glyph>

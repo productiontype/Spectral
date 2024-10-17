@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0463.sc" format="1">
-  <advance width="656.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0463.sc" format="2">
+  <advance width="656"/>
   <outline>
     <contour>
       <point x="379" y="0" type="line" smooth="yes"/>

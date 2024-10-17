@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="quotedblbase" format="2">
-  <advance width="404.90909090909093"/>
-  <unicode hex="201E"/>
-  <outline>
-    <component base="quotedblright" xOffset="-102.81818181818181" yOffset="-703.1818181818181"/>
-  </outline>
-</glyph>

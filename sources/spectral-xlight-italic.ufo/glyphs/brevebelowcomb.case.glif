@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevebelowcomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <anchor x="12" y="0" name="_bottom"/>
   <outline>
     <component base="brevebelowcomb" xOffset="-2" yOffset="-14"/>
-    <contour>
-      <point x="12" y="0" type="move" name="_bottom"/>
-    </contour>
   </outline>
 </glyph>

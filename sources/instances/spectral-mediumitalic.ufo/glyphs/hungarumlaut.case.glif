@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="hungarumlaut.case" format="2">
-  <advance width="374.57142857142856"/>
-  <outline>
-    <component base="hungarumlautcomb.case" xOffset="249.88179243721933"/>
-  </outline>
-</glyph>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="3.0">
+  <axes>
+      <axis minimum="200" maximum="800" default="400" name="weight" tag="wght">
+        <map input="200" output="1" />
+        <map input="300" output="200" />
+        <map input="400" output="440" />
+        <map input="500" output="540" />
+        <map input="600" output="680" />
+        <map input="700" output="780" />
+        <map input="800" output="1000" />
+      </axis>
+  </axes>
+
+
+  <sources>
+    <source filename="spectral-xlight-italic.ufo" name="master.Spectral.ExtraLight Italic.0" familyname="Spectral" stylename="ExtraLight Italic">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="spectral-italic.ufo" name="master.Spectral.Italic.1" familyname="Spectral" stylename="Italic">
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="440"/>
+      </location>
+    </source>
+    <source filename="spectral-xbold-italic.ufo" name="master.Spectral.ExtraBold Italic.2" familyname="Spectral" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+
+
+  <instances>
+    <instance name="instance_ExtraLight_Italic" familyname="Spectral" stylename="ExtraLight Italic" filename="instances/Spectral-ExtraLightItalic.ufo" stylemapfamilyname="Spectral ExtraLight" stylemapstylename="italic" postscriptfontname="Spectral-ExtraLightItalic">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Light_Italic" familyname="Spectral" stylename="Light Italic" filename="instances/Spectral-LightItalic.ufo" stylemapfamilyname="Spectral Light" stylemapstylename="italic" postscriptfontname="Spectral-LightItalic">
+      <location>
+        <dimension name="weight" xvalue="200"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Italic" familyname="Spectral" stylename="Italic" filename="instances/Spectral-Italic.ufo" stylemapstylename="italic" stylemapfamilyname="Spectral" postscriptfontname="Spectral-Italic">
+      <location>
+        <dimension name="weight" xvalue="440"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Medium_Italic" familyname="Spectral" stylename="Medium Italic" filename="instances/Spectral-MediumItalic.ufo" stylemapstylename="italic" stylemapfamilyname="Spectral Medium" postscriptfontname="Spectral-MediumItalic">
+      <location>
+        <dimension name="weight" xvalue="540"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_SemiBold_Italic" familyname="Spectral" stylename="SemiBold Italic" filename="instances/Spectral-SemiBoldItalic.ufo" stylemapstylename="italic" stylemapfamilyname="Spectral SemiBold" postscriptfontname="Spectral-SemiBoldItalic">
+      <location>
+        <dimension name="weight" xvalue="680"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_Bold_Italic" familyname="Spectral" stylename="Bold Italic" filename="instances/Spectral-BoldItalic.ufo" stylemapstylename="bold italic" stylemapfamilyname="Spectral" postscriptfontname="Spectral-BoldItalic">
+      <location>
+        <dimension name="weight" xvalue="780"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="instance_ExtraBold_Italic" familyname="Spectral" stylename="ExtraBold Italic" filename="instances/Spectral-ExtraBoldItalic.ufo" stylemapstylename="italic" stylemapfamilyname="Spectral ExtraBold" postscriptfontname="Spectral-ExtraBoldItalic">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <glyphs>
+        <glyph mute="1" name=""/>
+      </glyphs>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

@@ -1,11 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="carondotaccent.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondotaccent.case" format="2">
   <advance width="500"/>
+  <anchor x="250.0" y="710.0" name="_top"/>
   <outline>
-    <component base="dotaccentcomb.case" xOffset="250" yOffset="158"/>
-    <component base="caroncomb.case" xOffset="250"/>
     <contour>
-      <point x="250.0" y="710.0" type="move" name="_top"/>
+      <point x="250" y="876" type="curve" smooth="yes"/>
+      <point x="297" y="876"/>
+      <point x="331" y="910"/>
+      <point x="331" y="957" type="curve" smooth="yes"/>
+      <point x="331" y="1004"/>
+      <point x="297" y="1038"/>
+      <point x="250" y="1038" type="curve" smooth="yes"/>
+      <point x="203" y="1038"/>
+      <point x="169" y="1004"/>
+      <point x="169" y="957" type="curve" smooth="yes"/>
+      <point x="169" y="910"/>
+      <point x="203" y="876"/>
+    </contour>
+    <contour>
+      <point x="221" y="710" type="line"/>
+      <point x="279" y="710" type="line"/>
+      <point x="418" y="862" type="line"/>
+      <point x="389" y="862" type="line"/>
+      <point x="211" y="789" type="line"/>
+      <point x="289" y="789" type="line"/>
+      <point x="111" y="862" type="line"/>
+      <point x="82" y="862" type="line"/>
     </contour>
   </outline>
 </glyph>

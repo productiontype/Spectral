@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="seven.sups" format="2">
-  <advance width="253.4090909090909"/>
-  <outline>
-    <component base="seven.sinf" yOffset="355.0"/>
-  </outline>
-</glyph>

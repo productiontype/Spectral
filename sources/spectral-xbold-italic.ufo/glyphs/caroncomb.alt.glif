@@ -1,126 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caroncomb.alt" format="1">
-  <advance width="228"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <anchor x="186" y="740" name="_right"/>
   <outline>
     <contour>
-      <point x="83.75441016589056" y="553" type="line"/>
-      <point x="108.75441016589056" y="553" type="line"/>
-      <point x="219.75441016589056" y="673" type="line" smooth="yes"/>
-      <point x="242.75441016589056" y="698"/>
-      <point x="243.75441016589056" y="720"/>
-      <point x="240.75441016589056" y="740" type="curve"/>
-      <point x="130.75441016589056" y="740" type="line"/>
-    </contour>
-    <contour>
-      <point x="185.75441016589056" y="740" type="move" name="_right"/>
+      <point x="84" y="553" type="line"/>
+      <point x="109" y="553" type="line"/>
+      <point x="250" y="712" type="line"/>
+      <point x="251" y="740" type="line"/>
+      <point x="131" y="740" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>mask</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-            <dict>
-              <key>name</key>
-              <string>_right</string>
-              <key>x</key>
-              <real>185.75441016589056</real>
-              <key>y</key>
-              <real>740.0</real>
-            </dict>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>83.75441016589056</real>
-                  <key>y</key>
-                  <integer>553</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>108.75441016589056</real>
-                  <key>y</key>
-                  <integer>553</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>219.75441016589056</real>
-                  <key>y</key>
-                  <integer>673</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>242.75441016589056</real>
-                  <key>y</key>
-                  <integer>698</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>243.75441016589056</real>
-                  <key>y</key>
-                  <integer>720</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>240.75441016589056</real>
-                  <key>y</key>
-                  <integer>740</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>130.75441016589056</real>
-                  <key>y</key>
-                  <integer>740</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>caroncomb.alt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>228</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

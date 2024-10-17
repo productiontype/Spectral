@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="caron.case" format="2">
-  <advance width="367.45454545454544"/>
-  <outline>
-    <component base="caroncomb.case" xOffset="246.59607815150505"/>
-  </outline>
-</glyph>

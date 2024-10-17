@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Sacutedotaccent" format="2">
-  <advance width="525.0"/>
-  <unicode hex="1E64"/>
-  <outline>
-    <component base="S"/>
-    <component base="acutedotaccent.case" xOffset="159.85714285714286"/>
-  </outline>
-</glyph>

@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="r.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.sc" format="2">
   <advance width="588"/>
+  <anchor x="287" y="615" name="top"/>
+  <anchor x="330" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="65" y="0" type="line"/>
@@ -42,12 +44,6 @@
       <point x="527" y="46" type="line"/>
       <point x="361" y="295" type="line"/>
       <point x="264" y="295" type="line"/>
-    </contour>
-    <contour>
-      <point x="287" y="615" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="330" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

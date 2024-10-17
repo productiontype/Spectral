@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="hbrevebelow" format="2">
-  <advance width="541.4285714285714"/>
-  <unicode hex="1E2B"/>
-  <outline>
-    <component base="h"/>
-    <component base="brevebelowcomb" xOffset="227.28571428571428"/>
-  </outline>
-</glyph>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Euro.LP" format="2">
-  <advance width="521.8571428571429"/>
-  <outline>
-    <component base="Euro" xOffset="-6.7857142857142865"/>
-  </outline>
-</glyph>

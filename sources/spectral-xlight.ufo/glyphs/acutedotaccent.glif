@@ -1,11 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutedotaccent" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccent" format="2">
   <advance width="500"/>
+  <anchor x="196" y="510" name="_top"/>
   <outline>
-    <component base="acutecomb.case" xOffset="250" yOffset="-180"/>
-    <component base="dotaccentcomb.case" xOffset="181" yOffset="-108"/>
     <contour>
-      <point x="196" y="510" type="move" name="_top"/>
+      <point x="181" y="644" type="curve" smooth="yes"/>
+      <point x="203" y="644"/>
+      <point x="219" y="660"/>
+      <point x="219" y="682" type="curve" smooth="yes"/>
+      <point x="219" y="704"/>
+      <point x="203" y="720"/>
+      <point x="181" y="720" type="curve" smooth="yes"/>
+      <point x="159" y="720"/>
+      <point x="143" y="704"/>
+      <point x="143" y="682" type="curve" smooth="yes"/>
+      <point x="143" y="660"/>
+      <point x="159" y="644"/>
+    </contour>
+    <contour>
+      <point x="179" y="530" type="line"/>
+      <point x="193" y="530" type="line"/>
+      <point x="336" y="669" type="line"/>
+      <point x="336" y="682" type="line"/>
+      <point x="272" y="682" type="line"/>
     </contour>
   </outline>
 </glyph>

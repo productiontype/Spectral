@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hbar" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
   <advance width="582"/>
   <unicode hex="0127"/>
   <outline>
     <contour>
+      <point x="48" y="538" type="line"/>
+      <point x="335" y="538" type="line"/>
+      <point x="335" y="585" type="line"/>
+      <point x="48" y="585" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="16" type="line"/>
       <point x="191" y="45" type="line"/>
       <point x="191" y="750" type="line"/>
       <point x="185" y="750" type="line"/>
@@ -12,15 +21,6 @@
       <point x="111" y="636" type="line"/>
       <point x="111" y="48" type="line"/>
       <point x="48" y="16" type="line"/>
-      <point x="48" y="0" type="line"/>
-      <point x="262" y="0" type="line"/>
-      <point x="262" y="16" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="538" type="line"/>
-      <point x="335" y="538" type="line"/>
-      <point x="335" y="585" type="line"/>
-      <point x="48" y="585" type="line"/>
     </contour>
     <contour>
       <point x="330" y="0" type="line"/>

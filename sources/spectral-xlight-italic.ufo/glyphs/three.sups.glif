@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="three.sups" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.sups" format="2">
   <advance width="297"/>
   <outline>
-    <component base="three.sinf" xOffset="62.0" yOffset="355.0"/>
+    <component base="three.sinf" xOffset="62" yOffset="355"/>
   </outline>
 </glyph>

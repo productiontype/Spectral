@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="numbersign.OP" format="2">
-  <advance width="517.5"/>
-  <outline>
-    <component base="numbersign.OT" xOffset="-7.035714285714285"/>
-  </outline>
-</glyph>

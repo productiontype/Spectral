@@ -1,7 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni043B.bgr.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni043B.bgr.sc" format="2">
   <advance width="647"/>
   <outline>
-    <component base="v.sc" xScale="-1" yScale="-1" xOffset="649" yOffset="560"/>
+    <contour>
+      <point x="339" y="565" type="line"/>
+      <point x="303" y="565" type="line"/>
+      <point x="75" y="24" type="line"/>
+      <point x="101" y="53" type="line"/>
+      <point x="33" y="16" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="16" type="line"/>
+      <point x="145" y="44" type="line"/>
+      <point x="145" y="47" type="line"/>
+      <point x="319" y="480" type="line"/>
+      <point x="287" y="434" type="line"/>
+      <point x="319" y="434" type="line"/>
+      <point x="287" y="480" type="line"/>
+      <point x="463" y="47" type="line"/>
+      <point x="463" y="44" type="line"/>
+      <point x="393" y="16" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="16" type="line"/>
+      <point x="524" y="58" type="line"/>
+      <point x="565" y="24" type="line"/>
+    </contour>
   </outline>
 </glyph>

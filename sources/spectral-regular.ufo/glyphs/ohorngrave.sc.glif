@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohorngrave.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorngrave.sc" format="2">
   <advance width="712"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="gravecomb" xOffset="268.0" yOffset="105.0"/>
+    <component base="gravecomb" xOffset="268" yOffset="105"/>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="idieresisacute" format="1">
-  <advance width="235.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance width="235"/>
   <unicode hex="1E2F"/>
   <outline>
     <component base="idotless"/>
-    <component base="dieresisacute" xOffset="-85"/>
+    <component base="dieresisacute" xOffset="-84.99999999999781"/>
   </outline>
 </glyph>

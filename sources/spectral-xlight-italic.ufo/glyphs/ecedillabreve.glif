@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecedillabreve" format="1">
-  <advance width="415.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve" format="2">
+  <advance width="415"/>
   <unicode hex="1E1D"/>
-  <note>
-  </note>
   <outline>
     <contour>
       <point x="184" y="-10" type="curve" smooth="yes"/>

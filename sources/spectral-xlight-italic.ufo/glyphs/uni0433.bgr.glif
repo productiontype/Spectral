@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0433.bgr" format="1">
-  <advance width="388.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0433.bgr" format="2">
+  <advance width="388"/>
+  <anchor x="245" y="510" name="top"/>
   <outline>
     <component base="uni0433"/>
   </outline>

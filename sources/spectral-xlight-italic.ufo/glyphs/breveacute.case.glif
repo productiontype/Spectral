@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breveacute.case" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacute.case" format="2">
   <advance width="500"/>
+  <anchor x="227" y="710" name="_top"/>
   <outline>
-    <component base="brevecomb.case" xOffset="250"/>
-    <component base="acutecomb.case" xOffset="296" yOffset="112"/>
     <contour>
-      <point x="227" y="710" type="move" name="_top"/>
+      <point x="227" y="710" type="curve" smooth="yes"/>
+      <point x="299" y="710"/>
+      <point x="343" y="758"/>
+      <point x="378" y="862" type="curve"/>
+      <point x="368" y="862" type="line"/>
+      <point x="325" y="766"/>
+      <point x="289" y="744"/>
+      <point x="233" y="744" type="curve" smooth="yes"/>
+      <point x="174" y="744"/>
+      <point x="148" y="763"/>
+      <point x="131" y="862" type="curve"/>
+      <point x="121" y="862" type="line"/>
+      <point x="124" y="759"/>
+      <point x="151" y="710"/>
+    </contour>
+    <contour>
+      <point x="216" y="822" type="line"/>
+      <point x="226" y="822" type="line"/>
+      <point x="385" y="960" type="line"/>
+      <point x="385" y="974" type="line"/>
+      <point x="327" y="974" type="line"/>
     </contour>
   </outline>
 </glyph>

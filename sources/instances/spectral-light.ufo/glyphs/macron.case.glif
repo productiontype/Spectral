@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="macron.case" format="2">
-  <advance width="361.09090909090907"/>
-  <outline>
-    <component base="macroncomb.case" xOffset="180.54545454545453"/>
-  </outline>
-</glyph>

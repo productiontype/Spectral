@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sc" format="2">
   <advance width="596"/>
+  <anchor x="203" y="615" name="top"/>
+  <anchor x="475" y="560" name="right"/>
+  <anchor x="487" y="315" name="mid"/>
+  <anchor x="324" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>
@@ -17,18 +21,6 @@
       <point x="106" y="511" type="line"/>
       <point x="106" y="49" type="line"/>
       <point x="30" y="16" type="line"/>
-    </contour>
-    <contour>
-      <point x="203" y="615" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="475" y="560" type="move" name="right"/>
-    </contour>
-    <contour>
-      <point x="487" y="315" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="324" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

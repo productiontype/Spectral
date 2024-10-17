@@ -1,28 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlautcomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
+  <anchor x="-52.0" y="510.0" name="_top"/>
   <outline>
-    <contour>
-      <point x="-120" y="530" type="line"/>
-      <point x="-109" y="530" type="line"/>
-      <point x="-21" y="644" type="line" smooth="yes"/>
-      <point x="-3" y="668"/>
-      <point x="-2" y="687"/>
-      <point x="-9" y="707" type="curve"/>
-      <point x="-72" y="707" type="line"/>
-    </contour>
     <contour>
       <point x="-6" y="530" type="line"/>
       <point x="5" y="530" type="line"/>
-      <point x="103" y="644" type="line" smooth="yes"/>
-      <point x="123" y="667"/>
-      <point x="122" y="687"/>
-      <point x="115" y="707" type="curve"/>
+      <point x="141" y="694" type="line"/>
+      <point x="141" y="707" type="line"/>
       <point x="52" y="707" type="line"/>
     </contour>
     <contour>
-      <point x="-52.0" y="510.0" type="move" name="_top"/>
+      <point x="-120" y="530" type="line"/>
+      <point x="-109" y="530" type="line"/>
+      <point x="9" y="694" type="line"/>
+      <point x="9" y="707" type="line"/>
+      <point x="-79" y="707" type="line"/>
     </contour>
   </outline>
 </glyph>

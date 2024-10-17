@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nlinebelow.sc" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlinebelow.sc" format="2">
   <advance width="724"/>
   <outline>
     <component base="n.sc"/>
-    <component base="macronbelowcomb" xOffset="381.0"/>
+    <component base="macronbelowcomb" xOffset="381"/>
   </outline>
 </glyph>

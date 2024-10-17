@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="T_h" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_h" format="2">
   <advance width="1093"/>
+  <anchor x="515" y="361" name="caret_"/>
   <outline>
     <contour>
       <point x="192" y="0" type="line"/>

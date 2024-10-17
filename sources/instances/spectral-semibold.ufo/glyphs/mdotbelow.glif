@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="mdotbelow" format="2">
-  <advance width="884.2857142857142"/>
-  <unicode hex="1E43"/>
-  <outline>
-    <component base="m"/>
-    <component base="dotbelowcomb" xOffset="434.2857142857143"/>
-  </outline>
-</glyph>
