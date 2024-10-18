@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>b.superior</key>
+    <string>b.superior.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
+    <key>uni20B4.OT</key>
+    <string>uni20B_4.O_T_.glif</string>
+  </dict>
+</plist>
