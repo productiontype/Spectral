@@ -51,8 +51,13 @@
       <point x="252" y="-72"/>
       <point x="198" y="-72" type="curve" smooth="yes"/>
       <point x="171" y="-72"/>
+<<<<<<< HEAD
       <point x="163" y="-69"/>
       <point x="152" y="-66" type="curve"/>
+=======
+      <point x="159" y="-69"/>
+      <point x="140" y="-61" type="curve"/>
+>>>>>>> f89366613f7deb4f2f92cd6e0e905311aab6a3cc
       <point x="208" y="-90" type="line"/>
       <point x="77" y="21" type="line"/>
       <point x="38" y="-28" type="line" smooth="yes"/>

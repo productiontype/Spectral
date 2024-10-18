@@ -7,7 +7,11 @@
     <key>capHeight</key>
     <integer>660</integer>
     <key>copyright</key>
+<<<<<<< HEAD
     <string>Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)</string>
+=======
+    <string>Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/spectral)</string>
+>>>>>>> f89366613f7deb4f2f92cd6e0e905311aab6a3cc
     <key>descender</key>
     <integer>-241</integer>
     <key>familyName</key>
