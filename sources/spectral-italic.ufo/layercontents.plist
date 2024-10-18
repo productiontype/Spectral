@@ -6,5 +6,9 @@
       <string>foreground</string>
       <string>glyphs</string>
     </array>
+    <array>
+      <string>previous_overlapping</string>
+      <string>glyphs.previous_overlapping</string>
+    </array>
   </array>
 </plist>
