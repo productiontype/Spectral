@@ -6,12 +6,9 @@
       <string>foreground</string>
       <string>glyphs</string>
     </array>
-<<<<<<< HEAD
     <array>
       <string>previous_overlapping</string>
       <string>glyphs.previous_overlapping</string>
     </array>
-=======
->>>>>>> f89366613f7deb4f2f92cd6e0e905311aab6a3cc
   </array>
 </plist>
