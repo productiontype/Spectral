@@ -8,7 +8,7 @@ It supports Google Fonts Latin Pro glyph set, enabling the typesetting of Englis
 License
 -------
 
-Spectral is available under the SIL Open Font License v1.1, for more details see [OFL.txt](OFL.txt).
+Spectral is available under the SIL Open Font License v1.1, for more details see [ofl.txt](ofl.txt).
 
 Contributions
 -------------
